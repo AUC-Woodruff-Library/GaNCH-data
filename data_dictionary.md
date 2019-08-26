@@ -6,7 +6,7 @@ Some fields are repeatable, such as "Instance of", where an organization can be 
 
 Some fields are mapped to the same Wikidata property, such as "City", "County", and "State", all of which map to "located in the administrative territorial entity".
 
-* [Label (Organization)] - REQUIRED: the organization's name
+* [Label (Organization)](https://www.wikidata.org/wiki/Wikidata:Introduction#How_does_Wikidata_work?) - REQUIRED: the organization's name
 * [Instance of](https://www.wikidata.org/wiki/Property:P31) - REQUIRED: that class of which this subject is a particular example and member (subject typically an individual member with a proper name label) (i.e., library, archives, museum, gallery, etc.)
 * [Parent organization](https://www.wikidata.org/wiki/Property:P749) - OPTIONAL: parent organization of an organization, opposite of subsidiaries (P355)
 * [Address (located at street address)](https://www.wikidata.org/wiki/Property:P6375) - REQUIRED: full street address where subject is located. include building number through to post code. use also P669 if the street is known as a separate element
