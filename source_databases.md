@@ -9,3 +9,4 @@
 |ArtsGeorgia |	Directory of Directories |	https://www.artsgeorgia.net/directory/directory-of-directoriescalendars/ |	Meta |
 |Georgia Superior Court Clerks' Cooperative Authority |	Clerks |	https://www.gsccca.org/Clerks/ |	159 |
 |GeorgiaInfo	|Counties	|https://georgiainfo.galileo.usg.edu/topics/counties/	| 159|
+| IMLS | Georgia Museums List | https://docs.google.com/spreadsheets/d/104wXi8wh6VXIIjFJNYlrtphh9G7J7TxztVD-ZjhGF70/ | 491 |
