@@ -2,7 +2,7 @@
 | --- | --- |
 | [LYRASIS](https://www.lyrasis.org/Leadership/Pages/Catalyst-Fund.aspx) | Jessica Crouch |
 | [Heritage Emergency Response Alliance (HERA)](https://heraatlanta.wordpress.com/) | Tina Seetoo | 
-| [Heritage Emergency Response Alliance (HERA)](https://heraatlanta.wordpress.com/) | Sigourney Smuts | 
+| | Sigourney Smuts | 
 | [Georgia Public Library Service (GPLS), Georgia HomePLACE](https://georgialibraries.org/) | Angela Stanley |
 | [Digital Library of Georgia (DLG)](https://dlg.usg.edu/) | Sheila A McAlister |
 | [Georgia Association of Museums and Galleries](http://www.gamg.org/)| Matt Davis | 
