@@ -11,4 +11,4 @@
 | [South Arts](https://www.southarts.org/) | Mollie Quinlan-Hayes | 
 | [Georgia Emergency Management and Homeland Security Agency (GEMA/HS)](https://gema.georgia.gov/) | Vanessa Sims | 
 | [Georgia Department of Natural Resources (DNR), Historic Preservation Division](https://georgiashpo.org/) | Bill Hover | 
-| | Sigourney Smuts | 
+| [Georgia Archives](https://www.georgiaarchives.org/)| Sigourney Smuts | 
