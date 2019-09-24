@@ -16,6 +16,6 @@ Using Linked Open Data for Georgia's Natural, Cultural, and Historic Organizatio
 
 ## Data
 
-* [Data Dictionary](https://github.com/clifflandis/GaNCH/blob/master/data_dictionary.md) - Mapping metadata fields to Wikidata's schema
+* [Data Dictionary](https://github.com/clifflandis/GaNCH/blob/master/data/data_dictionary.md) - Mapping metadata fields to Wikidata's schema
 * [Data Sources](https://github.com/clifflandis/GaNCH/blob/master/data/data_sources.md) - Where we're getting the directory information
 * [Data Actions](https://github.com/clifflandis/GaNCH/blob/master/data/data_actions.md) - Step-by-step tracker of what we did
