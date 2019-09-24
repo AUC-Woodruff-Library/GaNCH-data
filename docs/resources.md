@@ -13,3 +13,4 @@ A list of helpful resources to learn more about the pieces of the the GaNCH proj
 ## OpenRefine
 * [OpenRefine](http://openrefine.org/) - Main OpenRefine page
 * [Wikidata:Tools/OpenRefine](https://www.wikidata.org/wiki/Wikidata:Tools/OpenRefine) - Using OpenRefine with Wikidata
+* [Reconciliation with Wikidata](https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation)
