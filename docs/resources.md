@@ -1,5 +1,5 @@
-# Resources
-A list of helpful resources to learn more about components of  when working on the GaNCH project
+# Resources & Tools
+A list of helpful resources to learn more about the pieces of the the GaNCH project
 
 ## Linked Open Data
 * [Intro to Linked Open Data for Libraries](http://hdl.handle.net/20.500.12322/auc.rwwlpub:0029)
@@ -9,3 +9,6 @@ A list of helpful resources to learn more about components of  when working on t
 
 ## Git / GitHub
 * [Intro to Git](https://guides.github.com/introduction/git-handbook/)
+
+## OpenRefine
+* [OpenRefine](http://openrefine.org/)
