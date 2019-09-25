@@ -26,6 +26,9 @@ Some fields are mapped to the same Wikidata property, such as "City", "County", 
 |[dissolved, abolished or demolished (P576)](https://www.wikidata.org/wiki/Property:P576)| date or point in time at which the subject ceased to exist as defined (use P730 for a building, see also discontinued date (P2669))| optional |
 |[parent organization (P749)](https://www.wikidata.org/wiki/Property:P749) | parent organization of an organization, opposite of subsidiaries (P355) | optional |
 |[subsidiaries (P355)](https://www.wikidata.org/wiki/Property:P355) | subsidiary of a company or organization, opposite of parent organization (P749) | optional |
+|[stated in (P248)](https://www.wikidata.org/wiki/Property:P248) | to be used in the references field to refer to the information document or database in which a claim is made; for qualifiers use P805 | REQUIRED |
+|[reference URL (P854)](https://www.wikidata.org/wiki/Property:P854) | should be used for internet URLs as references. Use P4656 for interwiki links | REQUIRED |
+|[retrieved (P813)](https://www.wikidata.org/wiki/Property:P854) | should be used for internet URLs as references. Use P4656 for interwiki links | REQUIRED |
 
 ### Examples
 * [McCain Library Special Collections](https://www.wikidata.org/wiki/Q56232938)
