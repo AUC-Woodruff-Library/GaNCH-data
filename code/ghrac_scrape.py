@@ -17,7 +17,7 @@ from datetime import datetime
 #create/open text file to write results to
 f = open("ghrac_data.txt","w+")
 #loop over each page in the range specified
-for i in range(200, 205): 
+for i in range(0, 1000): 
     quote_page = 'https://www.georgiaarchives.org/ghrac/print_view/?rec={}'.format(i)
 
 # query page and return html to variable 'page'
