@@ -13,3 +13,6 @@
 | [Georgia Emergency Management and Homeland Security Agency (GEMA/HS)](https://gema.georgia.gov/) | Vanessa Sims | 
 | [Georgia Department of Natural Resources (DNR), Historic Preservation Division](https://georgiashpo.org/) | Bill Hover | 
 | [Georgia Council for the Arts](http://gaarts.org/) | Karen Paty |
+| [Society of Georgia Archivists](https://soga.wildapricot.org/) - Outreach Committee "Hidden Archives" Project| Brittany Newberry |
+| [Society of Georgia Archivists](https://soga.wildapricot.org/) - Outreach 
+Committee "Hidden Archives" Project| Katie Twomey |
