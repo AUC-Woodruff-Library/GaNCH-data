@@ -6,7 +6,7 @@ Some fields are repeatable, such as "Instance of", where an organization can be 
 
 Some fields are mapped to the same Wikidata property, such as "City", "County", and "State", all of which map to "located in the administrative territorial entity".
 
-All fields that are sourceable are followed by two additional columns for the [reference URL (P854)](https://www.wikidata.org/wiki/Property:P854), noted as REF URL, and the date [retrieved (P813)](https://www.wikidata.org/wiki/Property:P813), noted as RET DAT.  This enables sourcing information at the individual value level.
+All fields that are sourceable are followed by two additional columns for the [reference URL (P854)](https://www.wikidata.org/wiki/Property:P854), noted as REF URL, and the date [retrieved (P813)](https://www.wikidata.org/wiki/Property:P813), noted as RET DAT.  This enables sourcing information at the individual value level.  These fields are always REQUIRED when present.
 
 | Metadata Field | Description and Constraints | Requirement |
 | --- | --- | --- |
@@ -29,7 +29,6 @@ All fields that are sourceable are followed by two additional columns for the [r
 |[dissolved, abolished or demolished (P576)](https://www.wikidata.org/wiki/Property:P576)| date or point in time at which the subject ceased to exist as defined (use P730 for a building, see also discontinued date (P2669))| optional |
 |[parent organization (P749)](https://www.wikidata.org/wiki/Property:P749) | parent organization of an organization, opposite of subsidiaries (P355) | optional |
 |[subsidiaries (P355)](https://www.wikidata.org/wiki/Property:P355) | subsidiary of a company or organization, opposite of parent organization (P749) | optional |
-|[stated in (P248)](https://www.wikidata.org/wiki/Property:P248) | to be used in the references field to refer to the information document or database in which a claim is made; for qualifiers use P805 | REQUIRED |
 
 ## Examples
 
