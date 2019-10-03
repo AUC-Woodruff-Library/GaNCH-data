@@ -15,7 +15,6 @@ All fields that are sourceable are followed by two additional columns for the [r
 |description (en)| brief description of the organization to help disambiguate, language must be defined | REQUIRED |
 |alias (en)| other names/spellings of the organization, language must be defined | optional |
 |[instance of (P31)](https://www.wikidata.org/wiki/Property:P31)| that class of which this subject is a particular example and member (subject typically an individual member with a proper name label) (i.e., library, archives, museum, gallery, etc.) | REQUIRED |
-|[PO Box (P2918)](https://www.wikidata.org/wiki/Property:P2918)| Post Office box number, as part of an address | optional |
 |[located at street address (P6375)](https://www.wikidata.org/wiki/Property:P6375)| full street address where subject is located. include building number through to post code. use also P669 if the street is known as a separate element | REQUIRED |
 |[city (P131)](https://www.wikidata.org/wiki/Property:P131)| the item is located on the territory of the following administrative entity | REQUIRED |
 |[county (P131)](https://www.wikidata.org/wiki/Property:P131)|the item is located on the territory of the following administrative entity | REQUIRED |
@@ -29,6 +28,9 @@ All fields that are sourceable are followed by two additional columns for the [r
 |[dissolved, abolished or demolished (P576)](https://www.wikidata.org/wiki/Property:P576)| date or point in time at which the subject ceased to exist as defined (use P730 for a building, see also discontinued date (P2669))| optional |
 |[parent organization (P749)](https://www.wikidata.org/wiki/Property:P749) | parent organization of an organization, opposite of subsidiaries (P355) | optional |
 |[subsidiaries (P355)](https://www.wikidata.org/wiki/Property:P355) | subsidiary of a company or organization, opposite of parent organization (P749) | optional |
+|[PO Box (P2918)](https://www.wikidata.org/wiki/Property:P2918)| Post Office box number, as part of an address | optional |
+|[Postal Code (P281)](https://www.wikidata.org/wiki/Property:P281) | identifier assigned by postal authorities for the subject area or building | optional |
+|[Facebook ID (P2013)](https://www.wikidata.org/wiki/Property:P2013) | official identifier for a person, product or organization in Facebook - everything after https://www.facebook.com/ | optional |
 
 ## Examples
 
