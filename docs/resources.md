@@ -16,6 +16,12 @@ A list of helpful resources to learn more about the pieces of the the GaNCH proj
 
 * [Intro to Git](https://guides.github.com/introduction/git-handbook/)
 
+## VS Code
+* [Visual Studio Code](https://code.visualstudio.com/) - Text and code editor with a built-in terminal. Free and easy to learn interface.
+* [Edit CSV extension](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv) - Edit CSV files in spreadsheet format within VS Code.  We don't use MS Excel since it reformats content (dates, etc.).
+* [markdownlint extension](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Helps with formatting markdown files.  We're writing all our documentation in markdown because it provides human- and machine-readable rich text formatting.
+* [python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Python for VS Code.
+
 ## OpenRefine
 
 * [OpenRefine](http://openrefine.org/) - Main OpenRefine page
