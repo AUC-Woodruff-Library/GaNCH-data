@@ -10,7 +10,7 @@
 | [Savannah Heritage Emergency Response (SHER)](https://sheronline.info/) | Glenda Anderson | 
 | [Performing Arts Readiness](https://performingartsreadiness.org/) | Steve Eberhardt | 
 | [South Arts](https://www.southarts.org/) | Mollie Quinlan-Hayes | 
-| [Georgia Emergency Management and Homeland Security Agency (GEMA/HS)](https://gema.georgia.gov/) | Vanessa Sims | 
+| [Georgia Emergency Management and Homeland Security Agency (GEMA/HS)](https://gema.georgia.gov/) | Venessa Sims | 
 | [Georgia Department of Natural Resources (DNR), Historic Preservation Division](https://georgiashpo.org/) | Bill Hover | 
 | [Georgia Council for the Arts](http://gaarts.org/) | Karen Paty |
 | [Society of Georgia Archivists](https://soga.wildapricot.org/) - Outreach Committee "Hidden Archives" Project| Brittany Newberry |
