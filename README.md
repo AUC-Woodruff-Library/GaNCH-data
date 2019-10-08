@@ -10,14 +10,14 @@ This one-year project will create a publicly editable directory of Georgia’s N
 
 ### Setup
 
-* [Final GaNCH Grant Proposal - Costs Redacted](https://github.com/clifflandis/GaNCH/blob/master/docs/AUCRWWL_CF19_Proposal_021919_FINAL_CostRedacts.pdf)
-* [Job Description: Graduate Student Assistant](https://github.com/clifflandis/GaNCH/blob/master/docs/2019-06-26_GaNCH_Job%20Description_Student%20Assistant.pdf)
-* [Press](https://github.com/clifflandis/GaNCH/blob/master/docs/press.md) - Annoucements, press releases, blog posts, publications, and presentations related to the project
-* [Resources](https://github.com/clifflandis/GaNCH/blob/master/docs/resources.md) - Resources and tools used for GaNCH
+* [Final GaNCH Grant Proposal - Costs Redacted](/docs/AUCRWWL_CF19_Proposal_021919_FINAL_CostRedacts.pdf)
+* [Job Description: Graduate Student Assistant](/docs/2019-06-26_GaNCH_Job%20Description_Student%20Assistant.pdf)
+* [Press](/docs/press.md) - Annoucements, press releases, blog posts, publications, and presentations related to the project
+* [Resources](/docs/resources.md) - Resources and tools used for GaNCH
 
 ### Partners
 
-* [Project Partners List](https://github.com/clifflandis/GaNCH/blob/master/docs/project_partners.md) - The organizations that we're partnering with in Georgia to supply directory information, including a point of contact at each organization
+* [Project Partners List](/docs/project_partners.md) - The organizations that we're partnering with in Georgia to supply directory information, including a point of contact at each organization
 * [2019-08-29 GaNCH Partners Meeting](https://archive.org/details/2019-08-29_ganch_partners_meeting)
 
 ### Workflow
@@ -25,6 +25,7 @@ This one-year project will create a publicly editable directory of Georgia’s N
 * Compile (Jul – Sep, 2019). Graduate Student Assistant (GSA) will use existing data lists (such as the Directory of Historical and Cultural Organizations) as a starting point. Data will be reformatted into a spreadsheet.
 * Update (Oct – Dec, 2019). GSA will use web, email, and phone research to confirm that the data is correct and add any updates as necessary.
 * Source (Oct – Dec, 2019). Each item will be sourced with references to allow for verification of the updates.
+  * [Phone Script](/docs/phone_script.md)
 * Reconcile (Jan, 2020). Using OpenRefine, the spreadsheet will be reconciled against Wikidata’s schema.
 * Upload (Feb, 2020). Updates will be uploaded to Wikidata.
 * Access (Feb - Apr, 2020). Web Developer will create a website to display results at the City, County, and State level.
@@ -33,6 +34,6 @@ This one-year project will create a publicly editable directory of Georgia’s N
 
 ## Data
 
-* [Data Dictionary](https://github.com/clifflandis/GaNCH/blob/master/data/data_dictionary.md) - Mapping metadata fields to Wikidata's schema
-* [Data Sources](https://github.com/clifflandis/GaNCH/blob/master/data/data_sources.md) - Where we're getting the directory information
-* [Data Actions](https://github.com/clifflandis/GaNCH/blob/master/data/data_actions.md) - Step-by-step tracker of what we did
+* [Data Dictionary](/data/data_dictionary.md) - Mapping metadata fields to Wikidata's schema
+* [Data Sources](/data/data_sources.md) - Where we're getting the directory information
+* [Data Actions](/data/data_actions.md) - Step-by-step tracker of what we did
