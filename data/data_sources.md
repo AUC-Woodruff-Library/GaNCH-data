@@ -2,7 +2,7 @@
 | --- | --- | --- | --- | --- |
 |[GHRAC](GHRAC.csv)| Georgia Historical Records Advisory Council| Directory of Historical and Cultural Organizations | https://apps.georgiaarchives.org/GHRAB/ | 641 |
 |GHSOC|Georgia Historical Society |	Affiliate Chapter List by County | https://georgiahistory.com/education-outreach/affiliate-chapter-program/affiliate-chapter-list-by-county/ | 44+36+47 = 127 |
-|[GAMAG](GAMAG.csv)|Georgia Association of Museums and Galleries |	Museum Links |	http://www.gamg.org/museumlinks.html |154 (including commented-out ones) |
+|[GAMAG](GAMAG.csv)|Georgia Association of Museums and Galleries |	Museum Links |	http://www.gamg.org/museumlinks.html |155 |
 |GPLSV|Georgia Public Library Service |	All Public Library Facilities |	https://georgialibraries.org/allpubliclibraryfacilities/	| 392 |
 |GALIL| GALILEO	| Participating Institutions	| https://about.galileo.usg.edu/institutions	| 93 |
 |TCSOG| Technical College System of Georgia	| Find a College |	https://tcsg.edu/find-a-college/ |	22|
