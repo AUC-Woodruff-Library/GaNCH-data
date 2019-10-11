@@ -29,10 +29,11 @@ A list of helpful resources to learn more about the pieces of the the GaNCH proj
 * [Reconciliation with Wikidata](https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation)
 * [Advanced Schemas](https://www.wikidata.org/wiki/Wikidata:Tools/OpenRefine/Editing/Advanced_schemas)
 
-## Web Scraping
+## Web Scraping / Data Cleanup
 
 * [HTML Table to CSV/Excel Converter](http://www.convertcsv.com/html-table-to-csv.htm)
 * [How to scrap websites with Python and BeautifulSoup](https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe/)
+* [ListDiff](http://www.listdiff.com/) - Compare two different lists, helpful for comparing indexes to prevent duplicating work.
 
 ## Coordinate Locations / Counties
 
