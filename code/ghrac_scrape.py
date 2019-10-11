@@ -17,7 +17,7 @@ from datetime import datetime
 #create/open text file to write results to
 f = open("ghrac_data.txt","w+")
 #loop over each page in the range specified
-for i in range(100, 105): 
+for i in range(0, 1000): 
     quote_page = 'https://www.georgiaarchives.org/ghrac/print_view/?rec={}'.format(i)
 
 # query page and return html to variable 'page'
@@ -34,22 +34,13 @@ for i in range(100, 105):
         f.write("RECORD NUMBER|"+ num + "|")  #write page number as "record number"
         f.write("ORGANIZATION|" + name + "|")  #write h2 tag contents as "organization"
     else:
-        # f.write("{'RECORD NUMBER': '" + num + "', ") # write page number as "record number"
-        # f.write(str(i) + " is an Empty Record" + "\n") # record is empty, record as such
         continue  # if the record is empty, just continue on to table contents
 
 # grab the table
     table_data = soup.find('table')
-#for table_strip in table_data.children:
-    #find = soup.find_all("strong", string=['CATEGORY', 'COUNTY', 'MAILING ADDRESS'])
-    print(table_data.strong)
-    results = table_data.get_text("|", strip=True) + "\n"
-    f.write(results)
-#    table_strip = table_data.text.strip()
-#print(table_strip)
+    results = table_data.get_text("|", strip=True) + "\n" # grab each cell seperated with a pipe
+    f.write(results) # write the results to the file
+    print(name_box.text) # print the organization name to the console to watch the script process through
+
 print("GHRAB Scrape Complete!")
 f.close()
-#open a csv file with append, so old data won't be erased
-#with open('ghrab.csv', 'a') as csv_file:
-#    writer = csv.writer(csv_file)
-#    writer.writerow(name, table_data, datetime.now())
