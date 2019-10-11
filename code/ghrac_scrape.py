@@ -17,7 +17,7 @@ from datetime import datetime
 #create/open text file to write results to
 f = open("ghrac_data.txt","w+")
 #loop over each page in the range specified
-for i in range(100, 102): 
+for i in range(100, 105): 
     quote_page = 'https://www.georgiaarchives.org/ghrac/print_view/?rec={}'.format(i)
 
 # query page and return html to variable 'page'
@@ -31,8 +31,8 @@ for i in range(100, 102):
     num = str(i)
     if name_box != None:  #test if there is an organization title on the page, if not, skip to else
         name = name_box.text.strip()  # strip out the starting and trailing tags
-        f.write("{'RECORD NUMBER': '" + num + "', ")  #write page number as "record number"
-        f.write("'ORGANIZATION': '" + name + "', ")  #write h2 tag contents as "organization"
+        f.write("RECORD NUMBER|"+ num + "|")  #write page number as "record number"
+        f.write("ORGANIZATION|" + name + "|")  #write h2 tag contents as "organization"
     else:
         # f.write("{'RECORD NUMBER': '" + num + "', ") # write page number as "record number"
         # f.write(str(i) + " is an Empty Record" + "\n") # record is empty, record as such
@@ -42,8 +42,8 @@ for i in range(100, 102):
     table_data = soup.find('table')
 #for table_strip in table_data.children:
     #find = soup.find_all("strong", string=['CATEGORY', 'COUNTY', 'MAILING ADDRESS'])
-    print(table_data.strong.stripped_strings)
-    results = table_data.get_text(",", strip=True) + "}\n"
+    print(table_data.strong)
+    results = table_data.get_text("|", strip=True) + "\n"
     f.write(results)
 #    table_strip = table_data.text.strip()
 #print(table_strip)
