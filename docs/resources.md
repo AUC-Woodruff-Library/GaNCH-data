@@ -55,6 +55,6 @@ A list of helpful resources to learn more about the pieces of the the GaNCH proj
 * Wikidata intiatives:  
   * [FindingGLAMs Campaign](https://meta.wikimedia.org/wiki/FindingGLAMs_Campaign) - "Help us put cultural heritage institutions on the map!" Crowdsource cultural heritage data around the world, October 8–29, 2019.
   * [WikiProject Heritage institutions](https://www.wikidata.org/wiki/Wikidata:WikiProject_Heritage_institutions)
-  * [WikiProject Heritage institutions/Typology](https://www.wikidata.org/wiki/Wikidata:WikiProject_Heritage_institutions/Typology#Proposed_thesaurus_for_archives)
+  * [WikiProject Heritage institutions/Typology](https://www.wikidata.org/wiki/Wikidata:WikiProject_Heritage_institutions/Typology)
   * [WikiProject Libraries](https://www.wikidata.org/wiki/Wikidata:WikiProject_Libraries)
   * [WikiProject Museums](https://www.wikidata.org/wiki/Wikidata:WikiProject_Museums)
