@@ -52,3 +52,4 @@ A list of helpful resources to learn more about the pieces of the the GaNCH proj
 
 * [RepoData](https://github.com/tanseyem/RepoData)
 * [LD4-Wikidata Affinity Group](https://wiki.duraspace.org/display/LD4P2/LD4-Wikidata+Affinity+Group)
+* [FindingGLAMs Campaign](https://meta.wikimedia.org/wiki/FindingGLAMs_Campaign) - "Help us put cultural heritage institutions on the map!" Crowdsource cultural heritage data around the world, October 8–29, 2019.
