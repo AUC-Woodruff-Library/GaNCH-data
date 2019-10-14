@@ -3,19 +3,18 @@
 # Project Name - GANaCH
 # File Author(s): Cliff Landis <jlandis@auctr.edu>  
 # License: GPLv3
-# Description / Purpose: Scrape GHRAC database entries and write them to a text file
-# Dependencies / Libraries / Modules: urllib, BeautifulSoup, csv, datetime
+# Description / Purpose: Scrape GHRAC database entries and write them to a text file, seperated by a pipe, for processing in Excel into a CSV
+# Dependencies / Libraries / Modules: urllib, BeautifulSoup
 #  
 #######################################  
 
 # import libraries
 import urllib.request as urllib
 from bs4 import BeautifulSoup
-import csv
-from datetime import datetime
 
 #create/open text file to write results to
 f = open("ghrac_data.txt","w+")
+
 #loop over each page in the range specified
 for i in range(0, 1000): 
     quote_page = 'https://www.georgiaarchives.org/ghrac/print_view/?rec={}'.format(i)
