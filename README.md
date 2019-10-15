@@ -6,6 +6,11 @@ The [Atlanta University Center Robert W. Woodruff Library](https://www.auctr.edu
 
 This one-year project will create a publicly editable directory of Georgia’s Natural, Cultural and Historical Organizations (NCHs), allowing for quick retrieval of location and contact information for disaster response. Directory information will be compiled, updated, and uploaded to Wikidata, the linked open data database from the Wikimedia Foundation. Directory information will then be delivered via a website, allowing emergency responders to quickly search for NCHs in disaster areas.
 
+## Data
+
+* [Data Dictionary](/data/data_dictionary.md) - Mapping metadata fields to Wikidata's schema
+* [Data Sources](/data/data_sources.md) - Where we're getting the directory information
+
 ## Documentation
 
 ### Setup
@@ -22,22 +27,16 @@ This one-year project will create a publicly editable directory of Georgia’s N
 
 ### Workflow
 
-* Compile (Jul – Sep, 2019). Graduate Student Assistant (GSA) will use a curated list of [data sources](/data/data_sources.md) as a starting point. Data from each source will be reformatted into a CSV spreadsheet.
-  * HTML lists (like GAMAG) will be reformatted into CSV by hand using [VS Code's multi-cursor](https://code.visualstudio.com/docs/getstarted/tips-and-tricks#_multi-cursor-selection) capabilities for batch editing.
-  * Straightforward tables (like GPLSV) will be harvested using the [HTML Table to CSV/Excel Converter](http://www.convertcsv.com/html-table-to-csv.htm)
-  * Complex tables (like GHRAC) will be harvested using a simple python script which will dump data into a pipe-delimited text file, which can then be reformatted into CSV by hand using VS Code's multi-cursor capabilities for batch editing.
-* Update (Oct – Dec, 2019). GSA will use web, email, and phone research to confirm that the data is correct and add any updates as necessary.
+* Compile (Jul – Sep, 2019). Graduate Student Assistant (GSA) uses a curated list of [data sources](/data/data_sources.md) as a starting point. Data from each source is reformatted into its own spreadsheet matching a [CSV template](/data/TEMPLATE.csv).
+  * HTML lists (like GAMAG) are reformatted into CSV by hand using [VS Code's multi-cursor](https://code.visualstudio.com/docs/getstarted/tips-and-tricks#_multi-cursor-selection) capabilities for batch editing.
+  * Straightforward tables (like GPLSV) are harvested using the [HTML Table to CSV/Excel Converter](http://www.convertcsv.com/html-table-to-csv.htm)
+  * Complex tables (like GHRAC) are harvested using simple python scripts which dump data into pipe-delimited text files.  These are then imported into Excel, reformatted, and exported as CSV.
+* Update (Oct – Dec, 2019). GSA uses web, email, and phone research to confirm that the data is correct and add any updates as necessary.
   * [Phone Script](/docs/phone_script.md)
-* Source (Oct – Dec, 2019). Each item will be sourced with references to allow for verification of the updates.
-  * Web-based references will be captured and dated using the Internet Archive Wayback Machine's [Save Page Now](https://web.archive.org/save) tool.
-* Reconcile (Jan, 2020). Using OpenRefine, the spreadsheet will be reconciled against Wikidata’s schema.
-* Upload (Feb, 2020). Updates will be uploaded to Wikidata.
-* Access (Feb - Apr, 2020). Web Developer will create a website to display results at the City, County, and State level.
-* Maintain (Mar – May, 2020). Web Developer will create an automated process to email NCHs annually to request updates. Partner organizations (see below) will assist in annual updates.
-* Promote (Apr – Jun, 2020). Partner organizations have expressed an interest in providing outreach to NCHs.
-
-## Data
-
-* [Data Dictionary](/data/data_dictionary.md) - Mapping metadata fields to Wikidata's schema
-* [Data Sources](/data/data_sources.md) - Where we're getting the directory information
-* [Data Actions](/data/data_actions.md) - Step-by-step tracker of what we did
+* Source (Oct – Dec, 2019). Each item is sourced with references to allow for verification of the updates.
+  * Web-based references are captured and dated using the Internet Archive Wayback Machine's [Save Page Now](https://web.archive.org/save) tool.
+* Reconcile (Jan, 2020). Using OpenRefine, the spreadsheets are reconciled against Wikidata’s schema.
+* Upload (Feb, 2020). Updates are uploaded to Wikidata.
+* Access (Feb - Apr, 2020). Web Developer creates a website to display results at the City, County, and State level.
+* Maintain (Mar – May, 2020). Web Developer creates an automated process to email NCHs annually to request updates. [Partner organizations](/docs/project_partners.md) assist in annual updates.
+* Promote (Apr – Jun, 2020). Partner organizations provide outreach to NCHs.
