@@ -7,7 +7,7 @@
 | [Digital Library of Georgia (DLG)](https://dlg.usg.edu/) | Sheila A McAlister |
 | [Georgia Association of Museums and Galleries](http://www.gamg.org/)| Matt Davis | 
 | [Georgia Historical Records Advisory Council (GHRAC)](https://www.georgiaarchives.org/ghrac) | Glenda Anderson | 
-| [Savannah Heritage Emergency Response (SHER)](https://sheronline.info/) | Glenda Anderson | 
+| [Savannah Heritage Emergency Response (SHER)](https://sheronline.info/) | Laura Waller | 
 | [Performing Arts Readiness](https://performingartsreadiness.org/) | Steve Eberhardt | 
 | [South Arts](https://www.southarts.org/) | Mollie Quinlan-Hayes | 
 | [Georgia Emergency Management and Homeland Security Agency (GEMA/HS)](https://gema.georgia.gov/) | Venessa Sims | 
