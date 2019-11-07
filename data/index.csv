@@ -1,558 +1,667 @@
 Org Code,Organization Name
-0001,6th Cavalry Museum
-0002,Albany Museum of Art
-0003,Allman Brothers Band Museum at the Big House
-0004,Annette Howell Turner Center for the Arts
-0005,ArtsGeorgia Inc.
-0006,Atlanta Federal Reserve Bank Monetary Museum
-0007,Atlanta History Center
-0008,Augusta Canal
-0009,Augusta Museum of History
-0010,Averitt Center for the Arts
-0011,Bandy Heritage Center for Northwest Georgia
-0012,Barrington Hall
-0013,Bartow History Museum
-0014,Blue and Gray Museum
-0015,Blue Ridge Mountain Arts Association
-0016,Booth Western Art Museum
-0017,Bowdon Area Historical Society
-0018,Breman Jewish Heritage Museum
-0019,Brenau University Galleries
-0020,Bulloch County Historical Society
-0021,Bulloch Hall
-0022,Butts County Historical Society
-0023,Calhoun-Gordon Arts Council
-0024,Cannonball House
-0025,Center For Puppetry Arts
-0026,Cherokee County Historical Society
-0027,Chieftains Museum
-0028,Church-Waddel-Brumby House
-0029,"Coastal Heritage Society, Inc."
-0030,William Root House Museum & Garden
-0031,Collectible and Antique Chair Gallery
-0032,Colquitt County Arts Center
-0033,Columbus Museum
-0034,Crawford W. Long Museum
-0035,Cultural Arts Council of Douglasville/Douglas County
-0036,Currahee Military Museum
-0037,Decatur County Historical and Genealogical Society
-0038,Dekalb History Center
-0039,Dorchester Academy
-0040,Douglas County Museum of History & Art
-0041,Elachee Nature Science Center
-0042,Elberton Granite Museum and Exhibit
-0043,Moreland Hometown Heritage Museum
-0044,Euharlee History Museum
-0045,First African Baptist Church
-0046,Flannery O'Connor–Andalusia Foundation
-0047,Fort Valley Downtown Development Authority/Main Street
-0048,Foxfire Museum and Heritage Center
-0049,"Friends of Scull Shoals, Inc."
-0050,Funk Heritage Center of Reinhardt University
-0051,William P. Wall Museum of Natural History
-0052,Georgia College Museum of Fine Arts
-0053,Georgia Humanities Council
-0054,Georgia Museum of Art
-0055,Georgia Southern University Museum
-0056,Hay House
-0057,"Georgia's Old Capital Museum Society, Inc."
-0058,Gilmer County Historical Society
-0059,Glennville Tattnall Museum
-0060,Hazlehurst–Jeff Davis Historical Museum Society
-0061,Heard County Historical Center and Museum
-0062,Heritage Station Museum
-0063,Herndon Home Museum
-0064,Hickory Hill
-0065,High Museum of Art
-0066,Hills and Dales Estate
-0067,Historic Banning Mills
-0068,"Historic Columbus Foundation, Inc."
-0069,Historic Macon Foundation
-0070,Sidney Lanier Cottage
-0071,Historic Oakland Foundation
-0072,Hudgens Center for the Arts
-0073,Isaiah Davenport House Museum
-0074,Jack Hadley Black History Museum
-0075,Towns Bluff Park & Heritage Center
-0076,Mosaic the Jekyll Island Museum
-0077,Jimmy Carter Library and Museum
-0078,Juliette Gordon Low Birthplace
-0079,Museum of History and Holocaust Education
-0080,LaGrange Woman's Club Bellevue
-0081,Laurens County Historical Society
-0082,LeConte Woodmanston Foundation
-0083,Lowndes County Historical Society and Museum
-0084,Lucy Craft Laney Museum of Black History and Conference Center
-0085,Lyndon House Arts Center
-0086,Madison-Morgan Cultural Center
-0087,Marietta Fire Museum
-0088,Marietta Museum of History
-0089,Marietta/Cobb Museum of Art
-0090,Marsh House of LaFayette
-0091,"Martin Luther King, Jr. National Historic Site"
-0092,Michael C. Carlos Museum Emory University
-0093,Monroe-Walton Center for the Arts
-0094,Monroe County Historical Society
-0095,Morris Museum of Art
-0096,Museum of Arts and Sciences
-0097,Museum of Aviation & Flight Technology Center
-0098,Museum of Colquitt County History
-0099,Museum of Contemporary Art of Georgia
-0100,Museum School of Avondale Estates
-0101,Newnan-Coweta Historical Society
-0102,Northeast Georgia History Center at Brenau University
-0103,Oak Hill and Martha Berry Museum
-0104,Ocmulgee National Monument Association
-0105,Oglethorpe University Museum of Art
-0106,Folkston Railroad Transportation Museum
-0107,Douglas County Museum of History and Art
-0108,Old Jail Museum and Genealogy Research Center
-0109,Oliver Cesair Gallery
-0110,Pebble Hill Plantation
-0111,Polk County Historical Society Museum
-0112,Port Columbus Civil War Naval Museum
-0113,Ralph Mark Gilbert Civil Rights Museum
-0114,Robert C. Williams Paper Museum
-0115,Rock Hawk Effigy & Trails
-0116,Roland Hayes Museum
-0117,Rome Area History Museum
-0118,Rose Lawn Museum
-0119,Saint Marys Submarine Museum
-0120,Saint Simons Island Lighthouse Museum
-0121,Salvation Army Southern Historical Center
-0122,Sautee Nacoochee Arts and Community Association
-0123,Asa H. Gordon Library at Savannah State University
-0124,SCAD Museum of Art
-0125,Senoia Area Historical Society
-0126,Shields Ethridge Heritage Farm
-0127,Ships of the Sea Maritime Museum
-0128,Shorter University Museum & Archives
-0129,Sidney Lanier Cottage House Museum
-0130,Smith Plantation
-0131,Smith-Gilbert Gardens
-0132,Smyrna Historical Society and Museum
-0133,Southeastern Museums Conference (SEMC)
-0134,Southeastern Quilt and Textile Museum
-0135,South Arts Inc
-0136,Southern Museum of Civil War and Locomotive History
-0137,Spruill Center for the Arts
-0138,Steffen Thomas Museum and Archives
-0139,Stone Mountain Park
-0140,Telfair Academy
-0141,Tellus Science Museum
-0142,Old Governor's Mansion
-0143,Old School History Museum 
-0144,Thomasville History Center
-0145,Thronateeska Heritage Center
-0146,Tifton Museum of Arts and Heritage
-0147,Tifton Terminal Train Museum
-0148,Troup County Historical Society Archives
-0149,Ty Cobb Museum
-0150,Uncle Remus Museum Inc.
-0151,Washington County Historical Society
-0152,Tunnel Hill Heritage Center & Museum
-0153,Historic Westville
-0154,Whitfield-Murray Historical Society
-0155,Jepson Center
-0156,Owens-Thomas House & Slave Quarters
-0157,Brown House Museum
-0158,Old City Cemetary
-0159,Warthen Old Jail
-0160,Charles E. Choate
-0161,Washington County Courthouse
-0162,Jefferson Davis’ Heritage Trail & Sherman’s March to the Sea Trail
-0163,Hamburg State Park
-0164,Thomas Jefferson Elder Community Center
-0165,Sandersville School
-0166,Fairmount City Library
-0167,Newnan Carnegie
-0168,Sayers Memorial Library
-0169,Smyrna Public Library
-0170,Athens-Clarke County Library
-0171,Bogart Branch Library
-0172,East Athens Community Resource Center
-0173,Lavonia-Carnegie Library
-0174,Lay Park Community Resource Center
-0175,Madison County Library
-0176,Oconee County Library
-0177,Oglethorpe County Library
-0178,Pinewoods Community Library and Education Center
-0179,Royston Branch Library
-0180,Winterville Library
-0181,Adams Park Branch
-0182,Adamsville-Collier Heights Branch
-0183,Alpharetta Library
-0184,Auburn Avenue Research Library
-0185,Buckhead Branch
-0186,Central Library (Atlanta-Fulton PLS)
-0187,Cleveland Avenue Branch
-0188,College Park Branch
-0189,Dogwood Branch
-0190,East Atlanta Branch
-0191,East Point Branch
-0192,East Roswell Branch
-0193,Fairburn Branch
-0194,Hapeville Branch
-0195,Kirkwood Branch
-0196,Martin Luther King Jr Branch
-0197,Mechanicsville Branch
-0198,Metropolitan Branch
-0199,Milton Branch
-0200,Northeast/Spruill Oaks Branch
-0201,Northside Branch
-0202,Northwest Branch at Scotts Crossing
-0203,Ocee Branch
-0204,Palmetto Branch
-0205,Peachtree Branch
-0206,Ponce de Leon Branch
-0207,Roswell Branch
-0208,Sandy Springs Branch
-0209,South Fulton Branch
-0210,Southeast Atlanta Branch
-0211,Southwest Branch
-0212,Washington Park Branch
-0213,West End Branch
-0214,Wolf Creek Branch
-0215,Appleby Branch Library
-0216,Augusta-Richmond County Public Library
-0217,Diamond Lakes Branch Library
-0218,Friedman Branch Library
-0219,Jeff Maxwell Branch Library
-0220,Wallace Branch Library
-0221,Adairsville Public Library
-0222,Cartersville Main Street Library
-0223,Emmie Nelson Library
-0224,Mary Willis Library
-0225,Taliaferro County Library
-0226,Thomson-McDuffie County Library
-0227,Brooks County Public Library
-0228,Catoosa County Library at Benton Place Campus
-0229,Columbus Public Library
-0230,Cusseta - Chattahoochee Public Library
-0231,Marion County Library
-0232,Mildred L. Terry Branch Library
-0233,North Columbus Branch Library
-0234,Parks Memorial Public Library
-0235,South Columbus Branch Library
-0236,Chattooga County Library
-0237,Trion Public Library
-0238,Chickamauga Public Library
-0239,Dade County Library
-0240,LaFayette-Walker County Public Library
-0241,Rossville Public library
-0242,Chestatee Regional Satellite Library
-0243,Dawson County Library
-0244,Lumpkin County Library
-0245,Clayton County Headquarters Library
-0246,Jonesboro Library
-0247,Lovejoy Library
-0248,Morrow Library
-0249,Northeast Clayton/Forest Park Library
-0250,Riverdale Library
-0251,Carrie Dorsey Perry Memorial Library
-0252,Coastal Plain Headquarters Library
-0253,Cook County Library
-0254,Fitzgerald-Ben Hill County Library
-0255,Irwin County Library
-0256,Tifton-Tift County Public Library
-0257,Victoria Evans Memorial Library
-0258,Acworth Library
-0259,"Central Library, Cobb Co. PLS"
-0260,East Cobb Library
-0261,East Marietta Library
-0262,Gritters Library
-0263,Hattie G. Wilson Library
-0264,Kemp Memorial Library
-0265,Kennesaw Library
-0266,Lewis A Ray Library
-0267,Mountain View Regional Library
-0268,Powder Springs Library
-0269,Sibley Library
-0270,South Cobb Library
-0271,Stratton Library
-0272,Sweetwater Valley Library
-0273,Vinings Library
-0274,West Cobb Regional Library
-0275,Nancy Guinn Memorial Library
-0276,A. Mitchell Powell Jr. Branch
-0277,Central Library--Coweta
-0278,Grantville Branch
-0279,Senoia Branch
-0280,Brookhaven Library
-0281,Chamblee Library
-0282,Clarkston Library
-0283,Covington Library
-0284,Decatur Library
-0285,Doraville Library
-0286,Dunwoody Library
-0287,Embry Hills Library
-0288,Flat Shoals Library
-0289,Gresham Library
-0290,Hairston Crossing Library
-0291,Lithonia-Davidson Library
-0292,Northlake-Barbara Loar Branch
-0293,Redan-Trotti Branch
-0294,Salem-Panola Library
-0295,Scott Candler Library
-0296,Scottdale-Tobie Grant Library
-0297,Stone Mountain-Sue Kellogg Library
-0298,Stonecrest Library
-0299,Toco Hill-Avis G. Williams Library
-0300,Tucker-Reid H. Cofer Library
-0301,Wesley Chapel-William C. Brown Library
-0302,Baker County Library
-0303,DeSoto Trail Regional Library
-0304,Jakin Public Library
-0305,Lucy Maddox Memorial Library
-0306,Pelham Carnegie Library
-0307,Sale City Public Library
-0308,"Central Library, Dougherty Co. PLS"
-0309,Northwest Library
-0310,Southside Branch Library
-0311,Tallulah Massey Library
-0312,Westtown Library
-0313,Bowman Branch
-0314,Elbert County Public Library
-0315,Barnesville-Lamar County Library
-0316,Fayette County Public Library
-0317,Griffin-Spalding County Library
-0318,J. Joel Edwards Public Library
-0319,Jackson-Butts County Public Library
-0320,Monroe County Library
-0321,Peachtree City Library
-0322,Tyrone Public Library
-0323,Cumming Branch & Headquarters
-0324,Hampton Park Library
-0325,Post Road Library
-0326,Sharon Forks Library
-0327,Burke County Library
-0328,Columbia County Library
-0329,Euchee Creek Library
-0330,Harlem Library
-0331,Lincoln County Library
-0332,Midville Library
-0333,Sardis County Library
-0334,Warren County Library
-0335,Buford-Sugar Hill Branch
-0336,Centerville Branch
-0337,Collins Hill Branch
-0338,Dacula Branch
-0339,Duluth Branch
-0340,Elizabeth H. Williams Branch (Snellville)
-0341,Five Forks
-0342,Grayson Branch
-0343,Hamilton Mill Branch
-0344,Library Headquarters and Lawrenceville Branch
-0345,Lilburn Branch
-0346,Mountain Park Branch
-0347,Norcross Branch
-0348,Peachtree Corners Branch
-0349,Suwanee Branch Library
-0350,North Hall Technology Center Branch
-0351,Blackshear Place Branch
-0352,Gainesville Library
-0353,Murrayville Branch
-0354,Spout Springs Branch
-0355,Hart County Library
-0356,Cochran Public Library
-0357,Fairview Public Library
-0358,Fortson Public Library
-0359,Locust Grove Public Library
-0360,McDonough Public Library
-0361,Centerville Branch Library
-0362,Nola Brantley Memorial Library
-0363,Perry Public Library
-0364,Louisville Public Library
-0365,McCollum Public Library
-0366,Wadley Public Library
-0367,Calhoun County Library
-0368,Clay County Library
-0369,Quitman County Library
-0370,Randolph County Library
-0371,Terrell County Public Library
-0372,Webster County Library
-0373,Byromville Public Library
-0374,Cordele-Crisp Carnegie Library
-0375,Dooly County Library
-0376,Elizabeth Harris Library
-0377,Lake Blackshear Headquarters Library
-0378,Schley County Library
-0379,Leesburg Library
-0380,Oakland Library
-0381,Redbone Library
-0382,Smithville Library
-0383,Bull Street Library
-0384,Carnegie Library
-0385,Forest City Library
-0386,Garden City Library
-0387,Hinesville Library
-0388,Islands Library
-0389,Midway-Riceboro Library
-0390,Oglethorpe Mall Library
-0391,Pooler Library
-0392,Port City Library
-0393,Rincon Library
-0394,Southwest Chatham Library
-0395,Springfield Library
-0396,Tybee Library
-0397,W W Law Library
-0398,West Broad Library
-0399,Brunswick-Glynn County Library
-0400,St. Simons Island Public Library
-0401,Charles A Lanford Library
-0402,Crawford County Public Library
-0403,East Wilkinson County Public Library
-0404,Gordon Public Library
-0405,Ideal Public Library
-0406,Jones County Public Library
-0407,Marshallville Public Library
-0408,Montezuma Public Library
-0409,Oglethorpe Public Library
-0410,Riverside Branch
-0411,Shurling Branch
-0412,Twiggs County Public Library
-0413,Washington Memorial Library
-0414,Doerun Municipal Library
-0415,Moultrie-Colquitt County Library
-0416,Fannin County Public Library
-0417,Mountain Regional Library
-0418,Towns County Public Library
-0419,Union County Public Library
-0420,Covington Branch Library
-0421,Newton County Newborn Branch
-0422,Porter Memorial Branch Library
-0423,Clarkesville-Habersham County Library
-0424,Cornelia-Habersham Co. Lib.
-0425,Rabun Co. Public Library
-0426,Toccoa-Stephens Co. Lib.
-0427,White Co. Lib.-Cleveland Branch
-0428,White Co. Lib.-Helen Branch
-0429,Calhoun-Gordon County Library
-0430,Chatsworth-Murray County Library
-0431,Dalton-Whitfield County Public Library
-0432,M. E. Roden Memorial Library
-0433,Murrell Memorial Library (Dodge County Library)
-0434,Telfair County Library
-0435,Tessie W. Norris/Cochran-Bleckley County Library
-0436,Wheeler County Library
-0437,Wilcox County Library
-0438,Glascock County Library
-0439,Harlie Fulford Memorial Library
-0440,Laurens County Library
-0441,Rosa M. Tarbutton Memorial Library
-0442,Treutlen County Library
-0443,Glennville Public Library
-0445,Jeff Davis Public Library
-0446,Ladson Genealogy Library
-0447,Montgomery County Library
-0448,Nelle Brown Memorial Library
-0449,Tattnall County Library
-0450,Vidalia-Toombs County Library
-0451,Alma-Bacon County Public Library
-0452,Appling County Public Library
-0453,Clinch County Public Library
-0454,Pierce County Public Library
-0455,Waycross-Ware County Public Library
-0456,Byron Public Library
-0457,Thomas Public Library
-0458,Auburn Public Library
-0459,Banks County Public Library
-0460,Braselton Library
-0461,Commerce Public Library
-0462,Harold S. Swindle Public Library
-0463,Jefferson Public Library
-0464,Maysville Public Library
-0465,Statham Public Library
-0466,Talmo Public Library
-0467,Winder Library
-0468,Butler Public Library
-0469,Greenville Area Public Library
-0470,Hightower Memorial Library
-0471,Manchester Public Library
-0472,Reynolds Community Library
-0473,Talbot County Library
-0474,Yatesville Public Library
-0475,Roddenbery Memorial Library
-0476,Cave Spring Library
-0477,Cedartown Library
-0478,Rockmart Library
-0479,Rome/Floyd County Library
-0480,Ambrose Public Library
-0481,Broxton Public Library
-0482,Douglas-Coffee County Public Library
-0483,Nicholls Public Library
-0484,Pearson Public Library
-0485,Willacoochee Public Library
-0486,Jenkins County Memorial Library
-0487,Screven County Library
-0488,Ball Ground Public Library
-0489,Cherokee County Law Library
-0490,Gilmer County Public Library
-0491,Hickory Flat Public Library
-0492,Pickens County Public Library
-0493,R.T. Jones Memorial Library
-0494,Rose Creek Public Library
-0495,Woodstock Public Library
-0496,Allen Statenville Library
-0497,Johnston Lakes Library
-0498,McMullen Southside Library
-0499,Miller Lakeland Library
-0500,Salter Hahira Library
-0501,Valdosta-Lowndes County Library
-0502,Decatur County-Gilbert H. Gragg Library
-0503,"James W. Merritt, Jr. Memorial Library"
-0504,Seminole County Public Library
-0505,Evans County Public Library
-0506,Franklin Memorial Library
-0507,L. C. Anderson Memorial Library
-0508,Pembroke Public Library
-0509,Richmond Hill Public Library
-0510,Statesboro-Bulloch County Library
-0511,Boston Carnegie Library
-0512,Coolidge Public Library
-0513,Gladys M. Clark Public Library
-0514,Meigs Public Library
-0515,Pavo Public Library
-0516,Thomas County Public Library
-0517,Brantley County Library
-0518,Camden County Public Library
-0519,"Charlton Public Library, Inc."
-0520,Hog Hammock Public Library
-0521,Ida Hilton Public Library
-0522,Long County Public Library
-0523,St. Marys Public Library
-0524,Wayne County Library
-0525,Harris County Public Library
-0526,Hogansville Public Library
-0527,LaGrange Memorial Library
-0528,Lake Sinclair Library
-0529,Mary Vinson Memorial Library
-0530,Eatonton-Putnam County Library
-0531,Greene County Library
-0532,Hancock County Library
-0533,Jasper County Library
-0534,Monroe-Walton County Library
-0535,Morgan County Library
-0536,O'Kelly Memorial Library
-0537,W. H. Stanton Memorial Library
-0538,Walnut Grove Library
-0539,Buchanan-Haralson County Public Library
-0540,Centralhatchee Public Library
-0541,Crossroads Public Library
-0542,Dallas Public Library
-0543,Dog River Public Library
-0544,Douglas County Public Library
-0545,Ephesus Public Library
-0546,Heard County Public Library
-0547,Lithia Springs Public Library
-0548,Maude P. Ragsdale Library
-0549,Mt. Zion Public Library
-0550,Neva Lomason Memorial Library
-0551,New Georgia Public Library
-0552,Ruth Holder Public Library
-0553,Tallapoosa Public Library
-0554,Villa Rica Public Library
-0555,Warren P. Sewell Memorial Library-Bowdon
-0556,Warren P. Sewell Memorial Library-Bremen
-0557,Whitesburg Public Library
-0558,Sylvester-Margaret Jones Library
+1,6th Cavalry Museum
+2,Albany Museum of Art
+3,Allman Brothers Band Museum at the Big House
+4,Annette Howell Turner Center for the Arts
+5,ArtsGeorgia Inc.
+6,Atlanta Federal Reserve Bank Monetary Museum
+7,Atlanta History Center
+8,Augusta Canal
+9,Augusta Museum of History
+10,Averitt Center for the Arts
+11,Bandy Heritage Center for Northwest Georgia
+12,Barrington Hall
+13,Bartow History Museum
+14,Blue and Gray Museum
+15,Blue Ridge Mountain Arts Association
+16,Booth Western Art Museum
+17,Bowdon Area Historical Society
+18,Breman Jewish Heritage Museum
+19,Brenau University Galleries
+20,Bulloch County Historical Society
+21,Bulloch Hall
+22,Butts County Historical Society
+23,Calhoun-Gordon Arts Council
+24,Cannonball House
+25,Center For Puppetry Arts
+26,Cherokee County Historical Society
+27,Chieftains Museum
+28,Church-Waddel-Brumby House
+29,"Coastal Heritage Society, Inc."
+30,William Root House Museum & Garden
+31,Collectible and Antique Chair Gallery
+32,Colquitt County Arts Center
+33,Columbus Museum
+34,Crawford W. Long Museum
+35,Cultural Arts Council of Douglasville/Douglas County
+36,Currahee Military Museum
+37,Decatur County Historical and Genealogical Society
+38,Dekalb History Center
+39,Dorchester Academy
+40,Douglas County Museum of History & Art
+41,Elachee Nature Science Center
+42,Elberton Granite Museum and Exhibit
+43,Moreland Hometown Heritage Museum
+44,Euharlee History Museum
+45,First African Baptist Church
+46,Flannery O'Connor–Andalusia Foundation
+47,Fort Valley Downtown Development Authority/Main Street
+48,Foxfire Museum and Heritage Center
+49,"Friends of Scull Shoals, Inc."
+50,Funk Heritage Center of Reinhardt University
+51,William P. Wall Museum of Natural History
+52,Georgia College Museum of Fine Arts
+53,Georgia Humanities Council
+54,Georgia Museum of Art
+55,Georgia Southern University Museum
+56,Hay House
+57,"Georgia's Old Capital Museum Society, Inc."
+58,Gilmer County Historical Society
+59,Glennville Tattnall Museum
+60,Hazlehurst–Jeff Davis Historical Museum Society
+61,Heard County Historical Center and Museum
+62,Heritage Station Museum
+63,Herndon Home Museum
+64,Hickory Hill
+65,High Museum of Art
+66,Hills and Dales Estate
+67,Historic Banning Mills
+68,"Historic Columbus Foundation, Inc."
+69,Historic Macon Foundation
+70,Sidney Lanier Cottage
+71,Historic Oakland Foundation
+72,Hudgens Center for the Arts
+73,Isaiah Davenport House Museum
+74,Jack Hadley Black History Museum
+75,Towns Bluff Park & Heritage Center
+76,Mosaic the Jekyll Island Museum
+77,Jimmy Carter Library and Museum
+78,Juliette Gordon Low Birthplace
+79,Museum of History and Holocaust Education
+80,LaGrange Woman's Club Bellevue
+81,Laurens County Historical Society
+82,LeConte Woodmanston Foundation
+83,Lowndes County Historical Society and Museum
+84,Lucy Craft Laney Museum of Black History and Conference Center
+85,Lyndon House Arts Center
+86,Madison-Morgan Cultural Center
+87,Marietta Fire Museum
+88,Marietta Museum of History
+89,Marietta/Cobb Museum of Art
+90,Marsh House of LaFayette
+91,"Martin Luther King, Jr. National Historic Site"
+92,Michael C. Carlos Museum Emory University
+93,Monroe-Walton Center for the Arts
+94,Monroe County Historical Society
+95,Morris Museum of Art
+96,Museum of Arts and Sciences
+97,Museum of Aviation & Flight Technology Center
+98,Museum of Colquitt County History
+99,Museum of Contemporary Art of Georgia
+100,Museum School of Avondale Estates
+101,Newnan-Coweta Historical Society
+102,Northeast Georgia History Center at Brenau University
+103,Oak Hill and Martha Berry Museum
+104,Ocmulgee National Monument Association
+105,Oglethorpe University Museum of Art
+106,Folkston Railroad Transportation Museum
+107,Douglas County Museum of History and Art
+108,Old Jail Museum and Genealogy Research Center
+109,Oliver Cesair Gallery
+110,Pebble Hill Plantation
+111,Polk County Historical Society Museum
+112,Port Columbus Civil War Naval Museum
+113,Ralph Mark Gilbert Civil Rights Museum
+114,Robert C. Williams Paper Museum
+115,Rock Hawk Effigy & Trails
+116,Roland Hayes Museum
+117,Rome Area History Museum
+118,Rose Lawn Museum
+119,Saint Marys Submarine Museum
+120,Saint Simons Island Lighthouse Museum
+121,Salvation Army Southern Historical Center
+122,Sautee Nacoochee Arts and Community Association
+123,Asa H. Gordon Library at Savannah State University
+124,SCAD Museum of Art
+125,Senoia Area Historical Society
+126,Shields Ethridge Heritage Farm
+127,Ships of the Sea Maritime Museum
+128,Shorter University Museum & Archives
+129,Sidney Lanier Cottage House Museum
+130,Smith Plantation
+131,Smith-Gilbert Gardens
+132,Smyrna Historical Society and Museum
+133,Southeastern Museums Conference (SEMC)
+134,Southeastern Quilt and Textile Museum
+135,South Arts Inc
+136,Southern Museum of Civil War and Locomotive History
+137,Spruill Center for the Arts
+138,Steffen Thomas Museum and Archives
+139,Stone Mountain Park
+140,Telfair Academy
+141,Tellus Science Museum
+142,Old Governor's Mansion
+143,Old School History Museum 
+144,Thomasville History Center
+145,Thronateeska Heritage Center
+146,Tifton Museum of Arts and Heritage
+147,Tifton Terminal Train Museum
+148,Troup County Historical Society Archives
+149,Ty Cobb Museum
+150,Uncle Remus Museum Inc.
+151,Washington County Historical Society
+152,Tunnel Hill Heritage Center & Museum
+153,Historic Westville
+154,Whitfield-Murray Historical Society
+155,Jepson Center
+156,Owens-Thomas House & Slave Quarters
+157,Brown House Museum
+158,Old City Cemetary
+159,Warthen Old Jail
+160,Charles E. Choate
+161,Washington County Courthouse
+162,Jefferson Davis’ Heritage Trail & Sherman’s March to the Sea Trail
+163,Hamburg State Park
+164,Thomas Jefferson Elder Community Center
+165,Sandersville School
+166,Fairmount City Library
+167,Newnan Carnegie
+168,Sayers Memorial Library
+169,Smyrna Public Library
+170,Athens-Clarke County Library
+171,Bogart Branch Library
+172,East Athens Community Resource Center
+173,Lavonia-Carnegie Library
+174,Lay Park Community Resource Center
+175,Madison County Library
+176,Oconee County Library
+177,Oglethorpe County Library
+178,Pinewoods Community Library and Education Center
+179,Royston Branch Library
+180,Winterville Library
+181,Adams Park Branch
+182,Adamsville-Collier Heights Branch
+183,Alpharetta Library
+184,Auburn Avenue Research Library
+185,Buckhead Branch
+186,Central Library (Atlanta-Fulton PLS)
+187,Cleveland Avenue Branch
+188,College Park Branch
+189,Dogwood Branch
+190,East Atlanta Branch
+191,East Point Branch
+192,East Roswell Branch
+193,Fairburn Branch
+194,Hapeville Branch
+195,Kirkwood Branch
+196,Martin Luther King Jr Branch
+197,Mechanicsville Branch
+198,Metropolitan Branch
+199,Milton Branch
+200,Northeast/Spruill Oaks Branch
+201,Northside Branch
+202,Northwest Branch at Scotts Crossing
+203,Ocee Branch
+204,Palmetto Branch
+205,Peachtree Branch
+206,Ponce de Leon Branch
+207,Roswell Branch
+208,Sandy Springs Branch
+209,South Fulton Branch
+210,Southeast Atlanta Branch
+211,Southwest Branch
+212,Washington Park Branch
+213,West End Branch
+214,Wolf Creek Branch
+215,Appleby Branch Library
+216,Augusta-Richmond County Public Library
+217,Diamond Lakes Branch Library
+218,Friedman Branch Library
+219,Jeff Maxwell Branch Library
+220,Wallace Branch Library
+221,Adairsville Public Library
+222,Cartersville Main Street Library
+223,Emmie Nelson Library
+224,Mary Willis Library
+225,Taliaferro County Library
+226,Thomson-McDuffie County Library
+227,Brooks County Public Library
+228,Catoosa County Library at Benton Place Campus
+229,Columbus Public Library
+230,Cusseta - Chattahoochee Public Library
+231,Marion County Library
+232,Mildred L. Terry Branch Library
+233,North Columbus Branch Library
+234,Parks Memorial Public Library
+235,South Columbus Branch Library
+236,Chattooga County Library
+237,Trion Public Library
+238,Chickamauga Public Library
+239,Dade County Library
+240,LaFayette-Walker County Public Library
+241,Rossville Public library
+242,Chestatee Regional Satellite Library
+243,Dawson County Library
+244,Lumpkin County Library
+245,Clayton County Headquarters Library
+246,Jonesboro Library
+247,Lovejoy Library
+248,Morrow Library
+249,Northeast Clayton/Forest Park Library
+250,Riverdale Library
+251,Carrie Dorsey Perry Memorial Library
+252,Coastal Plain Headquarters Library
+253,Cook County Library
+254,Fitzgerald-Ben Hill County Library
+255,Irwin County Library
+256,Tifton-Tift County Public Library
+257,Victoria Evans Memorial Library
+258,Acworth Library
+259,"Central Library, Cobb Co. PLS"
+260,East Cobb Library
+261,East Marietta Library
+262,Gritters Library
+263,Hattie G. Wilson Library
+264,Kemp Memorial Library
+265,Kennesaw Library
+266,Lewis A Ray Library
+267,Mountain View Regional Library
+268,Powder Springs Library
+269,Sibley Library
+270,South Cobb Library
+271,Stratton Library
+272,Sweetwater Valley Library
+273,Vinings Library
+274,West Cobb Regional Library
+275,Nancy Guinn Memorial Library
+276,A. Mitchell Powell Jr. Branch
+277,Central Library--Coweta
+278,Grantville Branch
+279,Senoia Branch
+280,Brookhaven Library
+281,Chamblee Library
+282,Clarkston Library
+283,Covington Library
+284,Decatur Library
+285,Doraville Library
+286,Dunwoody Library
+287,Embry Hills Library
+288,Flat Shoals Library
+289,Gresham Library
+290,Hairston Crossing Library
+291,Lithonia-Davidson Library
+292,Northlake-Barbara Loar Branch
+293,Redan-Trotti Branch
+294,Salem-Panola Library
+295,Scott Candler Library
+296,Scottdale-Tobie Grant Library
+297,Stone Mountain-Sue Kellogg Library
+298,Stonecrest Library
+299,Toco Hill-Avis G. Williams Library
+300,Tucker-Reid H. Cofer Library
+301,Wesley Chapel-William C. Brown Library
+302,Baker County Library
+303,DeSoto Trail Regional Library
+304,Jakin Public Library
+305,Lucy Maddox Memorial Library
+306,Pelham Carnegie Library
+307,Sale City Public Library
+308,"Central Library, Dougherty Co. PLS"
+309,Northwest Library
+310,Southside Branch Library
+311,Tallulah Massey Library
+312,Westtown Library
+313,Bowman Branch
+314,Elbert County Public Library
+315,Barnesville-Lamar County Library
+316,Fayette County Public Library
+317,Griffin-Spalding County Library
+318,J. Joel Edwards Public Library
+319,Jackson-Butts County Public Library
+320,Monroe County Library
+321,Peachtree City Library
+322,Tyrone Public Library
+323,Cumming Branch & Headquarters
+324,Hampton Park Library
+325,Post Road Library
+326,Sharon Forks Library
+327,Burke County Library
+328,Columbia County Library
+329,Euchee Creek Library
+330,Harlem Library
+331,Lincoln County Library
+332,Midville Library
+333,Sardis County Library
+334,Warren County Library
+335,Buford-Sugar Hill Branch
+336,Centerville Branch
+337,Collins Hill Branch
+338,Dacula Branch
+339,Duluth Branch
+340,Elizabeth H. Williams Branch (Snellville)
+341,Five Forks
+342,Grayson Branch
+343,Hamilton Mill Branch
+344,Library Headquarters and Lawrenceville Branch
+345,Lilburn Branch
+346,Mountain Park Branch
+347,Norcross Branch
+348,Peachtree Corners Branch
+349,Suwanee Branch Library
+350,North Hall Technology Center Branch
+351,Blackshear Place Branch
+352,Gainesville Library
+353,Murrayville Branch
+354,Spout Springs Branch
+355,Hart County Library
+356,Cochran Public Library
+357,Fairview Public Library
+358,Fortson Public Library
+359,Locust Grove Public Library
+360,McDonough Public Library
+361,Centerville Branch Library
+362,Nola Brantley Memorial Library
+363,Perry Public Library
+364,Louisville Public Library
+365,McCollum Public Library
+366,Wadley Public Library
+367,Calhoun County Library
+368,Clay County Library
+369,Quitman County Library
+370,Randolph County Library
+371,Terrell County Public Library
+372,Webster County Library
+373,Byromville Public Library
+374,Cordele-Crisp Carnegie Library
+375,Dooly County Library
+376,Elizabeth Harris Library
+377,Lake Blackshear Headquarters Library
+378,Schley County Library
+379,Leesburg Library
+380,Oakland Library
+381,Redbone Library
+382,Smithville Library
+383,Bull Street Library
+384,Carnegie Library
+385,Forest City Library
+386,Garden City Library
+387,Hinesville Library
+388,Islands Library
+389,Midway-Riceboro Library
+390,Oglethorpe Mall Library
+391,Pooler Library
+392,Port City Library
+393,Rincon Library
+394,Southwest Chatham Library
+395,Springfield Library
+396,Tybee Library
+397,W W Law Library
+398,West Broad Library
+399,Brunswick-Glynn County Library
+400,St. Simons Island Public Library
+401,Charles A Lanford Library
+402,Crawford County Public Library
+403,East Wilkinson County Public Library
+404,Gordon Public Library
+405,Ideal Public Library
+406,Jones County Public Library
+407,Marshallville Public Library
+408,Montezuma Public Library
+409,Oglethorpe Public Library
+410,Riverside Branch
+411,Shurling Branch
+412,Twiggs County Public Library
+413,Washington Memorial Library
+414,Doerun Municipal Library
+415,Moultrie-Colquitt County Library
+416,Fannin County Public Library
+417,Mountain Regional Library
+418,Towns County Public Library
+419,Union County Public Library
+420,Covington Branch Library
+421,Newton County Newborn Branch
+422,Porter Memorial Branch Library
+423,Clarkesville-Habersham County Library
+424,Cornelia-Habersham Co. Lib.
+425,Rabun Co. Public Library
+426,Toccoa-Stephens Co. Lib.
+427,White Co. Lib.-Cleveland Branch
+428,White Co. Lib.-Helen Branch
+429,Calhoun-Gordon County Library
+430,Chatsworth-Murray County Library
+431,Dalton-Whitfield County Public Library
+432,M. E. Roden Memorial Library
+433,Murrell Memorial Library (Dodge County Library)
+434,Telfair County Library
+435,Tessie W. Norris/Cochran-Bleckley County Library
+436,Wheeler County Library
+437,Wilcox County Library
+438,Glascock County Library
+439,Harlie Fulford Memorial Library
+440,Laurens County Library
+441,Rosa M. Tarbutton Memorial Library
+442,Treutlen County Library
+443,Glennville Public Library
+445,Jeff Davis Public Library
+446,Ladson Genealogy Library
+447,Montgomery County Library
+448,Nelle Brown Memorial Library
+449,Tattnall County Library
+450,Vidalia-Toombs County Library
+451,Alma-Bacon County Public Library
+452,Appling County Public Library
+453,Clinch County Public Library
+454,Pierce County Public Library
+455,Waycross-Ware County Public Library
+456,Byron Public Library
+457,Thomas Public Library
+458,Auburn Public Library
+459,Banks County Public Library
+460,Braselton Library
+461,Commerce Public Library
+462,Harold S. Swindle Public Library
+463,Jefferson Public Library
+464,Maysville Public Library
+465,Statham Public Library
+466,Talmo Public Library
+467,Winder Library
+468,Butler Public Library
+469,Greenville Area Public Library
+470,Hightower Memorial Library
+471,Manchester Public Library
+472,Reynolds Community Library
+473,Talbot County Library
+474,Yatesville Public Library
+475,Roddenbery Memorial Library
+476,Cave Spring Library
+477,Cedartown Library
+478,Rockmart Library
+479,Rome/Floyd County Library
+480,Ambrose Public Library
+481,Broxton Public Library
+482,Douglas-Coffee County Public Library
+483,Nicholls Public Library
+484,Pearson Public Library
+485,Willacoochee Public Library
+486,Jenkins County Memorial Library
+487,Screven County Library
+488,Ball Ground Public Library
+489,Cherokee County Law Library
+490,Gilmer County Public Library
+491,Hickory Flat Public Library
+492,Pickens County Public Library
+493,R.T. Jones Memorial Library
+494,Rose Creek Public Library
+495,Woodstock Public Library
+496,Allen Statenville Library
+497,Johnston Lakes Library
+498,McMullen Southside Library
+499,Miller Lakeland Library
+500,Salter Hahira Library
+501,Valdosta-Lowndes County Library
+502,Decatur County-Gilbert H. Gragg Library
+503,"James W. Merritt, Jr. Memorial Library"
+504,Seminole County Public Library
+505,Evans County Public Library
+506,Franklin Memorial Library
+507,L. C. Anderson Memorial Library
+508,Pembroke Public Library
+509,Richmond Hill Public Library
+510,Statesboro-Bulloch County Library
+511,Boston Carnegie Library
+512,Coolidge Public Library
+513,Gladys M. Clark Public Library
+514,Meigs Public Library
+515,Pavo Public Library
+516,Thomas County Public Library
+517,Brantley County Library
+518,Camden County Public Library
+519,"Charlton Public Library, Inc."
+520,Hog Hammock Public Library
+521,Ida Hilton Public Library
+522,Long County Public Library
+523,St. Marys Public Library
+524,Wayne County Library
+525,Harris County Public Library
+526,Hogansville Public Library
+527,LaGrange Memorial Library
+528,Lake Sinclair Library
+529,Mary Vinson Memorial Library
+530,Eatonton-Putnam County Library
+531,Greene County Library
+532,Hancock County Library
+533,Jasper County Library
+534,Monroe-Walton County Library
+535,Morgan County Library
+536,O'Kelly Memorial Library
+537,W. H. Stanton Memorial Library
+538,Walnut Grove Library
+539,Buchanan-Haralson County Public Library
+540,Centralhatchee Public Library
+541,Crossroads Public Library
+542,Dallas Public Library
+543,Dog River Public Library
+544,Douglas County Public Library
+545,Ephesus Public Library
+546,Heard County Public Library
+547,Lithia Springs Public Library
+548,Maude P. Ragsdale Library
+549,Mt. Zion Public Library
+550,Neva Lomason Memorial Library
+551,New Georgia Public Library
+552,Ruth Holder Public Library
+553,Tallapoosa Public Library
+554,Villa Rica Public Library
+555,Warren P. Sewell Memorial Library-Bowdon
+556,Warren P. Sewell Memorial Library-Bremen
+557,Whitesburg Public Library
+558,Sylvester-Margaret Jones Library
+559,Acworth Society for Historic Preservation
+560,Alexander H. Stephens State Park
+561,All Saints' Episcopal Church Archives and Library
+562,Alma-Bacon County Historical Center
+563,Alpha Delta Pi Sorority Memorial Headquarters
+564,Alpharetta and Old Milton County Historical Society
+565,Altama Museum of Art and History
+566,American Baptist Historical Archive
+567,American Cherokee Confederacy
+568,Andersonville National Historic Site
+569,Andersonville Old Time Farm Area and Museum
+570,Andrew College Archives
+571,Andrew Low House
+572,Ansley Park Civic Association
+573,Apex Museum
+574,Appling County Heritage Center
+575,Archives Research Center
+576,Army Reserve Office of History
+577,Arts and Heritage Council of Pelham
+578,Ashantilly Center
+579,Ashburn Historic Preservation Commission
+580,Association of Southeastern Research Libraries (ASERL)
+581,Athens Technical College Library
+582,"Athens-Clarke Heritage Foundation, Inc."
+583,Atlanta Cyclorama & Civil War Museum
+584,Central Library - Special Collections
+585,Atlanta Metropolitan College Library
+586,"Atlanta Opera, The"
+587,Atlanta Preservation Center
+588,Atlanta Regional Council for Higher Education (ARCHE)
+589,Robert W. Woodruff Library - Department of Theological Services
+590,Atlanta Urban Design Commission - Historic Preservation
+591,Augusta Genealogical Society
+592,"Augusta Richmond County Historical Society, The"
+593,Augusta Public Library - Georgia Heritage Room
+594,Austell City Museum
+595,Austell Historical Preservation Society
+596,Autrey Mill Nature and Heritage Preserve
+597,Baldwin Library
+598,Banks County Historical Society
+599,Barnesville-Lamar County Historical Society
+600,Barrow County Historical Society and Museum
+601,Bartow County Genealogical Society
+602,Archives and Research Library
+603,Beach Institute
+604,Bellevue
+605,Berry College
+606,Bethesda Museum
+607,Beulah Heights University
+608,Bonaventure Cemetery
+609,Brantley Historical Society
+610,Brasstown Bald Visitor Information Center
+611,Brooks County Genealogical Society
+612,Bryan-Lang Historical Archives
+613,Byron Area Historical Society
+614,C.E.Blevins Avian Learning Center
+615,Callaway Plantation
+616,Camden County Historical Commission
+617,Candler County Historical Society Museum
+618,Carroll County Genealogical Society
+619,Carroll County Historical Society
+620,"Carson McCullers Center for Writers and Musicians, The"
+621,Carter-Coile Country Doctors Museum
+622,Catholic Archdiocese of Atlanta Archives
+623,Catholic Diocese of Savannah Archives
+624,Catoosa County Historical Society
+625,Catoosa County Library - Mildred E. Ward Special Collections Room
+626,Cave Spring Historical Society
+627,Center for Public History
+628,Central Georgia Genealogical Society
+629,Charlton County Historical Society and Archives
+630,Chattahoochee River National Recreation Area
+631,Chattahoochee Valley Libraries
+632,Chattooga County Historical Society
+633,Chattooga County Library System - Georgia Room
+634,Cherokee Indian Museum
+635,"Cherokees of Georgia Tribal Council, Inc."
+636,Chickamauga and Chattanooga National Military Park
+637,Chief Vann House State Historic Site
+638,Chipley Historical Center of Pine Mountain
+639,City of Atlanta Department of Aviation
+640,City of Norcross - Community Development Department
+641,"City of Savannah, Research Library & Municipal Archives"
+642,Clarke-Oconee Genealogical Society
+643,University Archives and Special Collections
+644,Coastal Georgia Archaeological Society
+645,Coastal Georgia Historical Society
+646,Coastal Georgia Historical Society
+647,Coastal Heritage Society
+648,Cobb County Genealogical Society
+649,Cobb County Historic Preservation Commission
+650,Cobb County Youth Museum
+651,Cobb Landmarks and Historical Society
+652,"Coca-Cola Company, The"
+653,Colbert Improvement Club
+654,College of Coastal Georgia
+655,College Park Historical Society
+656,Colquitt County Historical Society
+657,Columbia County Historical Society
+658,Columbia Theological Seminary
+659,Columbus State University Archives
+660,Commerce Public Library Heritage Room
+661,Congregation Mickve Israel
+662,Cook County Historical Society
+663,Coosa Valley Technical College
+664,"Coweta County Genealogical Society, Inc"
+665,Crawford County Historical Society
+666,"Crescent -The Valdosta Garden Center, Inc."
+667,Cumberland Island National Seashore
