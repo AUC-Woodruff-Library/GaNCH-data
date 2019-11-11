@@ -22,9 +22,12 @@ This page describes how to walk through the full GaNCH workflow, so that you can
   * Make sure that the data that was provided by the partner matches what is on the web, since data sets can become out-of-date relatively quickly.  
   * If you find a more up-to-date fact, update the CSV spreadsheet and record the source of the updated information in the REF URL field, and the date you made the update in the RET DAT field.
   * Whenever possible, use the Internet Archive Wayback Machine's [Save Page Now](https://web.archive.org/save) tool to provide a REF URL that also records the date that the fact was true.
+  * If the partner's list is correct, you can cite that list in the REF URL and RET DAT fields.
 * If the information you find is ambiguous or confusing, perform email and [phone research](/docs/phone_script.md) to reach out to the organization for clarification.
-  * Cite the conversation in the "Source Notes" field of the CSV spreadsheet.  
+  * Cite the email or phone conversation in the "Source Notes" field of the CSV spreadsheet.  
   * You can then cite your CSV as the REF URL source (yes it's recursive, but this way you can record that the information was updated via phone call or email like a [MARC 670a Source citation](https://www.loc.gov/marc/authority/ad670.html)).  Once it's uploaded to Wikidata, your CSV can serve as the source/reference for the corrected information.
+
+![Example of 1) the Phone field, 2) the Phone REF URL field, and 3) the Phone RET DAT fields. Underlined in red are several corrected phone numbers with their assocaited REF URLs and RET DATs for the locations and dates of the corrections.](/docs/images/phone_number_REF_URL_and_RET_DAT.png)
 
 ## Reconcile
 
