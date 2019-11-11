@@ -27,7 +27,8 @@ This page describes how to walk through the full GaNCH workflow, so that you can
   * Cite the email or phone conversation in the "Source Notes" field of the CSV spreadsheet.  
   * You can then cite your CSV as the REF URL source (yes it's recursive, but this way you can record that the information was updated via phone call or email like a [MARC 670a Source citation](https://www.loc.gov/marc/authority/ad670.html)).  Once it's uploaded to Wikidata, your CSV can serve as the source/reference for the corrected information.
 
-![Example of 1) the Phone field, 2) the Phone REF URL field, and 3) the Phone RET DAT fields. Underlined in red are several corrected phone numbers with their assocaited REF URLs and RET DATs for the locations and dates of the corrections.](/docs/images/phone_number_REF_URL_and_RET_DAT.png)
+Below is an example of 1) the phone number field, 2) the phone number REF URL field, and 3) the phone number RET DAT fields. Underlined in red are several corrected phone numbers with their associated REF URLs and RET DATs for the locations and dates of the corrections.
+![Example of 1) the Phone field, 2) the Phone REF URL field, and 3) the Phone RET DAT fields. Underlined in red are several corrected phone numbers with their associated REF URLs and RET DATs for the locations and dates of the corrections.](/docs/images/phone_number_REF_URL_and_RET_DAT.png)
 
 ## Reconcile
 
