@@ -2,6 +2,17 @@
 
 This page describes how to walk through the full GaNCH workflow, so that you can replicate the process for your own region.  Links from the GaNCH project are included to provide context, but of course your region may have unique local needs.
 
+## Setup
+
+* Download and install free open source software (and one propritary software) to manipulate data and upload it to Wikidata
+  * [Git](https://git-scm.com/downloads) - [Version Control](https://www.atlassian.com/git/tutorials/what-is-version-control) software, used to protect your work against accidental deletion.
+  * [Visual Studio Code](https://code.visualstudio.com/) - Text and code editor with a built-in terminal. Free and easy to learn interface.
+    * [Edit CSV extension](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv) - Edit CSV files in spreadsheet format within VS Code.  We don't use MS Excel since it reformats content (dates, etc.).
+    * [markdownlint extension](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Helps with formatting markdown files.  We're writing all our documentation in markdown because it provides rich text formatting.
+    * [python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Python for VS Code.
+  * [OpenRefine](http://openrefine.org/) - Data wrangling software which is also used to upload to Wikidata.
+  * [Microsoft Excel](https://products.office.com/en-us/excel) - You'll use Excel (or [LibreOffice Calc](https://www.libreoffice.org/discover/calc/)) to perform data formatting and cleanup with formulas.
+
 ## Compile
 
 * Reach out to [partner organizations](/docs/project_partners.md) and individuals in your region to identify [data sources](/data/data_sources.md).  
@@ -13,6 +24,7 @@ This page describes how to walk through the full GaNCH workflow, so that you can
   * Complex tables (like the GHRAC dataset) are harvested using simple python scripts which dump data into pipe-delimited text files.  These are then imported into Excel, reformatted to match the template, and exported as CSV.
   * Make sure to include fields for the Source (REF URL) and Retrieval Date (RET DAT) for the data, to provide references in Wikidata.
   * If you're working with several datasets and you know that some organizations will be duplicated across datasets, create an [index](/data/index.csv) that will help you de-dupe organizations as you add on new datasets.  This will prevent you from performing the Update & Source step multiple times for the same organization.
+* As you work, use [Git](https://www.atlassian.com/git/tutorials/what-is-git) to save your work as you go.  You can get fancy with Git, but for our work we mostly use "[git pull](https://www.atlassian.com/git/tutorials/syncing/git-pull)", "[git add](https://www.atlassian.com/git/tutorials/saving-changes)", "[git commit](https://www.atlassian.com/git/tutorials/saving-changes/git-commit)" and "[git push](https://www.atlassian.com/git/tutorials/syncing/git-push)".
 * At the end of this step, you will have several datasets formatted to match your CSV template.
 
 ## Update & Source
