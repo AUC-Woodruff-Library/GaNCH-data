@@ -11,7 +11,7 @@ This page describes how to walk through the full GaNCH workflow, so that you can
     * [markdownlint extension](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Helps with formatting markdown files.  We're writing all our documentation in markdown because it provides rich text formatting.
     * [python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Python for VS Code.
   * [OpenRefine](http://openrefine.org/) - Data wrangling software which is also used to upload to Wikidata.
-  * [Microsoft Excel](https://products.office.com/en-us/excel) - You'll use Excel (or [LibreOffice Calc](https://www.libreoffice.org/discover/calc/)) to perform data formatting and cleanup with formulas.
+  * [Microsoft Excel](https://products.office.com/en-us/excel) - You'll use Excel (or [LibreOffice Calc](https://www.libreoffice.org/discover/calc/)) to perform data formatting and cleanup with formulas to prepare CSVs.  Be careful NOT to use Excel for most editing, as it tends to reformat dates, phone numbers, etc.
 
 ## Compile
 
