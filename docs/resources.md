@@ -38,6 +38,7 @@ A list of helpful resources to learn more about the pieces of the the GaNCH proj
 ## Coordinate Locations / Counties
 
 * [Maptive](https://www.maptive.com/)
+* [GeoCoder](https://geocoder.maplarge.com/Geocoder) - batches of up to 100 records at a time for free
 * [Reverse GeoCoding](http://www.get-direction.com/get-lat-long-info-with-reverse-geocoding.html)
 * [Reverse Geocoder Upload (.CSV)](http://geocoder.maplarge.com/geocoder/reverse)
 * [Reverse Geocoding Webservices](http://www.geonames.org/export/reverse-geocoding.html)
