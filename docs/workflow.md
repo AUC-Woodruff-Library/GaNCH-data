@@ -23,7 +23,11 @@ This page describes how to walk through the full GaNCH workflow, so that you can
   * Straightforward website tables (like the GPLSV dataset) are harvested using the [HTML Table to CSV/Excel Converter](http://www.convertcsv.com/html-table-to-csv.htm)
   * Complex tables (like the GHRAC dataset) are harvested using simple python scripts which dump data into pipe-delimited text files.  These are then imported into Excel, reformatted to match the template, and exported as CSV.
   * Make sure to include fields for the Source (REF URL) and Retrieval Date (RET DAT) for the data, to provide references in Wikidata.
-  * If you're working with several datasets and you know that some organizations will be duplicated across datasets, create an [index](/data/index.csv) that will help you de-dupe organizations as you add on new datasets.  This will prevent you from performing the Update & Source step multiple times for the same organization.
+  * If you're working with several datasets and you know that some organizations will be duplicated across datasets, create an [index](/data/index.csv) that will help you de-dupe organizations as you add on new datasets.  This will prevent you from performing the Update & Source step multiple times for the same organization.  
+    * Generate the new datatset and back it up using Git (see below) so you have a snapshot of the whole dataset.
+    * Use the [Excel Fuzzy Lookup Add-In](https://www.microsoft.com/en-us/download/details.aspx?id=15011) to compare your new dataset to the index, idenfitying duplicated records.
+    * Delete duplicated record rows in the new dataset -- that way you're only updating and sourcing data for each organization record once.
+    * If you accidentally deleted an organization that wasn't duplicate, use Git to view the deleted record and copy-and-paste it back into your dataset to udpate and source.
 * As you work, use [Git](https://www.atlassian.com/git/tutorials/what-is-git) to save your work as you go.  You can get fancy with Git, but for our work we mostly use "[git pull](https://www.atlassian.com/git/tutorials/syncing/git-pull)", "[git add](https://www.atlassian.com/git/tutorials/saving-changes)", "[git commit](https://www.atlassian.com/git/tutorials/saving-changes/git-commit)" and "[git push](https://www.atlassian.com/git/tutorials/syncing/git-push)".
 * At the end of this step, you will have several datasets formatted to match your CSV template.
 
@@ -31,7 +35,7 @@ This page describes how to walk through the full GaNCH workflow, so that you can
 
 * Starting with web-based research, verify that the data is correct.  
   * Look at each orgnization provided on the partner's list, and try to find that organization on the web.  
-  * Make sure that the data that was provided by the partner matches what is on the web, since data sets can become out-of-date relatively quickly.  
+  * Make sure that the data that was provided by the partner matches what is on the web, since datasets can become out-of-date relatively quickly.  
   * If you find a more up-to-date fact, update the CSV spreadsheet and record the source of the updated information in the REF URL field, and the date you made the update in the RET DAT field.
   * Whenever possible, use the Internet Archive Wayback Machine's [Save Page Now](https://web.archive.org/save) tool to provide a REF URL that also records the date that the fact was true.
   * If the partner's list is correct, you can cite that list in the REF URL and RET DAT fields.
@@ -42,13 +46,37 @@ This page describes how to walk through the full GaNCH workflow, so that you can
 Below is an example of 1) the phone number field, 2) the phone number REF URL field, and 3) the phone number RET DAT fields. Underlined in red are several corrected phone numbers with their associated REF URLs and RET DATs for the locations and dates of the corrections.
 ![Example of 1) the Phone field, 2) the Phone REF URL field, and 3) the Phone RET DAT fields. Underlined in red are several corrected phone numbers with their associated REF URLs and RET DATs for the locations and dates of the corrections.](/docs/images/phone_number_REF_URL_and_RET_DAT.png)
 
+* Generate coordinate location & county
+  * Using a free online tool like [Geocod.io](https://www.geocod.io/) or [MapLarge's Geocoder](https://geocoder.maplarge.com/Geocoder) (free version limited to batches of 100), generate coordinate location and county for each organization's address.  
+  * These tools are not exact, so you'll check to make sure that the mapping is correct during the Quality Control step below.
+  * Note that Wikidata requires you to *ingest* coordinate location using decimal format (i.e. "34.435818, -84.702066"), but *displays* coordinate location using DMS format (i.e. "34° 26′ 8.95″ N, 84° 42′ 7.44″ W"). 
+
 ## Reconcile
 
-* Using OpenRefine, the spreadsheets are reconciled against Wikidata’s schema.
+* Before begnning the reconciling process for your dataset, see if your region is well-described geographically in Wikidata.
+  * To save time during reconciliation, make sure that administrative regions (counties, boroughs, parishes, territories, districts, census areas, consolidated city-counties, etc.), [municipalities](https://www.wikidata.org/wiki/Q76514543) (cities and towns with a local government), and [unincorporated communities](https://www.wikidata.org/wiki/Q17343829) (small towns without local governments) are already in Wikidata and have helpful descriptions (so you can tell your region's "Springfield" or "Franklin County" from all the others in the world).
+* Using OpenRefine, reconcile your spreadsheet, build your schema, check for issues, and preview the results.
+  * On the rows tab, [reconcile](https://github.com/OpenRefine/OpenRefine/wiki/Reconciliation) those fields that can be reconciled against Wikidata (organization label, instance of, city, state, county, country, parent organization, and subsidiaries).  Unique fields (phone number, email address, official website, etc.) don't have to be reconciled.
+  * On the [Schema](https://www.wikidata.org/wiki/Wikidata:Tools/OpenRefine/Editing/Schema_alignment) tab, build out the schema to map your fields to the matching properties in Wikidata.  Use your REF URL and RET DAT fields to create field-specific references.
+  * On the [Issues](https://www.wikidata.org/wiki/Wikidata:Tools/OpenRefine/Editing/Quality_assurance) tab, check for typos, conflicts, or other problems. Resolve what you can.
+  * On the Preview tab, do a final check to make sure that the sample records are displaying the way you want them to.  Go back and fix any problems you notice.
+* NOTE: OpenRefine is awesome, but there are some challenges to be aware of:  
+  * When reconciling or building the schema, OpenRefine will time out if the Wikidata query service server is running slowly.  If it's lagging too much, do some other kind of work and come back later when the server isn't so busy.
+  * OpenRefine doesn't give you a report after uploading to Wikidata, so if records were skipped you won't know unless you specifically look for them.  You can catch these by doing a post-ingest check, or during the Quality Control step.
 
 ## Upload
 
 * Updates are uploaded to Wikidata.
+
+## Quality Control
+
+* A team member who didn't work on the original dataset reviews the records in Wikidata for any errors.
+* Each location coordinate should be checked closely, since they are automatically generated and prone to being incorrect.
+  * On the organization record in Wikidata, right click on the coordinate location and open in a new tab.
+  * This will take you to the coordinate location on the GeoHack website.  Click on Google Maps to open the coordinate location.  Zoom in to see if the coordinate location pin is located on top of the correct location.  If the location isn't labeled, you may have to use Street View to confirm that it's the correct location.  If the location is correct, move on to the next record.
+  * If the coordinate location is incorrect, search to find the correct location (which may take some sleuthing).  Once you have found the correct location right click on top of the location and choose "What's here?"
+* As the reviewer checks (and potentially corrects) each record in Wikidata, they mark that they've checked it in the spreadsheet in the QC column by adding the date reviewed and their initials (i.e. 2019-12-03 CL)
+* Since quality control is done in Wikidata, your spreadsheet will no longer be the "source of truth" after ingest.   -- the spreadsheets exist for the purpose of ingesting into Wikidata and performing quality control.  Wikidata then becomes the source of truth, not your spreadsheets.
 
 ## Access
 
