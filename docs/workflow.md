@@ -49,7 +49,7 @@ Below is an example of 1) the phone number field, 2) the phone number REF URL fi
 * Generate coordinate location & county
   * Using a free online tool like [Geocod.io](https://www.geocod.io/) or [MapLarge's Geocoder](https://geocoder.maplarge.com/Geocoder) (free version limited to batches of 100), generate coordinate location and county for each organization's address.  
   * These tools are not exact, so you'll check to make sure that the mapping is correct during the Quality Control step below.
-  * Note that Wikidata requires you to *ingest* coordinate location using decimal format (i.e. "34.435818, -84.702066"), but *displays* coordinate location using DMS format (i.e. "34° 26′ 8.95″ N, 84° 42′ 7.44″ W"). 
+  * Note that Wikidata requires you to *ingest* coordinate location using decimal format (i.e. "34.435818, -84.702066"), but *displays* coordinate location using DMS format (i.e. "34° 26′ 8.95″ N, 84° 42′ 7.44″ W").
 
 ## Reconcile
 
