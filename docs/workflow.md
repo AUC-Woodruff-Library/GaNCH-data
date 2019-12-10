@@ -17,14 +17,14 @@ This page describes how to walk through the full GaNCH workflow, so that you can
 ## Compile
 
 * Reach out to [partner organizations](/docs/project_partners.md) and individuals in your region to identify [data sources](/data/data_sources.md).  
-* Data sources can be found on the web, or may be emailed to you directly from a partner organization.  Screen the data for [Personally Identifying Information (PII)](https://en.wikipedia.org/wiki/Personal_data) such as personal email addresses.  If the PII is already available publically on the web (i.e. stan@organization.org published on the organization's website), we include it.  However, if the PII can be replaced with non-peronal information (i.e. info@organizationl.org), we use the non-peronal information.
+* Data sources can be found on the web, or may be emailed to you directly from a partner organization.  Screen the data for [Personally Identifying Information (PII)](https://en.wikipedia.org/wiki/Personal_data) such as personal email addresses.  If the PII is already available publically on the web (i.e. stan@organization.org published on the organization's website), we include it.  However, if the PII can be replaced with non-peronal information (i.e. info@organization.org), we use the non-personal information.
 * Create a [data dictionary](/data/data_dictionary.md) that defines what fields you're going to use, how those field match up to the Wikidata schema, and whether they're going to be required, recommended, or optional.  This will help you format your data correctly for Wikidata, prioritize work, and explain to other folks what you're doing.
 * Reformat the data from each source into its own spreadsheet matching a [CSV template](/data/TEMPLATE.csv).
   * HTML lists from websites (like the GAMAG dataset) are reformatted into CSV by hand using [VS Code's multi-cursor](https://code.visualstudio.com/docs/getstarted/tips-and-tricks#_multi-cursor-selection) capabilities for batch editing.
   * Straightforward website tables (like the GPLSV dataset) are harvested using the [HTML Table to CSV/Excel Converter](http://www.convertcsv.com/html-table-to-csv.htm)
   * Complex tables (like the GHRAC dataset) are harvested using simple python scripts which dump data into pipe-delimited text files.  These are then imported into Excel, reformatted to match the template, and exported as CSV.
   * Make sure to include fields for the Source (REF URL) and Retrieval Date (RET DAT) for the data, to provide references in Wikidata.
-  * If you're working with several datasets and you know that some organizations will be duplicated across datasets, create an [index](/data/index.csv) that will help you de-dupe organizations as you add on new datasets.  This will prevent you from performing the Update & Source step multiple times for the same organization.  
+  * If you're working with several datasets and you know that some organizations will be duplicated across datasets, create an [index](/data/index.csv) that will help you de-dupe organizations as you add on new datasets.  This will prevent you from wasting time and energy by performing the Update & Source step multiple times for the same organization.  
     * Generate the new datatset and back it up using Git (see below) so you have a snapshot of the whole dataset.
     * Use the [Excel Fuzzy Lookup Add-In](https://www.microsoft.com/en-us/download/details.aspx?id=15011) to compare your new dataset to the index, idenfitying duplicated records.
     * Delete duplicated record rows in the new dataset -- that way you're only updating and sourcing data for each organization record once.
@@ -64,6 +64,7 @@ Below is an example of 1) the phone number field, 2) the phone number REF URL fi
 * NOTE: OpenRefine is awesome, but there are some challenges to be aware of:  
   * When reconciling or building the schema, OpenRefine will time out if the Wikidata query service server is running slowly.  If it's lagging too much, do some other kind of work and come back later when the server isn't so busy.
   * OpenRefine doesn't give you a report after uploading to Wikidata, so if records were skipped you won't know unless you specifically look for them.  You can catch these by doing a post-ingest check, or during the Quality Control step.
+  * You can't create a new item in OpenRefine and create relationships for that item (e.g. Parent Organization and Subsidiaries) at the same time.  Create the new items first (removing the Parent Org and Subsidiary fields from the schema), then do a seperate upload of the relationship fields after the items already exist.  Since property creation doesn't happen simultaneously, OpenRefine may choke on inverse-dependent relationships. 
 
 ## Upload
 
