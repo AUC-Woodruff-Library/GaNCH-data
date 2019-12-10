@@ -27,7 +27,7 @@ This one-year project will create a publicly editable directory of Georgia’s N
 * [2019-10-31 GaNCH Partners Meeting](https://archive.org/details/2019-10-31_GaNCH_Partners_Meeting)
 
 ### Workflow
-* A seperate [Workflow document](/docs/workflow.md) provides a step-by-step process for accomplishing the tasks of the project to help others replicate or adapt our process for their own region.
+* The [Workflow Manual](/docs/workflow.md) provides a step-by-step process for accomplishing the tasks of the project to help others replicate or adapt our process for their own region.
 
 ### Timeline
 
