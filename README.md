@@ -27,15 +27,13 @@ This one-year project will create a publicly editable directory of Georgia’s N
 * [2019-10-31 GaNCH Partners Meeting](https://archive.org/details/2019-10-31_GaNCH_Partners_Meeting)
 
 ### Workflow
+* A seperate [Workflow document](/docs/workflow.md) provides a step-by-step process for accomplishing the tasks of the project to help others replicate or adapt our process for their own region.
+
+### Timeline
 
 * Compile (Jul – Sep, 2019). Graduate Student Assistant (GSA) uses a curated list of [data sources](/data/data_sources.md) as a starting point. Data from each source is reformatted into its own spreadsheet matching a [CSV template](/data/TEMPLATE.csv).
-  * HTML lists (like GAMAG) are reformatted into CSV by hand using [VS Code's multi-cursor](https://code.visualstudio.com/docs/getstarted/tips-and-tricks#_multi-cursor-selection) capabilities for batch editing.
-  * Straightforward tables (like GPLSV) are harvested using the [HTML Table to CSV/Excel Converter](http://www.convertcsv.com/html-table-to-csv.htm)
-  * Complex tables (like GHRAC) are harvested using simple python scripts which dump data into pipe-delimited text files.  These are then imported into Excel, reformatted, and exported as CSV.
 * Update (Oct – Dec, 2019). GSA uses web, email, and phone research to confirm that the data is correct and add any updates as necessary.
-  * [Phone Script](/docs/phone_script.md)
 * Source (Oct – Dec, 2019). Each item is sourced with references to allow for verification of the updates.
-  * Web-based references are captured and dated using the Internet Archive Wayback Machine's [Save Page Now](https://web.archive.org/save) tool.
 * Reconcile (Jan, 2020). Using OpenRefine, the spreadsheets are reconciled against Wikidata’s schema.
 * Upload (Feb, 2020). Updates are uploaded to Wikidata.
 * Access (Feb - Apr, 2020). Web Developer creates a website to display results at the City, County, and State level.
