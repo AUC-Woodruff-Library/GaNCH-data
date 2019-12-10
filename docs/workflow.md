@@ -12,6 +12,7 @@ This page describes how to walk through the full GaNCH workflow, so that you can
     * [python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Python for VS Code.
   * [OpenRefine](http://openrefine.org/) - Data wrangling software which is also used to upload to Wikidata.
   * [Microsoft Excel](https://products.office.com/en-us/excel) - You'll use Excel (or [LibreOffice Calc](https://www.libreoffice.org/discover/calc/)) to perform data formatting and cleanup with formulas to prepare CSVs.  Be careful NOT to use Excel for most editing, as it tends to reformat dates, phone numbers, etc.
+  * [Excel Fuzzy Lookup Add-In](https://www.microsoft.com/en-us/download/details.aspx?id=15011) for de-duplicating the index.
 
 ## Compile
 
