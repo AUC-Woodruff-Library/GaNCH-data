@@ -14,6 +14,6 @@
 |GCFTA| Georgia Countil for the Arts | FY2020 Grant Applicants | N/A (emailed) | 556 |
 |NCCSD | Urban Institute | National Center for Charitable Statistics Data Archive | https://nccs-data.urban.org/index.php | ??? |
 |EOBMF |Internal Revenue Service | Exempt Organizations Business Master File Extract (EO BMF) | https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf | ??? |
-|SAGIS|Savannah Area GIS|SAGIS|https://www.sagis.org/|61|
+|[SAGIS](SAGIS.csv)|Savannah Area GIS|SAGIS|https://www.sagis.org/|61|
 |GAPAR|LYRASIS|Georgia Performing Arts Readiness|Emailed|15|
 |[OTHER](OTHER.csv)|One-off organizations|Email|N/A|24|
