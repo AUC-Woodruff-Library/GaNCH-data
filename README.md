@@ -25,6 +25,7 @@ This one-year project will create a publicly editable directory of Georgia’s N
 * [Project Partners List](/docs/project_partners.md) - The organizations that we're partnering with in Georgia to supply directory information, including a point of contact at each organization
 * [2019-08-29 GaNCH Partners Meeting](https://archive.org/details/2019-08-29_ganch_partners_meeting)
 * [2019-10-31 GaNCH Partners Meeting](https://archive.org/details/2019-10-31_GaNCH_Partners_Meeting)
+* [2020-01-30 GaNCH Partners Meeting](https://archive.org/details/2020-01-30_GaNCH_Partners_Meeting)
 
 ### Workflow
 * The [Workflow Manual](/docs/workflow.md) provides a step-by-step process for accomplishing the tasks of the project to help others replicate or adapt our process for their own region.
