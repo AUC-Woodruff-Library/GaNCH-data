@@ -1,54 +1,81 @@
 Code,organization_label (en),REF URL organization_label (en),RET DAT organization_label (en),description (en),alias (en),instance of (P31),REF URL instance of (P31),RET DAT instance of (P31),located at street address (P6375),REF URL located at street address (P6375),RET DAT located at street address (P6375),city (P131),REF URL city (P131),RET DAT city (P131),county (P131),REF URL county (P131),RET DAT county (P131),state (P131),REF URL state (P131),RET DAT state (P131),country (P17),REF URL country (P17),RET DAT country (P17),coordinate location (P625),REF URL coordinate location (P625),RET DAT coordinate location (P625),phone number (P1329),REF URL phone number (P1329),RET DAT phone number (P1329),email address (P968),REF URL email address (P968),RET DAT email address (P968),official website (P856),REF URL official website (P856),RET DAT official website (P856),inception (P571),REF URL inception (P571),RET DAT inception (P571),"dissolved, abolished or demolished (P576)","REF URL dissolved, abolished or demolished (P576)","RET DAT dissolved, abolished or demolished (P576)",parent organization (P749),REF URL parent organization (P749),RET DAT parent organization (P749),subsidiaries (P355),REF URL subsidiaries (P355),RET DAT subsidiaries (P355),PO Box (P2918),REF URL PO Box (P2918),RET DAT PO Box (P2918),Postal Code (P281),REF URL Postal Code (P281),RET DAT Postal Code (P281),Facebook ID (P2013),REF URL Facebook ID (P2013),RET DAT Facebook ID (P2013)," Source Notes"," Internal Notes",QC
 ,James Pendergrast Memorial Library,,,academic library at Albany State University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Augusta University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Clayton State University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Clara Wood Gould Memorial Library,,,academic library at College of Coastal Georgia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+"",Harold B. Wetherbee Library,"","",academic library at Albany State University,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"",Reese Library,"","",academic library at Augusta University,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+,"Robert B. Greenblatt, M.D. Library",,,academic library at Augusta University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Clayton State University Library,,,academic library at Clayton State University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Clara Wood Gould Memorial Library,,,"academic library at College of Coastal Georgia, Brunswick, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+"",Camden Center Library,"","","academic library at College of Coastal Georgia, Kingsland, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
 ,Simon Schwob Memorial Library,,,academic library at Columbus State University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+"",Columbus State University Music Library,"","",academic music library at Columbus State University,"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
 ,Derrell C. Roberts Library,,,academic library at Dalton State College,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
 ,Henry Alexander Hunt Memorial Library,,,academic library at Fort Valley State University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Georgia College & State University Library and Instructional Technology Center,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Georgia Gwinnett College,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Georgia Highlands College,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Georgia Institute of Technology Library,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Zach S. Henderson Library,,,academic library at Georgia Southern University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,University Library,,,academic library at Georgia State University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Ina Dillard Russell Library,,,academic library at Georgia College & State University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Daniel J. Kaufman Library & Learning Center,,,academic library at Georgia Gwinnett College,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Georgia Highlands College Cartersville Library,,,"academic library at Georgia Highlands College, Cartersville, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+"",Georgia Highlands College Douglasville Library,"","","academic library at Georgia Highlands College, Douglasville, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"",Georgia Highlands College Marietta/KSU Library,"","","academic library at Georgia Highlands College, Marietta, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"",Georgia Highlands College Rome Library,"","","academic library at Georgia Highlands College, Rome, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"",Georgia Highlands College Paulding Library,"","","academic library at Georgia Highlands College, Dallas, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+,Georgia Institute of Technology Main Library,,,"academic library at Georgia Institute of Technology, Atlanta, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+"","Georgia Institute of Technology Archives & Special Collections ","","","archives at Georgia Institute of Technology, Atlanta, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","Library Service Center ","","","library service facility for Georgia Tech Library and Emory University Libraries, Atlanta, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+,Zach S. Henderson Library,,,"academic library at Georgia Southern University, Statesboro, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+"",Lane Library,"","","academic library at Georgia Southern University, Savannah, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+,Georgia State University Atlanta Campus Library,,,"academic library at Georgia State University, Atlanta, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+"",Georgia State University Alpharetta Campus Library,"","","academic library at Georgia State University, Alpharetta, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"",Georgia State University Clarkston Campus Library,"","","academic library at Georgia State University, Clarkston, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"",Georgia State University Decatur Campus Library,"","","academic library at Georgia State University, Decatur, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"",Georgia State University Dunwoody Campus Library,"","","academic library at Georgia State University, Dunwoody, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"",Georgia State University Newton Campus Library,"","","academic library at Georgia State University, Newton, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
 ,Ingram Library,,,academic library at University of West Georgia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
 ,Odum Library,,,academic library at Valdosta State University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Brenau University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Columbia Theological Seminary,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Mercer University Law School,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Morehouse School of Medicine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Andrew College,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Berry College,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Beulah Heights University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Brewton-Parker College,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Covenant College,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,DeVry University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Emmanuel College,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Georgia Central University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Georgia Military College,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,John Marshall Law School,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,LaGrange College,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Drs. Sid E. and Nell K. Williams Library,,,academic library at Life University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Luther Rice College & Seminary,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,New Orleans Baptist Theological Seminary (North Georgia Campus),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Paine College,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Piedmont College,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Point University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Reinhardt University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Richmont Graduate University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Shorter University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Stratford Academy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Seby Jones Library,,,academic library at Toccoa Falls College,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Truett McConnell University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Wesleyan College,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Zell & Shirley Miller Library,,,academic library at Young Harris College,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Academe of the Oaks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,The Atlanta Academy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Atlanta Girls’ School,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Augusta Preparatory Day School,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Cornerstone Christian Academy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
-,Darlington School,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Trustee Library,,,academic library at Brenau University,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,John Bulow Campbell Library,,,"theological library at Columbia Theological Seminary, Decatur, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+"","C. Benton Kline, Jr. Special Collections and Archives","","","archives at Columbia Theological Seminary, Decatur, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+,Jack Tarver Library,,,"academic library at Mercer University, Macon, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+"","Monroe F. Swilley, Jr. Library","","","academic library at Mercer University, Atlanta, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"",Douglas County Regional Academic Center Library,"","","academic library at Mercer University, Lithia Springs, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"",Henry County Regional Academic Center Library,"","","academic library at Mercer University, McDonough, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"",Furman Smith Law Library,"","","law library at Mercer University, Macon, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"",Skelton Medical Library Macon Campus,"","","medical library at Mercer University, Macon, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"",Skelton Medical Library Savannah Campus,"","","medical library at Mercer University, Savannah, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"",American Baptist Historical Society Archives,"","","archives at Mercer University, Atlanta, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+,"M. Delmar Edwards, M.D. Library",,,"medical library at Morehouse School of Medicine, Atlanta, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Pitts Library,,,"academic library at Andrew College, Cuthbert, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Memorial Library,,,"academic library at Berry College, Mount Berry, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Barth Memorial Library,,,"academic library at Beulah Heights University, Atlanta, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Fountain-New Library,,,"academic library at Brewton-Parker College, Mount Vernon, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Anna E. Kresge Memorial Library,,,"academic library at Covenant College, Lookout Mountain, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Shaw-Leslie Library,,,"academic library at Emmanuel College, Franklin Springs, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Georgia Central University Library,,,"academic library at Georgia Central University, Atlanta, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Sibley-Cone Library,,,"academic library at Georgia Military College, Milledgeville, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,John Marshall Law School Library,,,"academic library at John Marshall Law School, Atlanta, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Frank and Laura Lewis Library,,,"academic library at LaGrange College, LaGrange, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Drs. Sid E. and Nell K. Williams Library,,,"academic library at Life University, Marietta, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Smith Library,,,"academic library at Luther Rice College & Seminary, Lithonia, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,New Orleans Baptist Theological Seminary North Georgia Hub Library,,,"academic library at New Orleans Baptist Theological Seminary (North Georgia Campus), Duluth, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Collins-Callaway Library & Learning Resources Center,,,"academic library at Paine College, Augusta, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+"",P. Randolph Shy Special Collection,"","","archives at Paine College, Augusta, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+,Arrendale Library,,,"academic library at Piedmont College, Demorest, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+"",Lane Library,"","","academic library at Piedmont College, Athens, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+,Point University Library,,,"academic library at Point University, West Point, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Hill Freeman Library and Spruill Learning Center,,,"academic library at Reinhardt University, Waleska, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Richmont Graduate University Library,,,"academic library at Richmont Graduate University, Atlanta, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Livingston Library,,,"academic library at Shorter University, Rome, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Olson Library,,,"academic library at Stratford Academy, Macon, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Seby Jones Library,,,"academic library at Toccoa Falls College, Toccoa Falls, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Cofer Library,,,"academic library at Truett McConnell University, Cleveland, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Lucy Lester Willet Memorial Library,,,"academic library at Wesleyan College, Macon, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Zell & Shirley Miller Library,,,"academic library at Young Harris College, Young Harris, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Academe of the Oaks,,,"high school in Decatur, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Atlanta Academy Library,,,"private school library in Roswell, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://aalibrary.weebly.com/,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Atlanta Girls’ School,,,"private school in Atlanta, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Lower School Library,,,"private school library at Augusta Preparatory Day School, Augusta, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+"",Baird Library,"","","private school library at Augusta Preparatory Day School, Augusta, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+,Cornerstone Christian Academy Media Center,,,"library media center at Cornerstone Christian Academy, Peachtree Corners, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+,Joanne G. Yancey Library,,,"private school library at Darlington School, Rome, Georgia, USA",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
+"",McCallie-Kennedy Library,"","","private school library at Darlington School, Rome, Georgia, USA","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
 ,Deerfield-Windsor School,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
 ,First Presbyterian Day School,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
 ,Frederica Academy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","","",,,,,,,,,,,,,,,,"","",
