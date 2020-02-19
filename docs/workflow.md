@@ -23,13 +23,13 @@ This page describes how to walk through the full GaNCH workflow, so that you can
   * HTML lists from websites (like the GAMAG dataset) are reformatted into CSV by hand using [VS Code's multi-cursor](https://code.visualstudio.com/docs/getstarted/tips-and-tricks#_multi-cursor-selection) capabilities for batch editing.
   * Straightforward website tables (like the GPLSV dataset) are harvested using the [HTML Table to CSV/Excel Converter](http://www.convertcsv.com/html-table-to-csv.htm)
   * Complex tables (like the GHRAC dataset) are harvested using simple python scripts which dump data into pipe-delimited text files.  These are then imported into Excel, reformatted to match the template, and exported as CSV.
-  * Make sure to include fields for the Source (REF URL) and Retrieval Date (RET DAT) for the data, to provide references in Wikidata.
+  * Make sure to include fields for the Reference URL (REF URL) and Retrieval Date (RET DAT) for the data, to provide references in Wikidata.
   * If you're working with several datasets and you know that some organizations will be duplicated across datasets, create an [index](/data/index.csv) that will help you de-dupe organizations as you add on new datasets.  This will prevent you from wasting time and energy by performing the Update & Source step multiple times for the same organization.  
     * Generate the new datatset and back it up using Git (see below) so you have a snapshot of the whole dataset.
     * Use the [Excel Fuzzy Lookup Add-In](https://www.microsoft.com/en-us/download/details.aspx?id=15011) to compare your new dataset to the index, idenfitying duplicated records.
     * Delete duplicated record rows in the new dataset -- that way you're only updating and sourcing data for each organization record once.
-    * If you accidentally deleted an organization that wasn't duplicate, use Git to view the deleted record and copy-and-paste it back into your dataset to udpate and source.
-* As you work, use [Git](https://www.atlassian.com/git/tutorials/what-is-git) to save your work as you go.  You can get fancy with Git, but for our work we mostly use "[git pull](https://www.atlassian.com/git/tutorials/syncing/git-pull)", "[git add](https://www.atlassian.com/git/tutorials/saving-changes)", "[git commit](https://www.atlassian.com/git/tutorials/saving-changes/git-commit)" and "[git push](https://www.atlassian.com/git/tutorials/syncing/git-push)".
+    * If you accidentally deleted an organization that wasn't duplicate, use Git to view the deleted record and copy-and-paste it back into your dataset to update and source.
+* As you work, use [Git](https://www.atlassian.com/git/tutorials/what-is-git) to save your work as you go.  You can get fancy with Git, but for our work we mostly use "[git pull](https://www.atlassian.com/git/tutorials/syncing/git-pull)", "[git add .](https://www.atlassian.com/git/tutorials/saving-changes)", "[git commit -m "what changed"](https://www.atlassian.com/git/tutorials/saving-changes/git-commit)" and "[git push](https://www.atlassian.com/git/tutorials/syncing/git-push)".
 * At the end of this step, you will have several datasets formatted to match your CSV template.
 
 ## Update & Source
