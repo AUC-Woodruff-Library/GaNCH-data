@@ -29,6 +29,7 @@ This one-year project will create a publicly editable directory of Georgia’s N
 
 ### Workflow
 * The [Workflow Manual](/docs/workflow.md) provides a step-by-step process for accomplishing the tasks of the project to help others replicate or adapt our process for their own region.
+* [Addressing Challenges](/docs/challenges.md) describes and documents some of the challenges we encountered during the project, and how we are addressing them. 
 
 ### Timeline
 
