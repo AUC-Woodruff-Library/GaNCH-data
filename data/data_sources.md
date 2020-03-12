@@ -4,7 +4,7 @@
 |[GHSOC](GHSOC.csv)|Georgia Historical Society |	Affiliate Chapter List by County | https://georgiahistory.com/education-outreach/affiliate-chapter-program/affiliate-chapter-list-by-county/ | 44+36+47 = 127 |
 |[GAMAG](GAMAG.csv)|Georgia Association of Museums and Galleries |	Museum Links |	http://www.gamg.org/museumlinks.html |155 |
 |[GPLSV](GPLSV.csv)|Georgia Public Library Service |	All Public Library Facilities |	https://georgialibraries.org/allpubliclibraryfacilities/	| 392 |
-|GALIL| GALILEO	| Participating Institutions	| https://about.galileo.usg.edu/institutions	| 93 |
+|[GALIL](GALIL.csv)| GALILEO	| Participating Institutions	| https://about.galileo.usg.edu/institutions	| 81 |
 |TCSOG| Technical College System of Georgia	| Find a College |	https://tcsg.edu/find-a-college/ |	22|
 |ARTGA| ArtsGeorgia |	Directory of Directories |	https://www.artsgeorgia.net/directory/directory-of-directoriescalendars/ |	Meta |
 |GSCCC | Georgia Superior Court Clerks' Cooperative Authority |	Clerks |	https://www.gsccca.org/Clerks/ |	159 |
