@@ -1,196 +1,161 @@
 18 March 2020
 
-    diffhist
+    
     ! Internal Family Systems Model (Q6047656)‎ 11:29 +161‎ ‎Irena Vacheva PhD talk contribs‎ ‎Added link to [bgwiki]: Моделът на вътрешните семейни системи (ВСС)
-    diffhist
+    
     Martin Luther King, Jr., National Historic Site (Q5016739)‎ 08:38 +106‎ ‎Väsk talk contribs‎ ‎Added [sv] label: Martin Luther King, Jr., National Historic Site
-    diffhist
+    
     Historic Macon Foundation (Q30258137)‎ 06:02 +782‎ ‎BrokenSegue talk contribs‎ ‎Added reference to claim: Twitter username (P2002): historicmacon, batch #26891 Tag: QuickStatements [1.5]
-    diffhist
+    
     Georgia Public Library Service (Q30268112)‎ 06:02 +785‎ ‎BrokenSegue talk contribs‎ ‎Added reference to claim: Twitter username (P2002): georgialibs, batch #26891 Tag: QuickStatements [1.5]
-    diffhist
+    
     Walker County School District (Q7962244)‎ 03:14 +783‎ ‎BrokenSegue talk contribs‎ ‎Added reference to claim: Twitter username (P2002): walkercoschools, batch #26887 Tag: QuickStatements [1.5]
-    diffhist
+    
     Tellus Science Museum (Q7697704)‎ 00:25 +777‎ ‎BrokenSegue talk contribs‎ ‎Added reference to claim: Twitter username (P2002): tellusmuseum, #quickstatements; #temporary_batch_1584491042951 Tag: QuickStatements [1.5]
 
 17 March 2020
 
-    diffhist
+    
     Ursula Röthlisberger (Q58685998)‎ 17:49 +350‎ ‎Clifflandis talk contribs‎ ‎Created claim: GND ID (P227): 1089257775
-    diffhist
+    
     Currahee Military Museum (Q72940839)‎ 13:13 +9,360‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 474-479 (details) Tag: OpenRefine [3.2]
 
 16 March 2020
 
-    diffhist
+    
     William Breman Jewish Heritage & Holocaust Museum (Q8005885)‎ 20:34 +10,427‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 453-462 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     West Georgia Regional Library System (Q17035737)‎ 20:34 +4,971‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 453-462 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Pooler Library (Q77062580)‎ 20:31 +4,529‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 451-452 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     b Irwinville, Georgia (Q6075163)‎ 20:12 -816‎ ‎CommonsDelinker talk contribs‎ ‎Removed claim: image (P18): Tobacco Barn in Irwinville, Georgia.jpg, Removing Tobacco_Barn_in_Irwinville,_Georgia.jpg, it has been deleted from Commons by P199 because: Copyright violation, no indication of a [[:c:COM:L|free licens
-    diffhist
+    
     Watson-Brown Foundation (Q30273264)‎ 20:05 +11,080‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 446-450 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Washington-Wilkes Historical Museum (Q17033772)‎ 20:05 +12,596‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 446-450 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Valdosta State University Archives and Special Collections (Q55364306)‎ 20:01 +10,477‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 440-445 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     UGA Marine Education Center and Aquarium (Q83968833)‎ 19:40 +9,422‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 431-439 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Telfair Museums (Q2402114)‎ 19:32 +4,534‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 410-415 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     tourist attraction (Q570116)‎ 19:31 -405‎ ‎Clifflandis talk contribs‎ ‎Removed claim: subclass of (P279): Central African Republic (Q929)
-    diffhist
+    
     Steffen Thomas Museum and Archives (Q72941249)‎ 18:39 +9,845‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 401-402 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Okefenokee National Wildlife Refuge (Q7081911)‎ 18:31 -719‎ ‎Clifflandis talk contribs‎ ‎Removed claim: official website (P856): https://www.fws.gov/refuge/okefenokee
-    diffhist
+    
     Saint Marys Submarine Museum (Q72941158)‎ 18:06 +12,194‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 397-400 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Society of Georgia Archivists (Q71430174)‎ 17:40 +11,383‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 381 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Asa H. Gordon Library at Savannah State University (Q72941190)‎ 16:39 +10,651‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 370-380 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Jen Library (Q83968849)‎ 16:37 +7,435‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 364-369 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Roundhouse Railroad Museum (Q7371257)‎ 16:37 +9,857‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 364-369 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Port Wentworth Branch (Q69765274)‎ 15:50 +3,713‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 348-350 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Polk County Historical Society Museum (Q72941142)‎ 15:50 +11,615‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 348-350 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Old Fort Jackson (Q72926764)‎ 15:00 +12,387‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 328-338 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Mighty Eighth Air Force Museum (Q6844116)‎ 14:32 +11,549‎ ‎Afsmith27 talk contribs‎ ‎Changed label, description and/or aliases in en, and other parts: GHRAC 301-310 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     LeConte Woodmanston Foundation (Q72940971)‎ 13:57 +10,201‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 272-274 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     m Wikidata:Lists/US counties/dashboard‎ 08:53 0‎ ‎InteGraalityBot talk contribs‎ Weekly update of property usage stats
-    diffhist
+    
     Michael C. Carlos Museum (Q6829008)‎ 02:33 +1,723‎ ‎Jklamo talk contribs‎ ‎Created claim: NKCR AUT ID (P691): xx0209495, +nkc (details) Tag: OpenRefine [3.3]
 
 15 March 2020
 
-    diffhist
+    
     Liberty County Jail (Q16894143)‎ 19:53 +516‎ ‎Delirium talk contribs‎ ‎Created claim: inception (P571): 1892
-    diffhist
+    
     Brenau University (Q4960619)‎ 02:43 +395‎ ‎Vahurzpu talk contribs‎ ‎Added reference to claim: member of (P463): Women's College Coalition (Q8030863), #quickstatements; #temporary_batch_1584240032013 Tag: QuickStatements [1.5]
 
 14 March 2020
 
-    diffhist
+    
     Elizabeth Theiss-Morse (Q87466386)‎ 01:50 +430‎ ‎Animalparty talk contribs‎ ‎Created claim: given name (P735): Elizabeth (Q385468)
 
 13 March 2020
 
-    diffhist
+    
     Frank and Laura Lewis Library (Q87654283)‎ 19:29 +331‎ ‎Clifflandis talk contribs‎ ‎Changed claim: coordinate location (P625): 33°2'18.740"N, 85°2'35.362"W
-    diffhist
+    
     National Society of the Colonial Dames of America (Q7753216)‎ 18:54 +344‎ ‎Adam Harangozó talk contribs‎ ‎Created claim: e-WV ID (P7695): 1474, Matched to Colonial Dames of America (#83595400) #mix'n'match Tag: Widar [1.4]
-    diffhist
+    
     Lapham–Patterson House (Q6488153)‎ 17:54 +413‎ ‎Clifflandis talk contribs‎ ‎Created claim: instance of (P31): historic house museum (Q2087181)
-    diffhist
+    
     Greene County Historical Society Museum (Q87489469)‎ 17:45 +3‎ ‎Clifflandis talk contribs‎ ‎Changed claim: official website (P856): https://visitlakeoconee.com/business/greene-county-history-museum/
-    diffhist
+    
     Lake Park Area Historical Society Museum (Q78921822)‎ 17:44 +11,149‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 256-270 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Harry Van Buren Richardson (Q55851486)‎ 06:24 +363‎ ‎Vladimir Alexiev talk contribs‎ ‎Added reference to claim: WorldCat Identities ID (P7859): lccn-no2001100367, batch #25653 Tag: QuickStatements [1.5]
-    diffhist
+    
     Bettie M. Sellers (Q72208061)‎ 06:11 +363‎ ‎Vladimir Alexiev talk contribs‎ ‎Added reference to claim: WorldCat Identities ID (P7859): lccn-n77016901, batch #25654 Tag: QuickStatements [1.5]
-    diffhist
+    
     Kevin M. Murphy (Q709188)‎ 01:16 +1,016‎ ‎Ghouston talk contribs‎ ‎Updated item: setting P4955 from P549
 
 12 March 2020
 
-    diffhist
+    
     Roman Catholic Diocese of Savannah (Q876294)‎ 21:32 +770‎ ‎BrokenSegue talk contribs‎ ‎Added reference to claim: Twitter username (P2002): diosav, batch #26374 Tag: QuickStatements [1.5]
-    diffhist
+    
     Athens Technical College Library (Q87482090)‎ 18:48 +360‎ ‎Clifflandis talk contribs‎ ‎Changed claim: official website (P856): http://library.athenstech.edu/
-    diffhist
+    
     conservation organization (Q1899015)‎ 14:44 +124‎ ‎Renessaince talk contribs‎ ‎Added [be-tarask] label: прыродаахоўная арганізацыя
-    diffhist
+    
     (Q87489786)‎ 14:07 -93‎ ‎Clifflandis talk contribs‎ ‎Redirected to Q55378454 Tag: New redirect
-    diffhist
+    
     Zach S. Henderson Library (Q55378454)‎ 14:07 +10,586‎ ‎Clifflandis talk contribs‎ ‎Merged Item from Q87489786: merge.js
-    diffhist
+    
     Kennesaw (Q1001316)‎ 12:21 -848‎ ‎Сидик из ПТУ talk contribs‎ ‎Removed claim: located in the administrative territorial entity (P131): Georgia (Q1428)
-    diffhist
+    
     b Catoosa County (Q260871)‎ 12:19 +74‎ ‎MatSuBot talk contribs‎ ‎Changed label, description and/or aliases in et: add missing labels
-    diffhist
+    
     municipality of Georgia (Q76514543)‎ 09:42 +79‎ ‎Davidpar talk contribs‎ ‎Added [ca] label: municipi de Geòrgia
-    diffhist
+    
     Thomaston (Q2856170)‎ 09:42 +67‎ ‎Davidpar talk contribs‎ ‎Added [ca] label: Thomaston
 
 11 March 2020
 
-    diffhist
+    
     Clara Wood Gould Memorial Library (Q55395879)‎ 20:30 +9,499‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 211-220 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Girl Scout First Headquarters (Q83968852)‎ 20:03 +8,993‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 194-202 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     The National Society of The Colonial Dames of America in the State of Georgia (Q83980701)‎ 19:42 +11,194‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 178-190 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Georgia Salzburger Society (Q23074221)‎ 19:42 +13,532‎ ‎Afsmith27 talk contribs‎ ‎Changed label, description and/or aliases in en, and other parts: GHRAC 178-190 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Sautee Nacoochee Arts and Community Association (Q72941177)‎ 19:22 +12,372‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 141-150 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Decatur County-Gilbert H. Gragg Library (Q69765425)‎ 19:16 +9,957‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 126-136 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Decatur County Historical and Genealogical Society (Q77313336)‎ 18:57 +3,738‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 111-125 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Camden Center Library (Q55396080)‎ 18:34 +11,982‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 91-100 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Cobb Landmarks (Q72926284)‎ 18:34 +12,788‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 91-100 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     The Structure and Biology of Arctic Flowering Plants (Q7767073)‎ 18:25 +130‎ ‎Clifflandis talk contribs‎ ‎Added [en] description: English language scientific monograph series on arctic flowering plants
-    diffhist
+    
     Coastal Heritage Society, Inc. (Q72940833)‎ 17:31 +9,693‎ ‎Afsmith27 talk contribs‎ ‎Updated item: Cave Spring Historical Society 71-90 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Coastal Georgia Historical Society (Q30257970)‎ 17:31 +12,692‎ ‎Afsmith27 talk contribs‎ ‎Updated item: Cave Spring Historical Society 71-90 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Roman Catholic Diocese of Savannah Archives & Records Management (Q84083207)‎ 15:59 +11,039‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 51-70 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Atlanta Metropolitan State College Library (Q55396702)‎ 14:51 +12,092‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 11-30 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Alpha Delta Pi Sorority Memorial Headquarters (Q56232942)‎ 14:17 +12,113‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 1-10 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     All Saints' Episcopal Church Archives and Library (Q56232940)‎ 14:17 +11,610‎ ‎Afsmith27 talk contribs‎ ‎Updated item: GHRAC 1-10 (details) Tag: OpenRefine [3.2]
-    diffhist
+    
     Acworth Society for Historic Preservation (Q56232937)‎ 14:17 +3,864‎ ‎Afsmith27 talk contribs‎ ‎Changed label, description and/or aliases in en, and other parts: GHRAC 1-10 (details) Tag: OpenRefine [3.2]
-
-10 March 2020
-
-    diffhist
-    Telfair Academy of the Arts and Sciences, Savannah, Georgia (Q64170992)‎ 20:40 +403‎ ‎Brwz talk contribs‎ ‎Added reference to claim: width (P2049): 15 centimetre, #quickstatements; #temporary_batch_1583847042079 Tag: QuickStatements [1.5]
-
-9 March 2020
-
-    diffhist
-    located in the administrative territorial entity (P131)‎ 05:56 +277‎ ‎Richard Arthur Norton (1958- ) talk contribs‎ ‎Changed claim: property constraint (P2302): value type constraint (Q21510865) Tag: Property constraint changed
-
-8 March 2020
-
-    diffhist
-    Andrew Jackson Lamoureux (Q15813141)‎ 15:04 +363‎ ‎Vladimir Alexiev talk contribs‎ ‎Added reference to claim: WorldCat Identities ID (P7859): lccn-n88660540, batch #25640 Tag: QuickStatements [1.5]
-
-7 March 2020
-
-    diffhist
-    Chinhui Juhn (Q41799676)‎ 12:56 +363‎ ‎Vladimir Alexiev talk contribs‎ ‎Added reference to claim: WorldCat Identities ID (P7859): lccn-no95023944, batch #25639 Tag: QuickStatements [1.5]
-    diffhist
-    ! Cartersville (Q932346)‎ 12:31 +72‎ ‎Mikami Yua talk contribs‎ ‎Added [zh] description: 位於美國, #suggestededit-add 1.0 Tags: Mobile edit Mobile app edit Android app edit Suggested Edits edit
-    diffhist
-    Jean Adams (Q13736703)‎ 03:45 +362‎ ‎Vladimir Alexiev talk contribs‎ ‎Added reference to claim: WorldCat Identities ID (P7859): lccn-n89225673, batch #25637 Tag: QuickStatements [1.5]
-
-6 March 2020
-
-    diffhist
-    Náníbaaʼ Garrison (Q64007103)‎ 07:19 +375‎ ‎Vladimir Alexiev talk contribs‎ ‎Added reference to claim: WorldCat Identities ID (P7859): lccn-no2018172503, batch #25638 Tag: QuickStatements [1.5]
-    diffhist
-    b Jean Ruth Adams (Q87153868)‎ 05:02 +440‎ ‎Pi bot talk contribs‎ ‎Added reference to claim: date of birth (P569): 1928, BOT - Adding 1 reference: imported from Wikimedia project (P143): English Wikipedia (Q328)
-    diffhist
-    Mary S. Taylor (Q21610320)‎ 03:23 -348‎ ‎Clifflandis talk contribs‎ ‎Removed claim: Library of Congress authority ID (P244): n88627075
-    diffhist
-    Neptune Small (Q87147559)‎ 01:45 +385‎ ‎Clifflandis talk contribs‎ ‎Created claim: New Georgia Encyclopedia ID (P4903): history-archaeology/neptune-small-1831-1907
