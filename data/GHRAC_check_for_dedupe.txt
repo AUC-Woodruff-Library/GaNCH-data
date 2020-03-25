@@ -1,13 +1,14 @@
 Deduped, check for rollback:
 
-Currahee Military Museum
-William Breman Jewish Heritage Museum
-St. Marys Submarine Museum
-Steffen Thomas Museum and Archives
-Asa H. Gordon Library and Archives
-Polk County Historical Society Museum - two different addresses
-Polk County Historical Society - listed as a Children's museum in Wikidata (leaving both of these in the index for now)
-Girl Scout First Headquarters
-Coastal Heritage Society
-Coastal Georgia Historical Society
-Catholic Diocese of Savannah
+^Currahee Military Museum
+^William Breman Jewish Heritage Museum
+^St. Marys Submarine Museum
+^St. Marys Historic Preservation Commission
+^Steffen Thomas Museum and Archives
+^Asa H. Gordon Library and Archives
+^Polk County Historical Society Museum - two different addresses
+^Polk County Historical Society - listed as a Children's museum in Wikidata (leaving both of these in the index for now)
+^Girl Scout First Headquarters
+^Coastal Heritage Society
+^Coastal Georgia Historical Society
+^Catholic Diocese of Savannah
