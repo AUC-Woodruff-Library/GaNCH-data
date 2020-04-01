@@ -12,6 +12,7 @@ cultural institution,,,,,
 ,,,library branch,,
 ,,,research library,,
 ,,,,academic library,
+"","","",library storage facility,"",""
 ,,archives,,,
 ,cultural sector,,,,
 heritage site,,,,,
@@ -22,4 +23,6 @@ archives [building],,,,,
 historic preservation organization,,,,,
 opera house,,,,,
 geneaological society,,,,,
-plantation,"","","","",""
+plantation,,,,,
+repository,"","","","",""
+historical society,"","","","",""
