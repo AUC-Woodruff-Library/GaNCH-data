@@ -8,11 +8,11 @@
 |[TCSOG](TCSOG.csv)| Technical College System of Georgia	| Find a College |	https://tcsg.edu/find-a-college/ |	39|
 |ARTGA| ArtsGeorgia |	Directory of Directories |	https://www.artsgeorgia.net/directory/directory-of-directoriescalendars/ |	Meta |
 |GSCCC | Georgia Superior Court Clerks' Cooperative Authority |	Clerks |	https://www.gsccca.org/Clerks/ |	159 |
-|IMLSS| Institute of Museum and Library Services | Georgia Museums List | https://docs.google.com/spreadsheets/d/104wXi8wh6VXIIjFJNYlrtphh9G7J7TxztVD-ZjhGF70/ | 491 |
-|GADNR| Georgia Department of Natural Resources | Georgia State Parts, Historic Sites, and Partners | https://gastateparks.org/Map | 72 |
-|GCFTA| Georgia Countil for the Arts | FY2020 Grant Applicants | N/A (emailed) | 556 |
+|[IMLSS](IMLSS.csv)| Institute of Museum and Library Services | Georgia Museums List | https://docs.google.com/spreadsheets/d/104wXi8wh6VXIIjFJNYlrtphh9G7J7TxztVD-ZjhGF70/ | 491 |
+|[GADNR](GADNR.csv)| Georgia Department of Natural Resources | Georgia State Parts, Historic Sites, and Partners | https://gastateparks.org/Map | 72 |
+|[GCFTA](GCFTA.csv)| Georgia Countil for the Arts | FY2020 Grant Applicants | N/A (emailed) | 556 |
 |NCCSD | Urban Institute | National Center for Charitable Statistics Data Archive | https://nccs-data.urban.org/index.php | ??? |
 |EOBMF |Internal Revenue Service | Exempt Organizations Business Master File Extract (EO BMF) | https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf | ??? |
 |[SAGIS](SAGIS.csv)|Savannah Area GIS|SAGIS|https://www.sagis.org/|61|
-|GAPAR|LYRASIS|Georgia Performing Arts Readiness|Emailed|15|
+|[GAPAR](GAPAR.csv)|LYRASIS|Georgia Performing Arts Readiness|Emailed|15|
 |[OTHER](OTHER.csv)|One-off organizations|Email|N/A|24|
