@@ -1,37 +1,57 @@
-Level 1,Level 2,Level 3,Level 4,Level 5,Level 6
-protected area,,,,,
-,nature reserve,,,,
-,,nature center,,,
-cultural institution,,,,,
-,GLAM,,,,
-,,museum,,,
-,,,biographical museum,,
-,,library,,,
-,,,special library,,
-,,,public library,,
-,,,library branch,,
-,,,research library,,
-,,,,academic library,
-"","","",library storage facility,"",""
-,,archives,,,
-,cultural sector,,,,
-heritage site,,,,,
-tourist attraction,,,,,
-,zoo,,,,
-,public aquarium,,,,
-archives [building],,,,,
-historic preservation organization,,,,,
-opera house,,,,,
-geneaological society,,,,,
-plantation,,,,,
-repository,"","","","",""
-historical society,"","","","",""
-arts council,"","","","",""
-historic district,"","","","",""
-theatre,"","","","",""
-neighborhood association
-cultural organization
-repository
-ethnic group
-arts centre
-library system
+Level 1,Level 2,Level 3,Level 4,Level 5,Level 6,Level 7
+protected area,,,,,,""
+,nature reserve,,,,,""
+,,nature center,,,,""
+cultural institution,,,,,,""
+,GLAM,,,,,""
+,,museum,,,,""
+,,,biographical museum,,,""
+"","","",science museum,"","",""
+"","","","",technology museum,"",""
+"","","","","",transport museum,""
+"","","","","","",railway museum
+"","","",military museum,"","",""
+"","","",history museum,"","",""
+"","","","",historic house museum,"",""
+,,library,,,,""
+,,,library system,,,""
+,,,special library,,,""
+,,,public library,,,""
+,,,library branch,,,""
+,,,research library,,,""
+,,,,academic library,,""
+,,,library storage facility,,,""
+,,archive [institution],,,,""
+,,historical society,,,,""
+,,,historic preservation organization,,,""
+,,,genealogical society,,,""
+,,,,lineage society,,""
+,cultural sector,,,,,""
+,,arts council,,,,""
+,cultural organization,,,,,""
+,cultural center,,,,,""
+,,arts centre,,,,""
+cultural heritage,,,,,,""
+,heritage site,,,,,""
+"","",historic site,"","","",""
+"","","",historic house,"","",""
+tourist attraction,,,,,,""
+,zoo,,,,,""
+,public aquarium,,,,,""
+performing arts building,,,,,,""
+,theatre,,,,,""
+,,opera house,,,,""
+collection,,,,,,""
+,repository,,,,,""
+farm,,,,,,""
+,plantation,,,,,""
+human-geographic territorial entity,,,,,,""
+,historic district,,,,,""
+organization,,,,,,""
+,neighborhood association,,,,,""
+,institution,,,,,""
+,,archives [building],,,,""
+,council,,,,,""
+,,tribal council,,,,""
+social group,,,,,,""
+,ethnic group,,,,,""
