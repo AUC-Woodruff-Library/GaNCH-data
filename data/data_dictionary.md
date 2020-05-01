@@ -15,7 +15,7 @@ All fields that are sourceable are followed by two additional columns for the [r
 |description (en)| brief description of the organization to help disambiguate, language must be defined | REQUIRED |
 |alias (en)| other names/spellings of the organization, language must be defined | optional |
 |[instance of (P31)](https://www.wikidata.org/wiki/Property:P31)| that class of which this subject is a particular example and member (subject typically an individual member with a proper name label) (i.e., library, archives, museum, gallery, etc.) | REQUIRED |
-|[located at street address (P6375)](https://www.wikidata.org/wiki/Property:P6375)| full street address where subject is located. include building number through to post code. use also P669 if the street is known as a separate element | REQUIRED |
+|[located at street address (P6375)](https://www.wikidata.org/wiki/Property:P6375)| full street address where subject is located. include building number through to post code. use also P669 if the street is known as a separate element. language must be declared. | REQUIRED |
 |[city (P131)](https://www.wikidata.org/wiki/Property:P131)| the item is located on the territory of the following administrative entity | REQUIRED |
 |[county (P131)](https://www.wikidata.org/wiki/Property:P131)|the item is located on the territory of the following administrative entity | REQUIRED |
 |[state (P131)](https://www.wikidata.org/wiki/Property:P131)| the item is located on the territory of the following administrative entity | REQUIRED |
@@ -33,6 +33,7 @@ All fields that are sourceable are followed by two additional columns for the [r
 |[Facebook ID (P2013)](https://www.wikidata.org/wiki/Property:P2013) | official identifier for a person, product or organization in Facebook - everything after https://www.facebook.com/ | optional |
 |Source Notes | source of data when verified from non-web source (email, phone, etc.), similar to a MARC 670 (Source Data Found) Field in Name Authority Records.  Git commit URL will be used for source URL. | optional |
 |Internal Notes | internal notes and reminders for project staff | optional |
+|QC | date and initials of Quality Control check | optional |
 
 ## Examples
 
