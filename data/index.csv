@@ -1177,8 +1177,8 @@ Org Code,Organization Name
 1177,Georgia Highlands College Rome Library
 1178,Georgia Highlands College Paulding Library
 1179,Georgia Institute of Technology Main Library
-1180,"Georgia Institute of Technology Archives & Special Collections "
-1181,"Library Service Center "
+1180,Georgia Institute of Technology Archives & Special Collections 
+1181,Library Service Center 
 1182,Lane Library
 1183,Georgia State University Atlanta Campus Library
 1184,Georgia State University Alpharetta Campus Library
@@ -1263,12 +1263,12 @@ Org Code,Organization Name
 1263,Georgia Piedmont Technical College Newton Campus Learning Resource Center
 1264,Georgia Piedmont Technical College South DeKalb Campus Learning Resource Center
 1265,Gwinnett Technical College Alpharetta-North Fulton Library
-1266,"Gwinnett Technical College Lawrenceville Library "
-1267,"Lanier Technical College Hall Campus Library "
-1268,"Lanier Technical College Forsyth Campus Library "
-1269,"Lanier Technical College Barrow Campus Library "
-1270,"Lanier Technical College Dawson Campus Library "
-1271,"Lanier Technical College Jackson Campus Library "
+1266,Gwinnett Technical College Lawrenceville Library 
+1267,Lanier Technical College Hall Campus Library 
+1268,Lanier Technical College Forsyth Campus Library 
+1269,Lanier Technical College Barrow Campus Library 
+1270,Lanier Technical College Dawson Campus Library 
+1271,Lanier Technical College Jackson Campus Library 
 1272,North Georgia Technical College Blairsville Library
 1273,North Georgia Technical College Clarkesville Library
 1274,North Georgia Technical College Currahee Library
@@ -1337,164 +1337,464 @@ Org Code,Organization Name
 1337,Resaca Battlefield Historic State
 1338,Rocky Mountain Recreation and Public Fishing Area
 1339,Sam Shortline Excursion Train
-1340,
-1341,
-1342,
-1343,
-1344,
-1345,
-1346,
-1347,
-1348,
-1349,
-1350,
-1351,
-1352,
-1353,
-1354,
-1355,
-1356,
-1357,
-1358,
-1359,
-1360,
-1361,
-1362,
-1363,
-1364,
-1365,
-1366,
-1367,
-1368,
-1369,
-1370,
-1371,
-1372,
-1373,
-1374,
-1375,
-1376,
-1377,
-1378,
-1379,
-1380,
-1381,
-1382,
-1383,
-1384,
-1385,
-1386,
-1387,
-1388,
-1389,
-1390,
-1391,
-1392,
-1393,
-1394,
-1395,
-1396,
-1397,
-1398,
-1399,
-1400,
-1401,
-1402,
-1403,
-1404,
-1405,
-1406,
-1407,
-1408,
-1409,
-1410,
-1411,
-1412,
-1413,
-1414,
-1415,
-1416,
-1417,
-1418,
-1419,
-1420,
-1421,
-1422,
-1423,
-1424,
-1425,
-1426,
-1427,
-1428,
-1429,
-1430,
-1431,
-1432,
-1433,
-1434,
-1435,
-1436,
-1437,
-1438,
-1439,
-1440,
-1441,
-1442,
-1443,
-1444,
-1445,
-1446,
-1447,
-1448,
-1449,
-1450,
-1451,
-1452,
-1453,
-1454,
-1455,
-1456,
-1457,
-1458,
-1459,
-1460,
-1461,
-1462,
-1463,
-1464,
-1465,
-1466,
-1467,
-1468,
-1469,
-1470,
-1471,
-1472,
-1473,
-1474,
-1475,
-1476,
-1477,
-1478,
-1479,
-1480,
-1481,
-1482,
-1483,
-1484,
-1485,
-1486,
-1487,
-1488,
-1489,
-1490,
-1491,
-1492,
-1493,
-1494,
-1495,
-1496,
-1497,
-1498,
-1499,
-1500,
+1340,Adam Brinson Historical Society
+1341,African American Sports Museum
+1342,African-American Historical Association Of Newton County
+1343,African-American Research Library And Cultural Center
+1344,African American Alliance Inc.
+1345,Air Acres Museum
+1346,Airborne Historical Association Inc.
+1347,Altamaha Heritage Center
+1348,American Society For The History Of Rhetoric
+1349,Ames Society
+1350,Animation Hall Of Fame
+1351,Anne Frank In World
+1352,Army Aviation Heritage Foundation And Museum
+1353,Art Station
+1354,Atlanta Beltline Partnership
+1355,Atlanta Heritage Row
+1356,Heritage Fund of Atlanta Medical Association
+1357,Augusta Cotton Exchange Museum
+1358,Augusta International Raceway Preservation Society
+1359,Aviation Museum At Marietta Georgia
+1360,B. J. Palmer Historic Home
+1361,Baptist History And Heritage Society
+1362,Old Jail Museum & Archives
+1363,Barrow Preservation Society Inc.
+1364,Beulah Rucker Museum Education Foundation
+1365,Biblical History Center
+1366,Big Shanty Museum
+1367,Blackstock Southern Heritage Agricultural Museum
+1368,Bo Bartlett Center
+1369,Bremen Textile And Railroad Museum
+1370,Brown Park
+1371,Bruce Weiner Microcar Museum
+1372,Brumby Hall
+1373,Brunswick History Museum
+1374,Bryan-Lang Foundation
+1375,Buckhead Conservancy
+1376,Burke County Genealogical Society
+1377,Burke County Museum
+1378,Burnt Fort Historical Association
+1379,Byron Hebert Reece Society
+1380,C.T. And Octavia Vivian Museum And Archives
+1381,Canton St Paul And Pacific Railway
+1382,Carson Mc Culler's Center
+1383,Cassville Historical Society
+1384,Catoosa Citizens' & Veterans' Memorial
+1385,Celtic Collection Program
+1386,Center For The Study Of African Diaspora Museums & Community
+1387,Central Of Georgia/Roundhouse Complex
+1388,Chattahoochee County Historic Preservation Society
+1389,Chattahoochee Parks Conservancy
+1390,Chattahoochee Valley Sports Hall Of Fame
+1391,Cherokee County Sports Hall Of Fame
+1392,Cleveland Better Home Town
+1393,Coastal Landmark Preservation Society
+1394,Collections Of Life And Heritage
+1395,Columbus Black History Museum
+1396,Comer Historical Society
+1397,Commemorative Air Force
+1398,Concord Covered Bridge Historic District
+1399,Cook County Museum And Library
+1400,Coweta County African American Heritage Museum
+1401,Coweta Sports Hall Of Fame
+1402,CSU Environmental Learning Center
+1403,Cumberland Island Museum
+1404,Dawn Of Time Museum
+1405,Dawsonville History Museum
+1406,Deans Store
+1407,Decatur Preservation Alliance
+1408,Dekalb Historicial Society
+1409,Delta Air Transport Heritage Museum
+1410,Discovering Stone Mountain Museum
+1411,Dodds Boys
+1412,Dodge Historical Society
+1413,Dr R Thomas Museum
+1414,Dunwoody Preservation Trust
+1415,Educational Foundation And Museum Of Beulah Rucker
+1416,Educopia Institute
+1417,Eighth Air Force Historical Society
+1418,Enitiative Group
+1419,Etowah Indian Mounds State Historic Site
+1420,Euharlee Valley Historical Society
+1421,Ezekiel Harris Historic House
+1422,Faces Of Freedom War Museum
+1423,Fannin County Heritage
+1424,Farm At Oatland North
+1425,Flat Rock Archive
+1426,Fletcher Henderson Museum
+1427,Flint River Farms School Preservation Society
+1428,Flippen Historical Society
+1429,First Tee Augusta Foundation
+1430,Fort Attaway
+1431,Fort Gaines Historical Society
+1432,Fort King George Museum
+1433,Fort Stewart Museum
+1434,Fort Tyler Association
+1435,Georgia Aquatic Hall Of Fame
+1436,Georgia Baptist Historical Society
+1437,Georgia College & State University Natural History Museum
+1438,Georgia Historical Aviation Museum
+1439,Georgia Museum Of Surveying And Mapping
+1440,Georgia Museum Of Transportation & Industry
+1441,Georgia Retired Educators Museum
+1442,Georgia State Cotton Museum
+1443,Georgia State Patrol Historical Society
+1444,Georgia Trapshooting Hall Of Fame
+1445,Georgia Writers Museum
+1446,Georgia National Guard Museum
+1447,Gertrude Ma Rainey House & Blues Museum
+1448,Gilmer County Historical Preservation Society
+1449,Gipp Museums
+1450,Girl Scout First Headquarters Building
+1451,Global Health Odyssey Museum
+1452,Glynn County Sports Hall Of Fame
+1453,Gone With The Wind Movie Museum
+1454,Gone With Wind Museum
+1455,Grady County Museum
+1456,Grantville Better Hometown
+1457,Grayson Arts And History Center
+1458,Griffin Museum
+1459,Grovetown Museum
+1460,Gwinnett Environmental And Heritage Center
+1461,Gwinnett History Museum
+1462,Habersham County Wall Of Honor
+1463,Haralson County Veterans Association Of Tallapoosa
+1464,Haralson County Veterans Memorial Park
+1465,Heard County Historical Society & Museum
+1466,Hebron Historical Society Of Banks County Georgia
+1467,Heritage Park Museum
+1468,Hickory Hill's Museum
+1469,Hiram Rosenwald School Museum
+1470,Historic Augusta Inc Endowment Trust
+1471,Historic Brunswick Seaport
+1472,Historic Center Of Alma Bacon County Georgia
+1473,Historic District Preservation Society
+1474,Historic George Washington Carver Heights Subdivision Preservation
+1475,Historic Marietta Square Branding Project
+1476,Historic Norcross Preservation Alliance
+1477,Historic Olgethorpe County
+1478,Historic Preservation Fund Pilot Club Of Macon
+1479,Historic Transport Preservation
+1480,Historical & Preservation Commission Of Centerville Ga
+1481,Historical Jonesboro-Clayton
+1482,Hofwyl-Broadfield Plantation State Historic Site
+1483,Hogansville Charitable Trust
+1484,Hungate Family Historical Society
+1485,Imagination Station Childrens Museum Of Augusta
+1486,Indio Trail
+1487,Infantry Museum
+1488,Infinite Spirit Museum
+1489,Interact Art Museum
+1490,Isle Of Hope Historical Association
+1491,Jack Hadleys Black History Memorabilia
+1492,Jim-Ree African American Museum
+1493,Joel Chandler Harris Association
+1494,John Creek Children's Museum
+1495,Jones County History & Heritage
+1496,Jonesboro Fire House Museum
+1497,Kennesaw Mountain Historical Association
+1498,Kennesaw Mountain Nbp
+1499,Kennesaw Museum
+1500,King-Tisdell Cottage Foundation
+1501,Leon And Rachel Gathany Museum Foundation
+1502,Lewis Grizzard Memorial Trust
+1503,Liberty Cultural And Historic Association
+1504,Loudermilk Boarding House
+1505,Lower Altamaha Historical Society
+1506,Marble Museum
+1507,Marion County Historical Society
+1508,Mark Twain Circle Of America
+1509,Marti Historical Society
+1510,Mcdaniel-Tichenor House
+1511,Mcduffie County Historical Society
+1512,Mercer-Williams House
+1513,Middle Georgia Historical Society
+1514,Mighty 8th Af Historical Society
+1515,Mighty Eighth Air Force Heritage Museum
+1516,Monroe County Museum-Genealogy
+1517,Monroe Cultural & Heritage Museum
+1518,Morgan County Historical Society
+1519,Museum Of Buford
+1520,Museum Of The South
+1521,National Armor And Cavalry Museum
+1522,National Cowboy & Western Heritage Museum
+1523,National Foundation Of Patriotism
+1524,National Museum Of Patriotism
+1525,New Rangoon Museum
+1526,Noble Hill-Wheeler Memorial
+1527,Norcross History Center
+1528,North Alexander School Association
+1529,North Georgia Live Steamers
+1530,North Wilkes Museum & Archives
+1531,Ocmulgee National Monument Visitor Center
+1532,Oconee County Historical Society
+1533,Ogeechee River Car Museum
+1534,Old Ambulance Museum
+1535,Old South Museum & Agriculture Learning Center
+1536,Pasaquan Preservation Society
+1537,Patsiliga Museum
+1538,Paulding County Genealogical Society
+1539,Peach County Historical Society
+1540,Perry Area Historical Society
+1541,Pike County Historical Society
+1542,Pike Historic Preservation
+1543,Pinpoint Heritage Museum
+1544,Port Columbus National Civil War Naval Museum
+1545,Prophet Everetts Black History Museum And Cultural Center Of
+1546,Raymond Loewy Museum Of Industrial Design
+1547,Regional African American Museum Of Northeast Georgia
+1548,Road To Tara Museum
+1549,Roberts Memorial Library Museum Room
+1550,Rock Barn Project
+1551,Royston Renaissance
+1552,Sandy Springs Unique Vehicles
+1553,Savannah Youth Museum
+1554,Scottish Rite Valley Of Atlanta Preservation Trust
+1555,Seabrook Village
+1556,Seven Springs Historical Society
+1557,Seven Springs Museum
+1558,Silver Stars Square Dance Club
+1559,Sorrel Weed House
+1560,Soul Food Museum
+1561,South Fork Conservancy
+1562,Southern Museum Of Advertising Memorabilia
+1563,Southern Museum Of Music
+1564,Sports Champions Of Greater Atlanta
+1565,Stone Mountain Historic Society
+1566,Strozier Heritage Society
+1567,Sumter Historic Preservation Society
+1568,Suwanee Crossroads
+1569,Tailfin Automotive Museum
+1570,Teaching Museum North Foundation
+1571,Teaching Museum South
+1572,Terrell County Historic Preservation Society
+1573,Tifton Terminal Railway Museum
+1574,Towns Country Historical Society
+1575,Trenton Downtown Alliance
+1576,Tri-State Model Railroaders
+1577,Tunnel Hill Heritage Center and Museum
+1578,Tunnel Hill Historical Foundation
+1579,Tybee Island Historical Society
+1580,Upson Historical Society
+1581,Veterans Memorial Association Of Smyrna
+1582,Veterans Of All Wars Museum
+1583,Victory Museum Foundation
+1584,Vietnamese Community Of Georgia
+1585,Walker County African American Historical And Alumni Association
+1586,Walter F George Law Museum
+1587,Warren County Historical Society
+1588,Weinman William Mineral Museum
+1589,West Georgia Textile Heritage Trail
+1590,Westville Village
+1591,Whaley Aviation
+1592,Wicks Tavern
+1593,Wm H Spencer Golden Owlettes
+1594,Woodbine Cultural Arts Center
+1595,Woodrow Wilson House
+1596,Yahoola Cherokee Museum
+1597,
+1598,
+1599,
+1600,
+1601,
+1602,
+1603,
+1604,
+1605,
+1606,
+1607,
+1608,
+1609,
+1610,
+1611,
+1612,
+1613,
+1614,
+1615,
+1616,
+1617,
+1618,
+1619,
+1620,
+1621,
+1622,
+1623,
+1624,
+1625,
+1626,
+1627,
+1628,
+1629,
+1630,
+1631,
+1632,
+1633,
+1634,
+1635,
+1636,
+1637,
+1638,
+1639,
+1640,
+1641,
+1642,
+1643,
+1644,
+1645,
+1646,
+1647,
+1648,
+1649,
+1650,
+1651,
+1652,
+1653,
+1654,
+1655,
+1656,
+1657,
+1658,
+1659,
+1660,
+1661,
+1662,
+1663,
+1664,
+1665,
+1666,
+1667,
+1668,
+1669,
+1670,
+1671,
+1672,
+1673,
+1674,
+1675,
+1676,
+1677,
+1678,
+1679,
+1680,
+1681,
+1682,
+1683,
+1684,
+1685,
+1686,
+1687,
+1688,
+1689,
+1690,
+1691,
+1692,
+1693,
+1694,
+1695,
+1696,
+1697,
+1698,
+1699,
+1700,
+1701,
+1702,
+1703,
+1704,
+1705,
+1706,
+1707,
+1708,
+1709,
+1710,
+1711,
+1712,
+1713,
+1714,
+1715,
+1716,
+1717,
+1718,
+1719,
+1720,
+1721,
+1722,
+1723,
+1724,
+1725,
+1726,
+1727,
+1728,
+1729,
+1730,
+1731,
+1732,
+1733,
+1734,
+1735,
+1736,
+1737,
+1738,
+1739,
+1740,
+1741,
+1742,
+1743,
+1744,
+1745,
+1746,
+1747,
+1748,
+1749,
+1750,
+1751,
+1752,
+1753,
+1754,
+1755,
+1756,
+1757,
+1758,
+1759,
+1760,
+1761,
+1762,
+1763,
+1764,
+1765,
+1766,
+1767,
+1768,
+1769,
+1770,
+1771,
+1772,
+1773,
+1774,
+1775,
+1776,
+1777,
+1778,
+1779,
+1780,
+1781,
+1782,
+1783,
+1784,
+1785,
+1786,
+1787,
+1788,
+1789,
+1790,
+1791,
+1792,
+1793,
+1794,
+1795,
+1796,
+1797,
+1798,
+1799,
+1800,
