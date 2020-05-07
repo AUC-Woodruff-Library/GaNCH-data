@@ -1,10 +1,12 @@
 # GaNCH
 
-Using Linked Open Data for Georgia's Natural, Cultural, and Historic Organizations' Disaster Response.
+GaNCH: Using Linked Open Data for **G**eorgi**a**'s **N**atural, **C**ultural, and **H**istoric Organizations' Disaster Response.
 
 The [Atlanta University Center Robert W. Woodruff Library](https://www.auctr.edu/) would like to gratefully acknolwedge [LYRASIS](https://www.lyrasis.org/Pages/Main.aspx) for their support of this project via a [2019 LYRASIS Catalyst Fund grant](https://lyrasisnow.org/press-release-lyrasis-announces-the-2019-catalyst-fund-recipients-and-their-projects/)
 
 This one-year project will create a publicly editable directory of Georgia’s Natural, Cultural and Historical Organizations (NCHs), allowing for quick retrieval of location and contact information for disaster response. Directory information will be compiled, updated, and uploaded to Wikidata, the linked open data database from the Wikimedia Foundation. Directory information will then be delivered via a website, allowing emergency responders to quickly search for NCHs in disaster areas.
+
+("GaNCH" rhymes with "ranch")
 
 ## Data
 
