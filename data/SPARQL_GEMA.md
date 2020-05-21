@@ -1,5 +1,7 @@
 # SPARQL Queries for GEMA Regions
 
+These are SPARQL queries run on https://query.wikidata.org/ to show all cultural heritage organizations within [GEMA/HS Field and Homeland Security Regions](https://gema.georgia.gov/locations/regional-field-offices)
+
 ## GEMA Region 1
 
     #GEMA Region 1
@@ -100,6 +102,57 @@
         (wd:Q492021 "Macon County") (wd:Q491553 "Peach County") (wd:Q486362 "Houston County")
         (wd:Q491543 "Stewart County") (wd:Q491514 "Webster County") (wd:Q503076 "Sumter County")
         (wd:Q492036 "Dooly County")
+    }
+    FILTER NOT EXISTS { ?organization wdt:P576 [] }
+    ?organization (wdt:P31/(wdt:P279*)) wd:Q5193377.
+    ?organization wdt:P131 ?located_in_the_administrative_territorial_entity. hint:Prior hint:runFirst true.
+    OPTIONAL { ?organization wdt:P6375 ?street_address. }
+    OPTIONAL { ?organization wdt:P625 ?coordinate_location. }
+    OPTIONAL { ?organization wdt:P1329 ?phone_number. }
+    OPTIONAL { ?organization wdt:P968 ?e_mail_address. }
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+    }
+    ORDER BY ?organization
+    LIMIT 10000
+
+## GEMA Region 5
+
+    #GEMA Region 5
+    SELECT DISTINCT ?organization ?organizationLabel ?street_address ?coordinate_location ?phone_number ?e_mail_address ?county
+    WHERE {
+    VALUES (?located_in_the_administrative_territorial_entity ?county)
+    {
+        (wd:Q156637 "Effingham County") (wd:Q384890 "Chatham County") (wd:Q486848 "Bryan County")
+        (wd:Q487692 "Liberty County") (wd:Q493033 "Long County") (wd:Q492652 "McIntosh County")
+        (wd:Q491762 "Wayne County") (wd:Q487016 "Glynn County") (wd:Q486800 "Pierce County") 
+        (wd:Q156650 "Brantley County") (wd:Q486659 "Charlton County") (wd:Q110504 "Camden County")
+    }
+    FILTER NOT EXISTS { ?organization wdt:P576 [] }
+    ?organization (wdt:P31/(wdt:P279*)) wd:Q5193377.
+    ?organization wdt:P131 ?located_in_the_administrative_territorial_entity. hint:Prior hint:runFirst true.
+    OPTIONAL { ?organization wdt:P6375 ?street_address. }
+    OPTIONAL { ?organization wdt:P625 ?coordinate_location. }
+    OPTIONAL { ?organization wdt:P1329 ?phone_number. }
+    OPTIONAL { ?organization wdt:P968 ?e_mail_address. }
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+    }
+    ORDER BY ?organization
+    LIMIT 10000
+
+## GEMA Region 6
+
+    #GEMA Region 5
+    SELECT DISTINCT ?organization ?organizationLabel ?street_address ?coordinate_location ?phone_number ?e_mail_address ?county
+    WHERE {
+    VALUES (?located_in_the_administrative_territorial_entity ?county)
+    {
+        (wd:Q486654 "Dade County") (wd:Q498321 "Walker County") (wd:Q260871 "Catoosa County")
+        (wd:Q491537 "Whitfield County") (wd:Q493074 "Murray County") (wd:Q493054 "Gilmer County")
+        (wd:Q493079 "Fannin County") (wd:Q486179 "Chattooga County") (wd:Q200696 "Gordon County") 
+        (wd:Q498675 "Pickens County") (wd:Q492032 "Dawson County") (wd:Q486389 "Floyd County")
+        (wd:Q488181 "Bartow County") (wd:Q486664 "Cherokee County") (wd:Q493092 "Forsyth County")
+        (wd:Q498395 "Polk County") (wd:Q501140 "Paulding County") (wd:Q544539 "Haralson County")
+        (wd:Q493088 "Carroll County") (wd:Q486348 "Heard County") (wd:Q111928 "Coweta County") 
     }
     FILTER NOT EXISTS { ?organization wdt:P576 [] }
     ?organization (wdt:P31/(wdt:P279*)) wd:Q5193377.
