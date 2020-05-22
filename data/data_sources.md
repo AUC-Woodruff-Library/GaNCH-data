@@ -6,7 +6,7 @@
 |[GPLSV](GPLSV.csv)|Georgia Public Library Service |	All Public Library Facilities |	https://georgialibraries.org/allpubliclibraryfacilities/	| 392 |
 |[GALIL](GALIL.csv)| GALILEO	| Participating Institutions	| https://about.galileo.usg.edu/institutions	| 81 |
 |[TCSOG](TCSOG.csv)| Technical College System of Georgia	| Find a College |	https://tcsg.edu/find-a-college/ |	39|
-|ARTGA| ArtsGeorgia |	Directory of Directories |	https://www.artsgeorgia.net/directory/directory-of-directoriescalendars/ |	Meta |
+|[ARTGA](ARTGA.csv)| ArtsGeorgia |	Georgia, Local Arts Organizations, Georgia Museums |	https://www.artsgeorgia.net/directory/directory-of-directoriescalendars/ | 198 |
 |GSCCC | Georgia Superior Court Clerks' Cooperative Authority |	Clerks |	https://www.gsccca.org/Clerks/ |	159 |
 |[IMLSS](IMLSS.csv)| Institute of Museum and Library Services | Georgia Museums List | https://docs.google.com/spreadsheets/d/104wXi8wh6VXIIjFJNYlrtphh9G7J7TxztVD-ZjhGF70/ | 491 |
 |[GADNR](GADNR.csv)| Georgia Department of Natural Resources | Georgia State Parts, Historic Sites, and Partners | https://gastateparks.org/Map | 72 |
