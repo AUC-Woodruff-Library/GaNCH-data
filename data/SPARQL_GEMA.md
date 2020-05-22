@@ -141,7 +141,7 @@ These are SPARQL queries run on https://query.wikidata.org/ to show all cultural
 
 ## GEMA Region 6
 
-    #GEMA Region 5
+    #GEMA Region 6
     SELECT DISTINCT ?organization ?organizationLabel ?street_address ?coordinate_location ?phone_number ?e_mail_address ?county
     WHERE {
     VALUES (?located_in_the_administrative_territorial_entity ?county)
@@ -153,6 +153,56 @@ These are SPARQL queries run on https://query.wikidata.org/ to show all cultural
         (wd:Q488181 "Bartow County") (wd:Q486664 "Cherokee County") (wd:Q493092 "Forsyth County")
         (wd:Q498395 "Polk County") (wd:Q501140 "Paulding County") (wd:Q544539 "Haralson County")
         (wd:Q493088 "Carroll County") (wd:Q486348 "Heard County") (wd:Q111928 "Coweta County") 
+    }
+    FILTER NOT EXISTS { ?organization wdt:P576 [] }
+    ?organization (wdt:P31/(wdt:P279*)) wd:Q5193377.
+    ?organization wdt:P131 ?located_in_the_administrative_territorial_entity. hint:Prior hint:runFirst true.
+    OPTIONAL { ?organization wdt:P6375 ?street_address. }
+    OPTIONAL { ?organization wdt:P625 ?coordinate_location. }
+    OPTIONAL { ?organization wdt:P1329 ?phone_number. }
+    OPTIONAL { ?organization wdt:P968 ?e_mail_address. }
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+    }
+    ORDER BY ?organization
+    LIMIT 10000
+
+## GEMA Region 7
+
+    #GEMA Region 7
+    SELECT DISTINCT ?organization ?organizationLabel ?street_address ?coordinate_location ?phone_number ?e_mail_address ?county
+    WHERE {
+    VALUES (?located_in_the_administrative_territorial_entity ?county)
+    {
+        (wd:Q486325 "Douglas County") (wd:Q484247 "Cobb County") (wd:Q486633 "Fulton County")
+        (wd:Q486398 "DeKalb County") (wd:Q490065 "Gwinnett County") (wd:Q501115 "Fayette County")
+        (wd:Q486150 "Clayton County") (wd:Q492053 "Henry County") (wd:Q498621 "Rockdale County") 
+    }
+    FILTER NOT EXISTS { ?organization wdt:P576 [] }
+    ?organization (wdt:P31/(wdt:P279*)) wd:Q5193377.
+    ?organization wdt:P131 ?located_in_the_administrative_territorial_entity. hint:Prior hint:runFirst true.
+    OPTIONAL { ?organization wdt:P6375 ?street_address. }
+    OPTIONAL { ?organization wdt:P625 ?coordinate_location. }
+    OPTIONAL { ?organization wdt:P1329 ?phone_number. }
+    OPTIONAL { ?organization wdt:P968 ?e_mail_address. }
+    SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+    }
+    ORDER BY ?organization
+    LIMIT 10000
+
+## GEMA Region 8
+
+    #GEMA Region 8
+    SELECT DISTINCT ?organization ?organizationLabel ?street_address ?coordinate_location ?phone_number ?e_mail_address ?county
+    WHERE {
+    VALUES (?located_in_the_administrative_territorial_entity ?county)
+    {
+        (wd:Q486843 "Bleckley County") (wd:Q498301 "Pulaski County") (wd:Q486791 "Wilcox County")
+        (wd:Q115272 "Dodge County") (wd:Q691614 "Telfair County") (wd:Q498332 "Wheeler County")
+        (wd:Q493125 "Montgomery County") (wd:Q376822 "Toombs County") (wd:Q505310 "Tattnall County")
+        (wd:Q111867 "Ben Hill County") (wd:Q492057 "Irwin County") (wd:Q156503 "Coffee County")
+        (wd:Q493071 "Jeff Davis County") (wd:Q488186 "Appling County") (wd:Q488219 "Bacon County")
+        (wd:Q488868 "Berrien County") (wd:Q488194 "Atkinson County") (wd:Q498353 "Ware County")
+        (wd:Q492070 "Lanier County") (wd:Q493029 "Echols County") (wd:Q486167 "Clinch County")
     }
     FILTER NOT EXISTS { ?organization wdt:P576 [] }
     ?organization (wdt:P31/(wdt:P279*)) wd:Q5193377.
