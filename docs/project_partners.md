@@ -9,9 +9,9 @@
 | [Georgia Historical Records Advisory Council (GHRAC)](https://www.georgiaarchives.org/ghrac) | Glenda Anderson | 
 | [Savannah Heritage Emergency Response (SHER)](https://sheronline.info/) | Laura Waller | 
 | [Performing Arts Readiness](https://performingartsreadiness.org/) | Steve Eberhardt | 
-| [South Arts](https://www.southarts.org/) | Mollie Quinlan-Hayes | 
+| [South Arts](https://www.southarts.org/) |  | 
 | [Georgia Emergency Management and Homeland Security Agency (GEMA/HS)](https://gema.georgia.gov/) | Venessa Sims | 
 | [Georgia Department of Natural Resources (DNR), Historic Preservation Division](https://georgiashpo.org/) | Bill Hover | 
-| [Georgia Council for the Arts](http://gaarts.org/) | Karen Paty |
+| [Georgia Council for the Arts](http://gaarts.org/) | Allen Bell |
 | [Society of Georgia Archivists](https://soga.wildapricot.org/) - Outreach Committee "Hidden Archives" Project| Katie Twomey |
 | [Society of Georgia Archivists](https://soga.wildapricot.org/) - Outreach Committee "Hidden Archives" Project| Rebecca Brown |
