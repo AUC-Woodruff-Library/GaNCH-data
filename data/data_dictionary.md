@@ -25,7 +25,7 @@ All fields that are sourceable are followed by two additional columns for the [r
 |[email address (P968)](https://www.wikidata.org/wiki/Property:P968)| e-mail address of the organisation. Format: prefixed with mailto: | Recommended|
 |[official website (P856)](https://www.wikidata.org/wiki/Property:P856)| URL of the official homepage of an item (current or former) [if the homepage changes, add an additional statement with preferred rank. Do not remove the former URL] | Recommneded |
 |[inception (P571)](https://www.wikidata.org/wiki/Property:P571)| date or point in time when the subject came into existence as defined | optional |
-|[dissolved, abolished or demolished (P576)](https://www.wikidata.org/wiki/Property:P576)| date or point in time at which the subject ceased to exist as defined (use P730 for a building, see also discontinued date (P2669))| optional |
+|[dissolved, abolished or demolished (P576)](https://www.wikidata.org/wiki/Property:P576)| date or point in time at which the subject ceased to exist as defined (use P730 for a building, see also discontinued date (P2669))| optional/REQUIRED (for dissolved organizations) |
 |[parent organization (P749)](https://www.wikidata.org/wiki/Property:P749) | parent organization of an organization, opposite of subsidiaries (P355) | optional |
 |[subsidiaries (P355)](https://www.wikidata.org/wiki/Property:P355) | subsidiary of a company or organization, opposite of parent organization (P749) | optional |
 |[PO Box (P2918)](https://www.wikidata.org/wiki/Property:P2918)| Post Office box number, as part of an address | optional |
