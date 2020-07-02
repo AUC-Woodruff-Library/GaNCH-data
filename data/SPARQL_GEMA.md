@@ -18,8 +18,23 @@ These are SPARQL queries run on https://query.wikidata.org/ to show all cultural
         (wd:Q491525 "Oglethorpe County") (wd:Q491759 "Wilkes County") (wd:Q491519 "Lincoln County")
         (wd:Q501101 "Newton County") (wd:Q493083 "Morgan County") (wd:Q486765 "Greene County")
     }
+    VALUES ?instance_of {
+    wd:Q473972
+    wd:Q5193377
+    wd:Q210272
+    wd:Q570116
+    wd:Q57660343
+    wd:Q2668072
+    wd:Q188913
+    wd:Q15243209
+    wd:Q2867476
+    wd:Q635719
+    wd:Q7840289
+    wd:Q42998
+    wd:Q41710
+    }
     FILTER NOT EXISTS { ?organization wdt:P576 [] }
-    ?organization (wdt:P31/(wdt:P279*)) wd:Q5193377.
+    ?organization (wdt:P31/(wdt:P279*)) ?instance_of.
     ?organization wdt:P131 ?located_in_the_administrative_territorial_entity. hint:Prior hint:runFirst true.
     OPTIONAL { ?organization wdt:P6375 ?street_address. }
     OPTIONAL { ?organization wdt:P625 ?coordinate_location. }
@@ -46,8 +61,23 @@ These are SPARQL queries run on https://query.wikidata.org/ to show all cultural
         (wd:Q493037 "Decatur County") (wd:Q492061 "Grady County") (wd:Q498327 "Thomas County")
         (wd:Q488175 "Brooks County") (wd:Q493134 "Lowndes County")
     }
+    VALUES ?instance_of {
+    wd:Q473972
+    wd:Q5193377
+    wd:Q210272
+    wd:Q570116
+    wd:Q57660343
+    wd:Q2668072
+    wd:Q188913
+    wd:Q15243209
+    wd:Q2867476
+    wd:Q635719
+    wd:Q7840289
+    wd:Q42998
+    wd:Q41710
+    }
     FILTER NOT EXISTS { ?organization wdt:P576 [] }
-    ?organization (wdt:P31/(wdt:P279*)) wd:Q5193377.
+    ?organization (wdt:P31/(wdt:P279*)) ?instance_of.
     ?organization wdt:P131 ?located_in_the_administrative_territorial_entity. hint:Prior hint:runFirst true.
     OPTIONAL { ?organization wdt:P6375 ?street_address. }
     OPTIONAL { ?organization wdt:P625 ?coordinate_location. }
@@ -74,8 +104,23 @@ These are SPARQL queries run on https://query.wikidata.org/ to show all cultural
         (wd:Q111894 "Emanuel County") (wd:Q389551 "Jenkins County") (wd:Q503511 "Screven County")
         (wd:Q488224 "Candler County") (wd:Q488166 "Bulloch County") (wd:Q493044 "Evans County")
     }
+    VALUES ?instance_of {
+    wd:Q473972
+    wd:Q5193377
+    wd:Q210272
+    wd:Q570116
+    wd:Q57660343
+    wd:Q2668072
+    wd:Q188913
+    wd:Q15243209
+    wd:Q2867476
+    wd:Q635719
+    wd:Q7840289
+    wd:Q42998
+    wd:Q41710
+    }
     FILTER NOT EXISTS { ?organization wdt:P576 [] }
-    ?organization (wdt:P31/(wdt:P279*)) wd:Q5193377.
+    ?organization (wdt:P31/(wdt:P279*)) ?instance_of.
     ?organization wdt:P131 ?located_in_the_administrative_territorial_entity. hint:Prior hint:runFirst true.
     OPTIONAL { ?organization wdt:P6375 ?street_address. }
     OPTIONAL { ?organization wdt:P625 ?coordinate_location. }
@@ -103,8 +148,23 @@ These are SPARQL queries run on https://query.wikidata.org/ to show all cultural
         (wd:Q491543 "Stewart County") (wd:Q491514 "Webster County") (wd:Q503076 "Sumter County")
         (wd:Q492036 "Dooly County")
     }
+    VALUES ?instance_of {
+    wd:Q473972
+    wd:Q5193377
+    wd:Q210272
+    wd:Q570116
+    wd:Q57660343
+    wd:Q2668072
+    wd:Q188913
+    wd:Q15243209
+    wd:Q2867476
+    wd:Q635719
+    wd:Q7840289
+    wd:Q42998
+    wd:Q41710
+    }
     FILTER NOT EXISTS { ?organization wdt:P576 [] }
-    ?organization (wdt:P31/(wdt:P279*)) wd:Q5193377.
+    ?organization (wdt:P31/(wdt:P279*)) ?instance_of.
     ?organization wdt:P131 ?located_in_the_administrative_territorial_entity. hint:Prior hint:runFirst true.
     OPTIONAL { ?organization wdt:P6375 ?street_address. }
     OPTIONAL { ?organization wdt:P625 ?coordinate_location. }
@@ -127,8 +187,23 @@ These are SPARQL queries run on https://query.wikidata.org/ to show all cultural
         (wd:Q491762 "Wayne County") (wd:Q487016 "Glynn County") (wd:Q486800 "Pierce County") 
         (wd:Q156650 "Brantley County") (wd:Q486659 "Charlton County") (wd:Q110504 "Camden County")
     }
+    VALUES ?instance_of {
+    wd:Q473972
+    wd:Q5193377
+    wd:Q210272
+    wd:Q570116
+    wd:Q57660343
+    wd:Q2668072
+    wd:Q188913
+    wd:Q15243209
+    wd:Q2867476
+    wd:Q635719
+    wd:Q7840289
+    wd:Q42998
+    wd:Q41710
+    }
     FILTER NOT EXISTS { ?organization wdt:P576 [] }
-    ?organization (wdt:P31/(wdt:P279*)) wd:Q5193377.
+    ?organization (wdt:P31/(wdt:P279*)) ?instance_of.
     ?organization wdt:P131 ?located_in_the_administrative_territorial_entity. hint:Prior hint:runFirst true.
     OPTIONAL { ?organization wdt:P6375 ?street_address. }
     OPTIONAL { ?organization wdt:P625 ?coordinate_location. }
@@ -154,8 +229,23 @@ These are SPARQL queries run on https://query.wikidata.org/ to show all cultural
         (wd:Q498395 "Polk County") (wd:Q501140 "Paulding County") (wd:Q544539 "Haralson County")
         (wd:Q493088 "Carroll County") (wd:Q486348 "Heard County") (wd:Q111928 "Coweta County") 
     }
+    VALUES ?instance_of {
+    wd:Q473972
+    wd:Q5193377
+    wd:Q210272
+    wd:Q570116
+    wd:Q57660343
+    wd:Q2668072
+    wd:Q188913
+    wd:Q15243209
+    wd:Q2867476
+    wd:Q635719
+    wd:Q7840289
+    wd:Q42998
+    wd:Q41710
+    }
     FILTER NOT EXISTS { ?organization wdt:P576 [] }
-    ?organization (wdt:P31/(wdt:P279*)) wd:Q5193377.
+    ?organization (wdt:P31/(wdt:P279*)) ?instance_of.
     ?organization wdt:P131 ?located_in_the_administrative_territorial_entity. hint:Prior hint:runFirst true.
     OPTIONAL { ?organization wdt:P6375 ?street_address. }
     OPTIONAL { ?organization wdt:P625 ?coordinate_location. }
@@ -177,8 +267,23 @@ These are SPARQL queries run on https://query.wikidata.org/ to show all cultural
         (wd:Q486398 "DeKalb County") (wd:Q490065 "Gwinnett County") (wd:Q501115 "Fayette County")
         (wd:Q486150 "Clayton County") (wd:Q492053 "Henry County") (wd:Q498621 "Rockdale County") 
     }
+    VALUES ?instance_of {
+    wd:Q473972
+    wd:Q5193377
+    wd:Q210272
+    wd:Q570116
+    wd:Q57660343
+    wd:Q2668072
+    wd:Q188913
+    wd:Q15243209
+    wd:Q2867476
+    wd:Q635719
+    wd:Q7840289
+    wd:Q42998
+    wd:Q41710
+    }
     FILTER NOT EXISTS { ?organization wdt:P576 [] }
-    ?organization (wdt:P31/(wdt:P279*)) wd:Q5193377.
+    ?organization (wdt:P31/(wdt:P279*)) ?instance_of.
     ?organization wdt:P131 ?located_in_the_administrative_territorial_entity. hint:Prior hint:runFirst true.
     OPTIONAL { ?organization wdt:P6375 ?street_address. }
     OPTIONAL { ?organization wdt:P625 ?coordinate_location. }
@@ -204,8 +309,23 @@ These are SPARQL queries run on https://query.wikidata.org/ to show all cultural
         (wd:Q488868 "Berrien County") (wd:Q488194 "Atkinson County") (wd:Q498353 "Ware County")
         (wd:Q492070 "Lanier County") (wd:Q493029 "Echols County") (wd:Q486167 "Clinch County")
     }
+    VALUES ?instance_of {
+    wd:Q473972
+    wd:Q5193377
+    wd:Q210272
+    wd:Q570116
+    wd:Q57660343
+    wd:Q2668072
+    wd:Q188913
+    wd:Q15243209
+    wd:Q2867476
+    wd:Q635719
+    wd:Q7840289
+    wd:Q42998
+    wd:Q41710
+    }
     FILTER NOT EXISTS { ?organization wdt:P576 [] }
-    ?organization (wdt:P31/(wdt:P279*)) wd:Q5193377.
+    ?organization (wdt:P31/(wdt:P279*)) ?instance_of.
     ?organization wdt:P131 ?located_in_the_administrative_territorial_entity. hint:Prior hint:runFirst true.
     OPTIONAL { ?organization wdt:P6375 ?street_address. }
     OPTIONAL { ?organization wdt:P625 ?coordinate_location. }
