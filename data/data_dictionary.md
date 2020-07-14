@@ -31,6 +31,7 @@ All fields that are sourceable are followed by two additional columns for the [r
 |[PO Box (P2918)](https://www.wikidata.org/wiki/Property:P2918)| Post Office box number, as part of an address | optional |
 |[Postal Code (P281)](https://www.wikidata.org/wiki/Property:P281) | identifier assigned by postal authorities for the subject area or building | optional |
 |[Facebook ID (P2013)](https://www.wikidata.org/wiki/Property:P2013) | official identifier for a person, product or organization in Facebook - everything after https://www.facebook.com/ | optional |
+|[Twitter username (P2002)](https://www.wikidata.org/wiki/Property:P2002) | this item's username on Twitter; do not include the “@” symbol | optional |
 |Source Notes | source of data when verified from non-web source (email, phone, etc.), similar to a MARC 670 (Source Data Found) Field in Name Authority Records.  Git commit URL will be used for source URL. | optional |
 |Internal Notes | internal notes and reminders for project staff | optional |
 |QC | date and initials of Quality Control check | optional |
