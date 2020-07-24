@@ -9,8 +9,8 @@ Annoucements, press releases, blog posts, publications, and presentations relate
 * [2019-10-17: Lightning Talk - Society of Georgia Archivists](https://drive.google.com/file/d/1MBewzkupcDX73MU60gRocuJNKuSEq7g-/view?usp=drive_open)
 * [2020-02-19: Understanding our Heritage: The Critical Importance of Mapping our Cultural Resources - American Institute for Conservation / Foundation for Advancement in Conservation](https://web.archive.org/web/20200225130225/https://eventcenter.commpartners.com/se/Meetings/Playback_new.aspx?meeting.id=281603) - Case study presentation starts at 34:45
 * [2020-05-06: Ready for the Worst: Innovative Tools for Disaster Preparedness in the GLAM Community - Heritage Emergency Response Alliance](https://web.archive.org/web/20200506175946/https://www.youtube.com/watch?v=PBOzjJdAeEk)
-* [2020-07-23 - 2020 LD4 Conference on Linked Data in Libraries](https://web.archive.org/web/20200629144158/https://ld42020.sched.com/event/cjIk/discovery-of-multilingual-resources-linked-open-data-for-disaster-response-faculty-curation-and-linked-open-data)
-* [FORTHCOMING - 2020-08: ARCHIVES * RECORDS 2020](https://www2.archivists.org/am2020)
+* [2020-07-23 - 2020 LD4 Conference on Linked Data in Libraries](https://youtu.be/Vt9aOZTmCqE?t=1843)
+* [FORTHCOMING - 2020-08-08: ARCHIVES * RECORDS 2020](https://www2.archivists.org/am2020)
 
 ## Press Releases
 
