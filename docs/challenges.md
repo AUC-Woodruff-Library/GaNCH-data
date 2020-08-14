@@ -16,6 +16,8 @@ Many municipalities in Georgia exist in more than one county (for example, Atlan
 * [Wikidata:Project chat/located in the administrative territorial entity (P131) isn't *really* transitive...](https://www.wikidata.org/wiki/Wikidata:Project_chat/Archive/2020/02#located_in_the_administrative_territorial_entity_(P131)_isn't_really_transitive...)
 * [Property talk:P131/Possible change of usage](https://www.wikidata.org/wiki/Property_talk:P131#Possible_change_of_usage)
 
+Unfortunately, even after several proposals and over a month of discussion on those four separate Wikidata pages, no consensus was reached.  So for our project we explicitly declare municipality, county, AND state, all in the P131 field, with the hopes that consensus on a solution can be reached in the future.  In the meantime, our queries are functioning well, and we figure it’s better to have too much well-sourced information rather than too little.
+
 ## Query construction
 
 We got a lot of help from the Wikidata community in constructing our queries.  In particular, a big shout out to [User:Dipsacus fullonum](https://www.wikidata.org/wiki/User:Dipsacus_fullonum) for all their help!
