@@ -1,6 +1,6 @@
 # Workflow Manual
 
-This page describes how to walk through the full GaNCH workflow, so that you can replicate the process for your own region.  Links from the GaNCH project are included to provide context, but of course your region may have unique local needs.
+This page describes how to walk through the full GaNCH data workflow, so that you can replicate the process for your own region.  Links from the GaNCH project are included to provide context, but of course your region may have unique local needs.
 
 ## Setup
 
@@ -93,15 +93,3 @@ Below is an example of 1) the phone number field, 2) the phone number REF URL fi
   * If the coordinate location is incorrect, search to find the correct location (which may take some sleuthing).
 * As the reviewer checks (and potentially corrects) each record in Wikidata, they mark that they've checked it in the dataset in the QC column by adding the date reviewed and their initials (i.e. 2019-12-03 CL)
 * Since quality control is done in Wikidata, your dataset will no longer be the "source of truth" after ingest.  The datasets exist for the purpose of ingesting data and references into Wikidata and performing quality control.  Wikidata then becomes the source of truth, not your datasets.
-
-## Access
-
-* Web Developer creates a website to display results at the City, County, and State level.
-
-## Maintain
-
-* Web Developer creates an automated process to email NCHs annually to request updates. [Partner organizations](/docs/project_partners.md) assist in annual updates.
-
-## Promote
-
-* Partner organizations provide outreach to NCHs.
