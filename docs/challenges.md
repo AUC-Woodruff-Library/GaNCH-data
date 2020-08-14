@@ -9,7 +9,7 @@ This creates a challenge when searching with searches timing out, so an alternat
 
 ## Municipalities and Counties
 
-Many municipalities in Georgia exist in more than one county (for example, Atlanta is in both DeKalb and Fulton counties). The below conversations are an attempt to address this wihtin the *located in the administrative territorial entity (P131)*, since there has been no way to ensure that CHOs are showing up in the correct county if only the most local territory is specified.
+Many municipalities in Georgia exist in more than one county (for example, Atlanta is in both DeKalb and Fulton counties). The below conversations are an attempt to address this wihtin the *located in the administrative territorial entity (P131)*, since there has been no way to ensure that NCHs are showing up in the correct county if only the most local territory is specified.
 
 * [Property talk:P131/Best practice for representing cities/towns in multiple counties?](https://www.wikidata.org/wiki/Property_talk:P131#Best_practice_for_representing_cities/towns_in_multiple_counties?)
 * [Wikidata:Property proposal/hierarchy switch](https://www.wikidata.org/wiki/Wikidata:Property_proposal/hierarchy_switch)
