@@ -4,7 +4,7 @@ This page describes how to walk through the full GaNCH workflow, so that you can
 
 ## Setup
 
-* Download and install free open source software (and one propritary software) to manipulate data and upload it to Wikidata
+* Download and install free open source software (and one propritary software) to manipulate data and upload it to Wikidata.  See the [Resources page](/docs/resources.md) for more.
   * [Git](https://git-scm.com/downloads) - [Version Control](https://www.atlassian.com/git/tutorials/what-is-version-control) software, used to protect your work against accidental deletion.
   * [Visual Studio Code](https://code.visualstudio.com/) - Text and code editor with a built-in terminal. Free and easy to learn interface.
     * [Edit CSV extension](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv) - Edit CSV files in spreadsheet format within VS Code.  We don't use MS Excel since it reformats content (dates, etc.).
@@ -12,13 +12,12 @@ This page describes how to walk through the full GaNCH workflow, so that you can
     * [python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - Python for VS Code.
   * [OpenRefine](http://openrefine.org/) - Data wrangling software which is also used to upload to Wikidata.
   * [Microsoft Excel](https://products.office.com/en-us/excel) - You'll use Excel (or [LibreOffice Calc](https://www.libreoffice.org/discover/calc/)) to perform data formatting and cleanup with formulas to prepare CSVs.  Be careful NOT to use Excel for most editing, as it tends to reformat dates, phone numbers, etc.
-    * [Excel Fuzzy Lookup Add-In](https://www.microsoft.com/en-us/download/details.aspx?id=15011) for de-duplicating the index.
 
 ## Compile
 
 * Reach out to [partner organizations](/docs/project_partners.md) and individuals in your region to identify [data sources](/data/data_sources.md).  
 * Data sources can be found on the web, or may be emailed to you directly from a partner organization.  Screen the data for [Personally Identifying Information (PII)](https://en.wikipedia.org/wiki/Personal_data) such as personal email addresses.  If the PII is already available publically on the web (i.e. stan@organization.org published on the organization's website), we include it.  However, if the PII can be replaced with non-peronal information (i.e. info@organization.org), we use the non-personal information.
-* Create a [data dictionary](/data/data_dictionary.md) that defines what fields you're going to use, how those field match up to the Wikidata schema, and whether they're going to be required, recommended, or optional.  This will help you format your data correctly for Wikidata, prioritize work, and explain to other folks what you're doing.
+* Create a [data dictionary](/data/data_dictionary.md) that defines what fields you're going to use, how those fields match up to the Wikidata schema, and whether they're going to be required, recommended, or optional.  This will help you format your data correctly for Wikidata, prioritize work, and explain to other folks what you're doing.
 * Reformat the data from each source into its own spreadsheet matching a [CSV template](/data/TEMPLATE.csv).
   * HTML lists from websites (like the GAMAG dataset) are reformatted into CSV by hand using [VS Code's multi-cursor](https://code.visualstudio.com/docs/getstarted/tips-and-tricks#_multi-cursor-selection) capabilities for batch editing.
   * Straightforward website tables (like the GPLSV dataset) are harvested using the [HTML Table to CSV/Excel Converter](http://www.convertcsv.com/html-table-to-csv.htm)
@@ -26,9 +25,9 @@ This page describes how to walk through the full GaNCH workflow, so that you can
   * Make sure to include fields for the Reference URL (REF URL) and Retrieval Date (RET DAT) for the data, to provide references in Wikidata.
   * If you're working with several datasets and you know that some organizations will be duplicated across datasets, create an [index](/data/index.csv) that will help you de-dupe organizations as you add on new datasets.  This will prevent you from wasting time and energy by performing the Update & Source step multiple times for the same organization.  
     * Generate the new datatset and back it up using Git (see below) so you have a snapshot of the whole dataset.
-    * Use the [Excel Fuzzy Lookup Add-In](https://www.microsoft.com/en-us/download/details.aspx?id=15011) to compare your new dataset to the index, idenfitying duplicated records.
+    * Search in Wikidata by organization name to see if there is already a record in Wikidata that you have created/edited.  You may have to try a few name variations to be sure that the organization hasn't already been created/edited. This of course works best if you're doing one new dataset at a time.
     * Delete duplicated record rows in the new dataset -- that way you're only updating and sourcing data for each organization record once.
-    * If you accidentally deleted an organization that wasn't duplicate, use Git to view the deleted record and copy-and-paste it back into your dataset to update and source.
+    * If you accidentally deleted an organization in your new dataset that wasn't duplicate, use Git to view the deleted record and copy-and-paste it back into your dataset to update and source.
 * As you work, use [Git](https://www.atlassian.com/git/tutorials/what-is-git) to save your work as you go.  You can get fancy with Git, but for our work we mostly use "[git pull](https://www.atlassian.com/git/tutorials/syncing/git-pull)", "[git add .](https://www.atlassian.com/git/tutorials/saving-changes)", "[git commit -m "what changed"](https://www.atlassian.com/git/tutorials/saving-changes/git-commit)" and "[git push](https://www.atlassian.com/git/tutorials/syncing/git-push)".
 * At the end of this step, you will have several datasets formatted to match your CSV template.
 
@@ -47,10 +46,25 @@ This page describes how to walk through the full GaNCH workflow, so that you can
 Below is an example of 1) the phone number field, 2) the phone number REF URL field, and 3) the phone number RET DAT fields. Underlined in red are several corrected phone numbers with their associated REF URLs and RET DATs for the locations and dates of the corrections.
 ![Example of 1) the Phone field, 2) the Phone REF URL field, and 3) the Phone RET DAT fields. Underlined in red are several corrected phone numbers with their associated REF URLs and RET DATs for the locations and dates of the corrections.](/docs/images/phone_number_REF_URL_and_RET_DAT.png)
 
-* Generate coordinate location & county
-  * Using a free online tool like [Geocod.io](https://www.geocod.io/) or [MapLarge's Geocoder](https://geocoder.maplarge.com/Geocoder) (free version limited to batches of 100), generate coordinate location and county for each organization's address.  
-  * These tools are not exact, so you'll check to make sure that the mapping is correct during the Quality Control step below.
+* Generate county
+  * Using a free online tool like [Geocod.io](https://www.geocod.io/) or [MapLarge's Geocoder](https://geocoder.maplarge.com/Geocoder) (free version limited to batches of 100), generate county information for each organization's address.  
+  * These tools are not exact, so you'll check to make sure that the county information is correct during the Quality Control step below.
+
+* Look up coordinate locations in Google Maps
+  * Search by organization name or address to locate the *physical location* of the organization.  
   * Note that Wikidata requires you to *ingest* coordinate location using decimal format (i.e. "34.435818, -84.702066"), but *displays* coordinate location using DMS format (i.e. "34° 26′ 8.95″ N, 84° 42′ 7.44″ W").
+  * In Google Maps, right-click on the organization's physical location and left-click on "What's here?"
+  
+![In Google Maps, right-click on the organization's physical location and left-click on "What's here?"](/docs/images/coordinate_location_01.png)
+  * Left-click on the coordinates.
+  
+![Left-click on the coordinates.](/docs/images/coordinate_location_02.png)
+  * Select and copy the decimal format coordinates in the left panel.  This is what you'll use for the coordinate location.
+  
+![Select and copy the decimal format coordinates in the left panel.  This is what you'll use for the coordinate location.](/docs/images/coordinate_location_03.png)
+  * Click the Back button in your browser to return to the named location on Google Maps.  Then select and copy the URL for that named location up through the coodinates and zoom level (ends in a z).  That's your REF URL for the coordinates, since it includes the named organization.
+  
+![Click the Back button in your browser to return to the named location on Google Maps.  Then select and copy the URL for that named location up through the coodinates and zoom level (ends in a z).  That's your REF URL for the coordinates, since it includes the named organization.](/docs/images/coordinate_location_04.png)
 
 ## Reconcile
 
@@ -73,11 +87,10 @@ Below is an example of 1) the phone number field, 2) the phone number REF URL fi
 ## Quality Control
 
 * A team member who didn't work on the original dataset reviews the records in Wikidata for any errors.
-* Each location coordinate should be checked closely, since they are automatically generated and prone to being incorrect.
+* Each location coordinate should be checked closely, since they are prone to being incorrect.
   * On the organization record in Wikidata, right click on the coordinate location and open in a new tab.
   * This will take you to the coordinate location on the GeoHack website.  Click on Google Maps link at the top of the screen to open the coordinate location in Google Maps.  Zoom in to see if the coordinate location pin is located on top of the correct location.  If the location isn't labeled, you may have to use Street View to confirm that it's the correct location.  If the location is correct, move on to the next record.
-  * If the coordinate location is incorrect, search to find the correct location (which may take some sleuthing).  Once you have found the correct location, right click on top of the location and choose "What's here?"  In the pop-up menu at the bottom of the screen, click on the decimal coordinate location.  On the left menu, copy the decimal coordinate location.
-  * For the REF URL reference, copy the URL up through the decimal coordinate location (i.e. <https://www.google.com/maps/place/Johnston+Lakes+Library/@30.6835504,-83.2116414,19z/>). NOTE that Wikidata does *not* accept reference URLs formatted with DMS coordinate locations in the URL (i.e. <https://www.google.com/maps/place/30°41'00.8"N+83°12'40.0"W/@30.6835502,-83.2116545,19z/>) since they include non-standard characters.
+  * If the coordinate location is incorrect, search to find the correct location (which may take some sleuthing).
 * As the reviewer checks (and potentially corrects) each record in Wikidata, they mark that they've checked it in the dataset in the QC column by adding the date reviewed and their initials (i.e. 2019-12-03 CL)
 * Since quality control is done in Wikidata, your dataset will no longer be the "source of truth" after ingest.  The datasets exist for the purpose of ingesting data and references into Wikidata and performing quality control.  Wikidata then becomes the source of truth, not your datasets.
 
