@@ -37,6 +37,8 @@ A list of helpful resources to learn more about the pieces of the the GaNCH proj
 
 ## Coordinate Locations / Counties
 
+*Honestly, we abandoned using these automated geocoding tools part-way through the project, in favor of manually looking up geocoordinate locations in Google Maps.  Since after a disaster wayfinding markers and buildings can be destroyed, it was important to have the coordinate locations be on top of the buildings/locations themselves.  Unfortunately many of the tools below only give approximate locations since they're based on mailing addresses, so we found it faster and more accurate to just find the locations ourselves.  We're leaving these links here for context/reference.*
+
 * [Maptive](https://www.maptive.com/)
 * [GeoCoder](https://geocoder.maplarge.com/Geocoder) - batches of up to 100 records at a time for free
 * [Reverse GeoCoding](http://www.get-direction.com/get-lat-long-info-with-reverse-geocoding.html)
