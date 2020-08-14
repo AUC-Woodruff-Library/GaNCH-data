@@ -12,6 +12,12 @@ This one-year project will create a publicly editable directory of Georgia’s N
 
 * [Data Dictionary](/data/data_dictionary.md) - Mapping metadata fields to Wikidata's schema
 * [Data Sources](/data/data_sources.md) - Where we're getting the directory information
+* [Index](/data/index.csv) - Index of all the organizations we've created/edited in Wikidata
+* ["Instance of" taxonomy](/data/instance_of_taxonomy.csv) - Taxonomy of all the [P31 "Instance of"](https://www.wikidata.org/wiki/Property:P31) organization types that we are including, and their relevant subclasses. This helps us construct the SPARQL queries we use, since we can say "find me all cultural institutions or anything that's a subclass of cultural institution" to save time and energy.
+* [Municipalities](/data/municipalities.csv) - A spreadsheet of Georgia's municipalities and all their counties, mapping the problem where about 10% of Georgia's municipalities belong to more that one county (see: [Addressing Challenges](/docs/challenges.md)).
+* [Schema](/data/schema.json) - The OpenRefine schema that we use to reconcile against Wikidata's data model before uploading.
+* [Template](/data/TEMPLATE.csv) - The CSV template that we make all the source datasets use.
+* [SPARQL_GEMA](/data/SPARQL_GEMA.md) - Examples of SPARQL queries for the GEMA Regions, showing how we use VALUES lists to 1) combine multiple counties together to create the regions, and 2) combine multiple "instance of"s together to get our specific results
 
 ## Documentation
 
