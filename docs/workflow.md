@@ -82,7 +82,7 @@ Below is an example of 1) the phone number field, 2) the phone number REF URL fi
 
 ## Upload
 
-* Updates are uploaded to Wikidata.
+* Updates are [uploaded to Wikidata](https://www.wikidata.org/wiki/Wikidata:Tools/OpenRefine/Editing/Uploading).
 
 ## Quality Control
 
