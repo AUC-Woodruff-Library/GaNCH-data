@@ -18,7 +18,7 @@ Many municipalities in Georgia exist in more than one county (for example, Atlan
 
 ## Query construction
 
-We got a lot of help from the Wikidata community in constructing our queries.  In particular, a big shout out to [Dipsacus fullonum](https://www.wikidata.org/wiki/User:Dipsacus_fullonum) for all their help!
+We got a lot of help from the Wikidata community in constructing our queries.  In particular, a big shout out to [User:Dipsacus fullonum](https://www.wikidata.org/wiki/User:Dipsacus_fullonum) for all their help!
 
 * [List of public library branches in Georgia](https://www.wikidata.org/wiki/Wikidata:Request_a_query/Archive/2020/05#Public_library_branches_in_Georgia)
 * [Line graph of visitors per year for all GPLS library sytems](https://www.wikidata.org/wiki/Wikidata:Request_a_query/Archive/2020/05#Line_graph_of_visitors_per_year_for_all_GPLS_library_sytems)
