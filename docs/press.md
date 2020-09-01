@@ -10,7 +10,7 @@ Annoucements, press releases, blog posts, publications, and presentations relate
 * [2020-02-19: Understanding our Heritage: The Critical Importance of Mapping our Cultural Resources - American Institute for Conservation / Foundation for Advancement in Conservation](https://web.archive.org/web/20200225130225/https://eventcenter.commpartners.com/se/Meetings/Playback_new.aspx?meeting.id=281603) - Case study presentation starts at 34:45
 * [2020-05-06: Ready for the Worst: Innovative Tools for Disaster Preparedness in the GLAM Community - Heritage Emergency Response Alliance](https://web.archive.org/web/20200506175946/https://www.youtube.com/watch?v=PBOzjJdAeEk)
 * [2020-07-23: 2020 LD4 Conference on Linked Data in Libraries (video)](https://youtu.be/Vt9aOZTmCqE?t=1843), [(slides)](https://archive.org/details/2020-07-23-ld4-conference-ganch)
-* [2020-08-08: ARCHIVES*RECORDS 2020](https://archive.org/details/zooming_in)
+* [2020-08-08: Zooming In: Leveraging GIS and Linked Data to Protect Cultural Heritage at Home, Across the US, and Around the Globe, ARCHIVES*RECORDS 2020](https://archive.org/details/zooming_in)
 * FORTHCOMING: 2020 Digital Library Forum, 2020-10
 * FORTHCOMING: 2020 Society of Georgia Archivists Annual Meeting, 2020-11
 
