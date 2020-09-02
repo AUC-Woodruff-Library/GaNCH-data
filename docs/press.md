@@ -13,6 +13,7 @@ Annoucements, press releases, blog posts, publications, and presentations relate
 * [2020-08-08: Zooming In: Leveraging GIS and Linked Data to Protect Cultural Heritage at Home, Across the US, and Around the Globe, ARCHIVES*RECORDS 2020](https://archive.org/details/zooming_in)
 * FORTHCOMING: 2020 Digital Library Forum, 2020-10
 * FORTHCOMING: 2020 Society of Georgia Archivists Annual Meeting, 2020-11
+* FORTHCOMING: 2021 Georgia Association of Museums Conference, 2021-01
 
 ## Press Releases
 
