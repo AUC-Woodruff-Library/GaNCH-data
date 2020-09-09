@@ -23,3 +23,4 @@
 * [2020-01-30 GaNCH Partners Meeting](https://archive.org/details/2020-01-30_GaNCH_Partners_Meeting)
 * [2020-03-26 GaNCH Partners Meeting](https://archive.org/details/2020-03-26_GaNCH_Partners_Meeting)
 * [2020-06-25 GaNCH Partners Meeting](https://archive.org/details/2020-06-25_GaNCH_Project_Partners_Meeting)
+* [2020-09-03 GaNCH Partners Meeting](https://archive.org/details/2020-09-03-ganch-partners-meeting)
