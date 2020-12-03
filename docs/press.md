@@ -11,14 +11,15 @@ Annoucements, press releases, blog posts, publications, and presentations relate
 * [2020-05-06: Ready for the Worst: Innovative Tools for Disaster Preparedness in the GLAM Community - Heritage Emergency Response Alliance](https://web.archive.org/web/20200506175946/https://www.youtube.com/watch?v=PBOzjJdAeEk)
 * [2020-07-23: 2020 LD4 Conference on Linked Data in Libraries (video)](https://youtu.be/Vt9aOZTmCqE?t=1843), [(slides)](https://archive.org/details/2020-07-23-ld4-conference-ganch)
 * [2020-08-08: Zooming In: Leveraging GIS and Linked Data to Protect Cultural Heritage at Home, Across the US, and Around the Globe, ARCHIVES*RECORDS 2020](https://archive.org/details/zooming_in)
-* FORTHCOMING: 2020 Digital Library Forum, 2020-10
-* FORTHCOMING: 2020 Society of Georgia Archivists Annual Meeting, 2020-11
+* [2020-11-09: Where It’s At: Using GIS Tools for Engagement and Outreach at an HBCU Library, 2020 DLF Forum](https://web.archive.org/web/20201203192021/https://forum2020.diglib.org/wp-content/uploads/sites/33/2020/11/DLF-Schedules-DLF-FINAL-11-2.pdf)
+* [2020-11-11: GaNCH: Using Linked Open Data and State-Wide Partnerships for Georgia’s Natural, Cultural, and Historic Organizations’ Disaster Response, 2020 Society of Georgia Archivists Annual Meeting](https://web.archive.org/web/20201203191642/https://soga.wildapricot.org/resources/Documents/Intranet/Committees/Annual%20Meeting%20Program/AnnualMeeting2020.pdf)
 * FORTHCOMING: 2021 Georgia Association of Museums Conference, 2021-01
 
 ## Press Releases
 
-* [AUC Woodruff Library Press Release](https://web.archive.org/web/20190719125719/https://www.auctr.edu/news/auc-woodruff-library-awarded-grant-to-improve-disaster-preparedness-and-response-for-georgias-natural-cultural-and-historic-organizations/)
-* [LYRASIS Press Release](http://lyrasisnow.org/press-release-lyrasis-announces-the-2019-catalyst-fund-recipients-and-their-projects/)
+* [AUC Woodruff Library Press Release - Grant Award](https://web.archive.org/web/20190719125719/https://www.auctr.edu/news/auc-woodruff-library-awarded-grant-to-improve-disaster-preparedness-and-response-for-georgias-natural-cultural-and-historic-organizations/)
+* [LYRASIS Press Release - Grant Award](http://lyrasisnow.org/press-release-lyrasis-announces-the-2019-catalyst-fund-recipients-and-their-projects/)
+* [AUC Woodruff Library Press Release - Project Launch](https://web.archive.org/web/20201203180747/https://www.auctr.edu/news/auc-woodruff-library-launches-website-to-aid-disaster-response-organizations-statewide/)
 
 ## Flyers
 
