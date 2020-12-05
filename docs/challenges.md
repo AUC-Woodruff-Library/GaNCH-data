@@ -33,4 +33,5 @@ During our focus group discussion with heritage emergency response coordinators,
 * Personal cell phone numbers for NCH organizations' leadership (preferably four numbers per organization)
 * Floor maps of buildings
 * Listings of hazardous materials that could be found on site
+
 Each of these types of data could be considered sensitive and therefore inappropriate to include in Wikidata, but appropriate for the state's Emergency Operations Command during a disaster.  Rather than trying to "shoehorn" this data into the project, we strongly encourage NCH organizations in Georgia to reach out to emergency responder leaders in their area to provide this information directly.
