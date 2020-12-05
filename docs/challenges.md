@@ -26,3 +26,11 @@ We got a lot of help from the Wikidata community in constructing our queries.  I
 * [Line graph of visitors per year for all GPLS library sytems](https://www.wikidata.org/wiki/Wikidata:Request_a_query/Archive/2020/05#Line_graph_of_visitors_per_year_for_all_GPLS_library_sytems)
 * [Query timing out with a long VALUES list](https://www.wikidata.org/wiki/Wikidata:Request_a_query/Archive/2020/05#Query_timing_out_with_a_long_VALUES_list)
 * [Combining multiple "any subclass of" "instance of"s into a single search?](https://www.wikidata.org/wiki/Wikidata:Request_a_query/Archive/2020/06#Combining_multiple_%22any_subclass_of%22_%22instance_of%22s_into_a_single_search?)
+
+## Sensitive data doesn't fit into Wikidata
+
+During our focus group discussion with heritage emergency response coordinators, the question was raised whether we could record some additional types of data in Wikidata.  These included:
+* Personal cell phone numbers for NCH organizations' leadership (preferably four numbers per organization)
+* Floor maps of buildings
+* Listings of hazardous materials that could be found on site
+Each of these types of data could be considered sensitive and therefore inappropriate to include in Wikidata, but appropriate for the state's Emergency Operations Command during a disaster.  Rather than trying to "shoehorn" this data into the project, we strongly encourage NCH organizations in Georgia to reach out to emergency responder leaders in their area to provide this information directly.
