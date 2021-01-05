@@ -15,4 +15,4 @@
 |EOBMF |Internal Revenue Service | Exempt Organizations Business Master File Extract (EO BMF) | https://www.irs.gov/charities-non-profits/exempt-organizations-business-master-file-extract-eo-bmf | ??? |
 |[SAGIS](SAGIS.csv)|Savannah Area GIS|SAGIS|https://www.sagis.org/|61|
 |[GAPAR](GAPAR.csv)|LYRASIS|Georgia Performing Arts Readiness|Emailed|15|
-|[OTHER](OTHER.csv)|One-off organizations|Email|N/A|24|
+|[OTHER](OTHER.csv)|One-off organizations|Email|N/A|56|
