@@ -12,7 +12,7 @@ Annoucements, press releases, blog posts, publications, and presentations relate
 * [2020-07-23: 2020 LD4 Conference on Linked Data in Libraries (video)](https://youtu.be/Vt9aOZTmCqE?t=1843), [(slides)](https://archive.org/details/2020-07-23-ld4-conference-ganch)
 * [2020-08-08: Zooming In: Leveraging GIS and Linked Data to Protect Cultural Heritage at Home, Across the US, and Around the Globe, ARCHIVES*RECORDS 2020](https://archive.org/details/zooming_in)
 * [2020-11-09: Where It’s At: Using GIS Tools for Engagement and Outreach at an HBCU Library, 2020 DLF Forum](https://web.archive.org/web/20201203192021/https://forum2020.diglib.org/wp-content/uploads/sites/33/2020/11/DLF-Schedules-DLF-FINAL-11-2.pdf)
-* [2020-11-11: GaNCH: Using Linked Open Data and State-Wide Partnerships for Georgia’s Natural, Cultural, and Historic Organizations’ Disaster Response, 2020 Society of Georgia Archivists Annual Meeting](https://web.archive.org/web/20201203191642/https://soga.wildapricot.org/resources/Documents/Intranet/Committees/Annual%20Meeting%20Program/AnnualMeeting2020.pdf)
+* [2020-11-11: GaNCH: Using Linked Open Data and State-Wide Partnerships for Georgia’s Natural, Cultural, and Historic Organizations’ Disaster Response, 2020 Society of Georgia Archivists Annual Meeting](https://youtu.be/OfZBd1khuho)
 * FORTHCOMING: 2021 Georgia Association of Museums Conference, 2021-01
 
 ## Press Releases
