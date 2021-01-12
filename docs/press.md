@@ -13,7 +13,7 @@ Annoucements, press releases, blog posts, publications, and presentations relate
 * [2020-08-08: Zooming In: Leveraging GIS and Linked Data to Protect Cultural Heritage at Home, Across the US, and Around the Globe, ARCHIVES*RECORDS 2020](https://archive.org/details/zooming_in)
 * [2020-11-09: Where It’s At: Using GIS Tools for Engagement and Outreach at an HBCU Library, 2020 DLF Forum](https://web.archive.org/web/20201203192021/https://forum2020.diglib.org/wp-content/uploads/sites/33/2020/11/DLF-Schedules-DLF-FINAL-11-2.pdf)
 * [2020-11-11: GaNCH: Using Linked Open Data and State-Wide Partnerships for Georgia’s Natural, Cultural, and Historic Organizations’ Disaster Response, 2020 Society of Georgia Archivists Annual Meeting](https://youtu.be/OfZBd1khuho)
-* FORTHCOMING: 2021 Georgia Association of Museums Conference, 2021-01
+* [2021-01-12: GaNCH, Using Linked Open Data to Map Cultural Heritage Organizations in GA for Disaster Response, National Heritage Responders / Alliance for Response webinar](https://www.youtube.com/watch?v=W3oARIl3Qj8)
 
 ## Press Releases
 
