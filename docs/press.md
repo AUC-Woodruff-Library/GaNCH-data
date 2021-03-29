@@ -3,7 +3,7 @@
 Annoucements, press releases, blog posts, publications, and presentations related to the GaNCH project.
 
 ## Publications
-* [Landis, C., Wiseman, C., Smith, A., & Stephens, M. (2021-02-10) GaNCH: Using Linked Open Data for Georgia’s Natural, Cultural and Historic Organizations’ Disaster Response. Code4Lib Journal (50).](https://web.archive.org/web/20210219053702/https://journal.code4lib.org/articles/15576)
+* [Landis, C., Wiseman, C., Smith, A. F., & Stephens, M. (2021-02-10) GaNCH: Using Linked Open Data for Georgia’s Natural, Cultural and Historic Organizations’ Disaster Response. Code4Lib Journal (50).](https://journal.code4lib.org/articles/15576)
 
 ## Presentations
 
