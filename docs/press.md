@@ -17,7 +17,7 @@ Annoucements, press releases, blog posts, publications, and presentations relate
 * [2020-11-09: Where It’s At: Using GIS Tools for Engagement and Outreach at an HBCU Library, 2020 DLF Forum](https://web.archive.org/web/20201203192021/https://forum2020.diglib.org/wp-content/uploads/sites/33/2020/11/DLF-Schedules-DLF-FINAL-11-2.pdf)
 * [2020-11-11: GaNCH: Using Linked Open Data and State-Wide Partnerships for Georgia’s Natural, Cultural, and Historic Organizations’ Disaster Response, 2020 Society of Georgia Archivists Annual Meeting](https://youtu.be/OfZBd1khuho)
 * [2021-01-12: GaNCH, Using Linked Open Data to Map Cultural Heritage Organizations in GA for Disaster Response, National Heritage Responders / Alliance for Response webinar](https://www.youtube.com/watch?v=W3oARIl3Qj8)
-* 2021-04-06: LD4 Wikidata Affinity Group
+* [2021-04-06: LD4 Wikidata Affinity Group](https://docs.google.com/document/d/1zcVtZiMgz4kNEs-yL8vqC4eCholllpQ8whX2pb7qUcI/edit?usp=sharing)
 * 2021-04-26: Georgia Association of Museums and Galleries Annual Meeting
 
 ## Press Releases
