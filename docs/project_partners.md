@@ -26,3 +26,4 @@
 * [2021-07-29 GaNCH Partners Meeting](https://archive.org/details/2021-07-29-ganch-partners-meeting)
 * [2022-03-31 GaNCH Partners Meeting](https://archive.org/details/2022-03-31-ganch-project-partners-meeting)
 * [2023-09-28 GaNCH Partners Meeting](https://archive.org/details/2023-09-28-ganch-project-partners-meeting)
+* [2024-04-15 GaNCH Partners Meeting](https://archive.org/details/2024-04-15_GaNCH_Project_Partners_Meeting)
