@@ -6,7 +6,7 @@
 | ESF-11 Coordinator | Sigourney Stanford |
 | [Georgia Public Library Service (GPLS), Archival Services and Digital Iniatives](https://georgialibraries.org/) | Joshua Kitchens |
 | [Digital Library of Georgia (DLG)](https://dlg.usg.edu/) | Nicole Lawrence, Mandy Mastrovita |
-| [Georgia Association of Museums](https://www.gamuseums.com/)| Marcy Breffle  | 
+| [Georgia Association of Museums](https://www.gamuseums.com/)| Rebecca Bush | 
 | [Georgia Historical Records Advisory Council (GHRAC)](https://www.georgiaarchives.org/ghrac) | Glenda Anderson | 
 | [Performing Arts Readiness](https://performingartsreadiness.org/) | Steve Eberhardt | 
 | [South Arts](https://www.southarts.org/) |  | 
