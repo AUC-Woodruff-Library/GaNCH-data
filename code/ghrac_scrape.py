@@ -1,6 +1,6 @@
 #######################################  
 #  
-# Project Name - GANaCH
+# Project Name - GaNCH
 # File Author(s): Cliff Landis <jlandis@auctr.edu>  
 # License: GPLv3
 # Description / Purpose: Scrape GHRAC database entries and write them to a text file, seperated by a pipe, for processing in Excel into a CSV
