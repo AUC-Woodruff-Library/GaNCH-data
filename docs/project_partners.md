@@ -1,7 +1,6 @@
 ### Project Partners
 | Partner Organization | Contact Person |
 | --- | --- |
-
 | [Georgia Heritage Responders (GHR)](https://www.georgiaheritageresponders.org/) | Tina Seetoo, Christine Wiseman, Erica Hague, Alex McGee | 
 | Georgia Archives, ESF-11 Coordinator | Sigourney Stanford |
 | [Georgia Public Library Service (GPLS), Archival Services and Digital Iniatives](https://georgialibraries.org/) | Joshua Kitchens, Angela Stanley |
