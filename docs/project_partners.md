@@ -12,8 +12,8 @@
 | [Georgia Emergency Management and Homeland Security Agency (GEMA/HS)](https://gema.georgia.gov/) | Venessa Sims | 
 | [Georgia Department of Community Affairs, Historic Preservation Division](https://www.dca.ga.gov/georgia-historic-preservation-division) | Jennifer Flood | 
 | [Georgia Council for the Arts](http://gaarts.org/) | Allen Bell |
-| [Society of Georgia Archivists](https://soga.wildapricot.org/) - Outreach Committee "Hidden Archives" Project | Virginia Blake |
-| [Georgia Historical Society](https://georgiahistory.com/) | Nate Pedersen |
+| [Society of Georgia Archivists](https://soga.wildapricot.org/) - Outreach Committee | Current Committee Chair |
+| [Georgia Historical Society](https://georgiahistory.com/) | Christy Crisp |
 
 ### Project Partners Meeting Recordings
 * [2019-08-29 GaNCH Partners Meeting](https://archive.org/details/2019-08-29_ganch_partners_meeting)
